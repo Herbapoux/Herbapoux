@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d55d4e3f-9379-4f83-b2a9-884d830a470e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JeMePresente_v2/etudes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JeMePresente_v2/loisirs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JeMePresente_v2/reves.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JeMePresente_v2/sports.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JeMePresente_v2/img/Cégep Trois-Rivières.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JeMePresente_v2/img/JeuxDeSociété.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JeMePresente_v2/img/RêvesProfesionnels.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JeMePresente_v2/img/Sports.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente_v2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/etudes.html" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente_v2/etudes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/sports.html" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente_v2/sports.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JeMePresente_v2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+            <state relative-caret-position="165">
+              <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -38,8 +39,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JeMePresente_v2/etudes.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="195">
+              <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JeMePresente/etudes.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="54" lean-forward="true" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -62,11 +72,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JeMePresente_v2/sports.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+            <state relative-caret-position="195">
+              <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JeMePresente/sports.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="105" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="105" />
             </state>
           </provider>
         </entry>
@@ -98,11 +117,11 @@
         <option value="$PROJECT_DIR$/JeMePresente_v2/Index.html" />
         <option value="$PROJECT_DIR$/../Herbapoux_v2/JeMePresente_v2/Index.html" />
         <option value="$PROJECT_DIR$/../Herbapoux_v2/JeMePresente/Index.html" />
-        <option value="$PROJECT_DIR$/JeMePresente_v2/etudes.html" />
         <option value="$PROJECT_DIR$/JeMePresente_v2/loisirs.html" />
         <option value="$PROJECT_DIR$/JeMePresente_v2/reves.html" />
-        <option value="$PROJECT_DIR$/JeMePresente_v2/sports.html" />
         <option value="$PROJECT_DIR$/JeMePresente_v2/index.html" />
+        <option value="$PROJECT_DIR$/JeMePresente_v2/etudes.html" />
+        <option value="$PROJECT_DIR$/JeMePresente_v2/sports.html" />
       </list>
     </option>
   </component>
@@ -210,12 +229,12 @@
       <workItem from="1552002953202" duration="2002000" />
       <workItem from="1552584078762" duration="14000" />
       <workItem from="1552603181821" duration="368000" />
-      <workItem from="1552658752261" duration="6990000" />
+      <workItem from="1552658752261" duration="8108000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15956000" />
+    <option name="totallyTimeSpent" value="17074000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="18" y="-1003" width="1280" height="985" extended-state="0" />
@@ -250,13 +269,6 @@
     <entry file="file://$PROJECT_DIR$/Cours_01/JeMePresente/JeMePresente/loisirs.html" />
     <entry file="file://$PROJECT_DIR$/Cours_01/JeMePresente/JeMePresente/etudes.html" />
     <entry file="file://$PROJECT_DIR$/Cours_01/JeMePresente/JeMePresente/sports.html" />
-    <entry file="file://$PROJECT_DIR$/JeMePresente/etudes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JeMePresente/reves.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -290,20 +302,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresente/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresente_v2/etudes.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JeMePresente_v2/loisirs.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -318,17 +316,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresente_v2/sports.html">
+    <entry file="file://$PROJECT_DIR$/JeMePresente/etudes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="375">
+          <caret line="25" column="54" lean-forward="true" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeMePresente/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="14" lean-forward="true" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JeMePresente_v2/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        <state relative-caret-position="165">
+          <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeMePresente/sports.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="105" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeMePresente_v2/etudes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeMePresente_v2/sports.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
         </state>
       </provider>
     </entry>
