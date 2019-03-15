@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Herbapoux.iml" filepath="$PROJECT_DIR$/.idea/Herbapoux.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Herbapoux_v2/.idea/Herbapoux_v2.iml" filepath="$PROJECT_DIR$/../Herbapoux_v2/.idea/Herbapoux_v2.iml" />
       <module fileurl="file://$PROJECT_DIR$/../JeMePresente_v2/.idea/JeMePresente_v2.iml" filepath="$PROJECT_DIR$/../JeMePresente_v2/.idea/JeMePresente_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/Web1.iml" filepath="$PROJECT_DIR$/../.idea/Web1.iml" />
     </modules>
   </component>
 </project>

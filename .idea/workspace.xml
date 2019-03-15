@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d55d4e3f-9379-4f83-b2a9-884d830a470e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JeMePresente_v2/img/Moi et Canon.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente_v2/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Herbapoux.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Herbapoux.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/Index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/img/Moi et Canon.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,21 +20,21 @@
         <entry file="file://$PROJECT_DIR$/JeMePresente/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+              <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JeMePresente_v2/img/Moi et Canon.jpg">
+        <entry file="file://$PROJECT_DIR$/../Herbapoux_v2/JeMePresente_v2/img/Moi et Canon.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JeMePresente_v2/Index.html">
+        <entry file="file://$PROJECT_DIR$/../Herbapoux_v2/JeMePresente_v2/Index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -84,6 +87,7 @@
         <option value="$PROJECT_DIR$/JeMePresente/CSS/Style.css" />
         <option value="$PROJECT_DIR$/../JeMePresente_v2/JeMePresente_v2/Index.html" />
         <option value="$PROJECT_DIR$/JeMePresente_v2/Index.html" />
+        <option value="$PROJECT_DIR$/../Herbapoux_v2/JeMePresente_v2/Index.html" />
       </list>
     </option>
   </component>
@@ -107,39 +111,29 @@
           <expand>
             <path>
               <item name="Herbapoux" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="~/Desktop/AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
             <path>
               <item name="Herbapoux" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="JeMePresente" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="~/Desktop/AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Herbapoux" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="Herbapoux" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="~/Desktop/AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Herbapoux_v2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Herbapoux" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Desktop/AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Herbapoux_v2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="JeMePresente_v2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Herbapoux" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="JeMePresente_v2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="img" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Herbapoux" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Herbapoux" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -155,6 +149,7 @@
       <recent name="$PROJECT_DIR$/JeMePresente_v2/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Herbapoux_v2" />
       <recent name="$PROJECT_DIR$/../JeMePresente_v2" />
       <recent name="$PROJECT_DIR$/JeMePresente_v2/img" />
       <recent name="$PROJECT_DIR$/Cours_01" />
@@ -191,16 +186,15 @@
       <workItem from="1552002953202" duration="2002000" />
       <workItem from="1552584078762" duration="14000" />
       <workItem from="1552603181821" duration="368000" />
-      <workItem from="1552658752261" duration="5151000" />
+      <workItem from="1552658752261" duration="5440000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14117000" />
+    <option name="totallyTimeSpent" value="14406000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="18" y="-1003" width="1280" height="985" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24232633" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -261,17 +255,17 @@
     <entry file="file://$PROJECT_DIR$/JeMePresente/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+          <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresente_v2/img/Moi et Canon.jpg">
+    <entry file="file://$PROJECT_DIR$/../Herbapoux_v2/JeMePresente_v2/img/Moi et Canon.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresente_v2/Index.html">
+    <entry file="file://$PROJECT_DIR$/../Herbapoux_v2/JeMePresente_v2/Index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
     </entry>

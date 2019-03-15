@@ -5,5 +5,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="JeMePresente_v2" />
+    <orderEntry type="module" module-name="Web1" />
+    <orderEntry type="module" module-name="Herbapoux_v2" />
   </component>
 </module>
