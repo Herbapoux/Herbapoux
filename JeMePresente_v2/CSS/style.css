@@ -32,4 +32,23 @@ h1,h2 {
     text-align: center;
 }
 
+p {
+    font-size: 14px;
+    text-align: justify;
+}
+
+a:link {
+    color: deepskyblue;
+    text-decoration: none;
+}
+
+a:visited {
+    color: darkblue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 
