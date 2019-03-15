@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d55d4e3f-9379-4f83-b2a9-884d830a470e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JeMePresente/CSS/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JeMePresente_v2/img/Moi et Canon.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cours_01/etudes.html" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente/etudes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cours_01/img/Cégep Trois-Rivières.png" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente/img/Cégep Trois-Rivières.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cours_01/img/JeuxDeSociété.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente/img/JeuxDeSociété.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cours_01/img/RêvesProfesionnels.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente/img/RêvesProfesionnels.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cours_01/img/Sports.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente/img/Sports.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cours_01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cours_01/loisirs.html" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente/loisirs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cours_01/reves.html" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente/reves.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Cours_01/sports.html" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente/sports.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente/img/Moi et Canon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente_v2/Index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +17,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JeMePresente/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            <state relative-caret-position="45">
+              <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JeMePresente_v2/img/Moi et Canon.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JeMePresente_v2/Index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -37,7 +42,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JeMePresente/CSS/Style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -61,6 +66,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -77,16 +83,18 @@
         <option value="$PROJECT_DIR$/Cours_01/index.html" />
         <option value="$PROJECT_DIR$/JeMePresente/index.html" />
         <option value="$PROJECT_DIR$/JeMePresente/CSS/Style.css" />
+        <option value="$PROJECT_DIR$/JeMePresente_v2/Index.html" />
       </list>
     </option>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="18" />
+    <option name="y" value="-1003" />
     <option name="width" value="1280" />
-    <option name="height" value="777" />
+    <option name="height" value="985" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -110,7 +118,18 @@
               <item name="Herbapoux" type="b2602c69:ProjectViewProjectNode" />
               <item name="Herbapoux" type="462c0819:PsiDirectoryNode" />
               <item name="JeMePresente" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Herbapoux" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Herbapoux" type="462c0819:PsiDirectoryNode" />
+              <item name="JeMePresente_v2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Herbapoux" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Herbapoux" type="462c0819:PsiDirectoryNode" />
+              <item name="JeMePresente_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -126,7 +145,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JeMePresente_v2/img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JeMePresente_v2/img" />
       <recent name="$PROJECT_DIR$/Cours_01" />
     </key>
   </component>
@@ -161,17 +184,18 @@
       <workItem from="1552002953202" duration="2002000" />
       <workItem from="1552584078762" duration="14000" />
       <workItem from="1552603181821" duration="368000" />
+      <workItem from="1552658752261" duration="1863000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8966000" />
+    <option name="totallyTimeSpent" value="10829000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <frame x="18" y="-1003" width="1280" height="985" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23828755" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24232633" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -207,20 +231,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresente/index.html">
+    <entry file="file://$PROJECT_DIR$/JeMePresente/CSS/Style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JeMePresente/reves.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresente/CSS/Style.css">
+    <entry file="file://$PROJECT_DIR$/JeMePresente/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="45">
+          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeMePresente_v2/img/Moi et Canon.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeMePresente_v2/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
         </state>
       </provider>
     </entry>
