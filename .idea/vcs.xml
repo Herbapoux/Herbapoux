@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Han Solo/Sommatif_01" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/JeMePresente_v2/Herbapoux" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/JeMePresente_v2/JeMePresente_v2" vcs="Git" />
   </component>
