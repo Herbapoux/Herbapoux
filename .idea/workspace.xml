@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d55d4e3f-9379-4f83-b2a9-884d830a470e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JeMePresente_v2/CSS/styleClasses.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JeMePresente_v2/OnePageClasses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JeMePresente_v2/CSS/Font/Exo2Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JeMePresente_v2/CSS/Font/PokemonHollow.ttf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HanSolo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HanSolo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente_v2/CSS/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/CSS/styleClasses.css" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente_v2/CSS/styleClasses.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/OnePageClasses.html" beforeDir="false" afterPath="$PROJECT_DIR$/JeMePresente_v2/OnePageClasses.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,28 +35,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JeMePresente_v2/OnePage.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JeMePresente_v2/OnePageClasses.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1590">
-              <caret line="106" selection-start-line="106" selection-end-line="106" />
+            <state relative-caret-position="208">
+              <caret line="20" column="47" lean-forward="true" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JeMePresente_v2/CSS/styleClasses.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JeMePresente_v2/CSS/styleClasses.css">
+        <entry file="file://$PROJECT_DIR$/../../../../WebExo2Black/stylesheet.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../../../PokemonFontWeb/stylesheet.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -64,13 +73,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JeMePresente_v2/CSS/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
+            <state relative-caret-position="495">
               <caret line="33" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HanSolo/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
@@ -130,9 +139,9 @@
         <option value="$PROJECT_DIR$/JeMePresente_v2/OnePage.html" />
         <option value="$PROJECT_DIR$/JeMePresente_v2/CSS/style.css" />
         <option value="$PROJECT_DIR$/JeMePresente_v2/CSS/img/styleClasses.css" />
-        <option value="$PROJECT_DIR$/JeMePresente_v2/CSS/styleClasses.css" />
-        <option value="$PROJECT_DIR$/JeMePresente_v2/OnePageClasses.html" />
         <option value="$PROJECT_DIR$/HanSolo/index.html" />
+        <option value="$PROJECT_DIR$/JeMePresente_v2/OnePageClasses.html" />
+        <option value="$PROJECT_DIR$/JeMePresente_v2/CSS/styleClasses.css" />
       </list>
     </option>
   </component>
@@ -140,8 +149,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-169" />
-    <option name="y" value="-1057" />
+    <option name="x" value="-173" />
+    <option name="y" value="-1001" />
     <option name="width" value="1239" />
     <option name="height" value="745" />
   </component>
@@ -174,6 +183,13 @@
               <item name="Herbapoux" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="~/Desktop/AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="Herbapoux" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="HanSolo" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="font" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Herbapoux" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Desktop/AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Herbapoux" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="JeMePresente_v2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
@@ -189,7 +205,7 @@
               <item name="Herbapoux" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="JeMePresente_v2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="CSS" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="img" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Font" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -207,11 +223,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JeMePresente_v2/CSS/Font" />
       <recent name="$PROJECT_DIR$/JeMePresente_v2/CSS" />
       <recent name="$PROJECT_DIR$/JeMePresente_v2/CSS/img" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/../Herbapoux_v2" />
-      <recent name="$PROJECT_DIR$/../JeMePresente_v2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/JeMePresente_v2" />
@@ -253,15 +269,15 @@
       <workItem from="1552603181821" duration="368000" />
       <workItem from="1552658752261" duration="22474000" />
       <workItem from="1552741508940" duration="3996000" />
-      <workItem from="1553006069986" duration="3963000" />
+      <workItem from="1553006069986" duration="9982000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39399000" />
+    <option name="totallyTimeSpent" value="45418000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="323" y="-745" width="1239" height="745" extended-state="0" />
+    <frame x="-173" y="-1001" width="1239" height="745" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25730994" />
@@ -409,6 +425,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HanSolo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeMePresente_v2/OnePage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JeMePresente_v2/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -418,36 +448,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JeMePresente_v2/CSS/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
+        <state relative-caret-position="495">
           <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresente_v2/CSS/styleClasses.css">
+    <entry file="file://$PROJECT_DIR$/../../../../PokemonFontWeb/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="75">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresente_v2/OnePage.html">
+    <entry file="file://$PROJECT_DIR$/../../../../WebExo2Black/stylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JeMePresente_v2/OnePageClasses.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1590">
-          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        <state relative-caret-position="208">
+          <caret line="20" column="47" lean-forward="true" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HanSolo/index.html">
+    <entry file="file://$PROJECT_DIR$/JeMePresente_v2/CSS/styleClasses.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="450">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
         </state>
       </provider>
     </entry>
