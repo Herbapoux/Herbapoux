@@ -1,0 +1,15 @@
+#etudes {
+    background-color: lightgray;
+}
+
+span.TexteCarriere {
+    color: red;
+}
+
+span.TexteSport {
+    color: coral;
+}
+
+h2.TexteCarriere {
+    color: deepskyblue;
+}
