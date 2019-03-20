@@ -43,13 +43,13 @@ p {
 }
 
 a {
-    color: deepskyblue;
+    color: red;
     text-decoration: none;
     text-align: center;
 }
 
 a:visited {
-    color: darkblue;
+    color: yellow;
     text-decoration: none;
 }
 

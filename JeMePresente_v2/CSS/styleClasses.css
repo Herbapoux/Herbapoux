@@ -8,14 +8,16 @@
     src: url("Font/Exo2Bold.woff");
 }
 
-#RetourEnHaut {background-color: white;}
+#RetourEnHaut {
+    background-color: white;
+    text-align: center;
+}
 
 #etudes {background-color: lightgray;}
 
 #sports {background-color: beige;}
 
 #loisirs {background-color: salmon;}
-
 
 #reves {background-color: aquamarine;}
 
@@ -29,3 +31,5 @@
 h1 {
     font-family: PokemonPolice;
 }
+
+.lien {color: black}
