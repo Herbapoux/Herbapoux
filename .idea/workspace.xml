@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d55d4e3f-9379-4f83-b2a9-884d830a470e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HanSolo/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/HanSolo/CSS/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HanSolo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HanSolo/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,20 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HanSolo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            <state relative-caret-position="269">
+              <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HanSolo/CSS/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+            <state relative-caret-position="509">
+              <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -43,8 +43,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JeMePresente_v2/CSS/styleClasses.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="30">
+              <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -97,8 +97,8 @@
         <option value="$PROJECT_DIR$/JeMePresente_v2/OnePageClasses.html" />
         <option value="$PROJECT_DIR$/JeMePresente_v2/CSS/style.css" />
         <option value="$PROJECT_DIR$/JeMePresente_v2/index.html" />
-        <option value="$PROJECT_DIR$/HanSolo/index.html" />
         <option value="$PROJECT_DIR$/HanSolo/CSS/style.css" />
+        <option value="$PROJECT_DIR$/HanSolo/index.html" />
       </list>
     </option>
   </component>
@@ -150,6 +150,12 @@
               <item name="HanSolo" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="img" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
+            <path>
+              <item name="Herbapoux" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Desktop/AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Herbapoux" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="JeMePresente_v2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -165,18 +171,18 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/JeMePresente_v2/CSS/Font" />
-      <recent name="$PROJECT_DIR$/JeMePresente_v2/CSS" />
-      <recent name="$PROJECT_DIR$/JeMePresente_v2/CSS/img" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/../Herbapoux_v2" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/JeMePresente_v2" />
       <recent name="$PROJECT_DIR$/JeMePresente_v2/CSS/img" />
       <recent name="$PROJECT_DIR$/JeMePresente_v2/CSS" />
       <recent name="$PROJECT_DIR$/JeMePresente_v2/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HanSolo/img" />
+      <recent name="$PROJECT_DIR$/HanSolo" />
+      <recent name="$PROJECT_DIR$/JeMePresente_v2/CSS/Font" />
+      <recent name="$PROJECT_DIR$/JeMePresente_v2/CSS" />
+      <recent name="$PROJECT_DIR$/JeMePresente_v2/CSS/img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -215,15 +221,16 @@
       <workItem from="1553006069986" duration="10005000" />
       <workItem from="1553024844948" duration="956000" />
       <workItem from="1553099325823" duration="1502000" />
-      <workItem from="1553103511800" duration="5257000" />
+      <workItem from="1553103511800" duration="5871000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53156000" />
+    <option name="totallyTimeSpent" value="53770000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-261" y="-953" width="1584" height="678" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21011673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -405,20 +412,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HanSolo/index.html">
+    <entry file="file://$PROJECT_DIR$/HanSolo/img/etoileMort.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HanSolo/CSS/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        <state relative-caret-position="509">
+          <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HanSolo/img/EtoileMort.jpg">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/JeMePresente_v2/CSS/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JeMePresente_v2/CSS/styleClasses.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -429,17 +443,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresente_v2/CSS/styleClasses.css">
+    <entry file="file://$PROJECT_DIR$/HanSolo/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HanSolo/CSS/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        <state relative-caret-position="269">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
         </state>
       </provider>
     </entry>
