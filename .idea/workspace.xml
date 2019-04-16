@@ -2,167 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d55d4e3f-9379-4f83-b2a9-884d830a470e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Demo/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Demo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Demo/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Demo/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Demo/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Demo/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Demo/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Demo/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Demo/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Demo/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_2/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_2/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_2/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_2/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_2/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_2/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_2/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_2/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_2/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_2/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_2/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_2/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_2/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_2/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_2/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_2/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_2/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_2/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_2/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_2/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_2/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_2/js/jquery-3.3.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_3/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_3/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_3/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_3/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_3/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_3/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_3/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_3/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_3/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_3/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_3/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_3/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_3/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_3/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_3/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_3/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_3/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_3/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_3/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_3/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_3/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_3/js/jquery-3.3.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_4/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_4/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_4/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_4/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_4/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_4/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_4/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_4/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_4/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_4/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_4/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_4/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_4/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_4/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_4/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_4/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_4/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_4/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_4/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_4/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_4/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_4/js/jquery-3.3.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_5/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_5/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_5/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_5/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_5/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_5/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_5/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_5/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_5/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_5/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_5/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_5/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_5/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_5/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_5/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_5/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_5/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_5/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_5/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_5/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_5/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_5/js/jquery-3.3.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_6/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_6/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_6/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_6/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_6/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_6/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_6/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_6/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_6/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_6/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_6/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_6/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_6/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_6/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_6/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_6/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_6/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_6/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_6/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_6/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_6/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_6/js/jquery-3.3.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_7/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_7/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_7/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_7/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_7/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_7/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_7/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_7/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_7/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_7/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_7/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_7/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_7/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_7/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_7/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_7/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_7/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_7/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_7/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_7/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_7/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_7/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bootstrap/Exercice_7/js/jquery-3.3.1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -174,91 +13,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_3/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_4/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_4/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_5/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_5/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_6/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_6/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_7/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="60">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_7/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_1/css/style.css">
+        <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_6/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+              <caret line="17" column="62" lean-forward="true" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -339,6 +106,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -362,13 +130,20 @@
               <item name="~/Desktop/AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="Herbapoux" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="Bootstrap" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Exercice_7" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Exercice_6" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Herbapoux" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Desktop/AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Herbapoux" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Bootstrap" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Exercice_6" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="css" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -435,12 +210,13 @@
       <workItem from="1553697871545" duration="4826000" />
       <workItem from="1553721072284" duration="5893000" />
       <workItem from="1553778235173" duration="1479000" />
-      <workItem from="1553814066868" duration="586000" />
+      <workItem from="1553814066868" duration="1035000" />
+      <workItem from="1555437930404" duration="1725000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67195000" />
+    <option name="totallyTimeSpent" value="69369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
@@ -560,20 +336,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HanSolo/Sommatif_01/.gitattributes" />
-    <entry file="file://$PROJECT_DIR$/../../../../WebExo2Black/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../PokemonFontWeb/stylesheet.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../WebExo2Black/stylesheet.css" />
+    <entry file="file://$PROJECT_DIR$/../../../../PokemonFontWeb/stylesheet.css" />
     <entry file="file://$PROJECT_DIR$/HanSolo/.idea/modules.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -693,27 +457,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_1/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_2/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_3/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -756,10 +499,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_6/css/style.css">
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_1/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="255">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -770,17 +527,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_1/css/style.css">
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_2/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_6/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -788,6 +538,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_6/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_6/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="62" lean-forward="true" selection-start-line="17" selection-start-column="62" selection-end-line="17" selection-end-column="62" />
         </state>
       </provider>
     </entry>
