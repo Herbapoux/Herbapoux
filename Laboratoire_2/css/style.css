@@ -4,20 +4,6 @@ html, body{
     font-size: 16px;
 }
 
-.parallax{
-    background-image: url("../img/Bureau.jpeg");
-    height: 500px;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-
-.carreJaune{
-    background-color: rgba(224,217,29,.5);
-}
-
 h1{
     text-transform: uppercase;
     font-weight: bold;
@@ -33,23 +19,51 @@ h2{
 h3{
     text-transform: uppercase;
     font-weight: bold;
-    font-sizet: 1.5rem;
+    font-size: 1.5rem;
 }
 
-.h-100{
-    height: 100%;
+h4{
+   text-transform: uppercase;
+    font-weight: bold;
 }
 
-.h-75{
-    height: 75%;
-}
-
-.h-25{
-    height: 25%;
-}
 
 .bg{
     background-color: rgba(220,220,220,.5);
+}
+
+.bgBleu{
+    background-color: rgb(30, 161, 189);
+    padding: 50px;
+}
+
+.bgOr{
+    background-color: rgb(201, 188, 133);
+    padding: 50px;
+}
+
+.bgVert{
+    background-color: rgb(51, 181, 115);
+    padding: 50px;
+}
+
+.btn{
+    border-radius: 0.38em;
+    font-size: 1em;
+    color: white;
+    text-transform: uppercase;
+    background-color: #e84819;
+    box-shadow: 0em 0.15em 0.65em 0em rgba(0,0,0,0.25)
+}
+
+.btnBas{
+    border-radius: 0.38em;
+    background-color: white;
+    padding: 8px;
+}
+
+.carreJaune{
+    background-color: rgba(224,217,29,.5);
 }
 
 .espaceBas{
@@ -68,10 +82,66 @@ h3{
     color: #e84819;
 }
 
-.btn{
-    border-radius: 0.35em;
-    font-size: 1em;
-    text-transform: uppercase;
-    background-color: #e84819;
-    box-shadow: 0em 0.15em 0.65em 0em rgba(0,0,0,0.25)
+.fontColor{
+    color: white;
+}
+
+.h-100{
+    height: 100%;
+}
+
+.h-75{
+    height: 75%;
+}
+
+.h-25{
+    height: 25%;
+}
+.h-576p{
+    height: 576px;
+}
+
+.heigh{
+    height: 450px;
+}
+
+.interligne{
+    line-height: normal;
+}
+
+.lineheigh{
+    line-height: 1.4rem;
+}
+
+.marge{
+    margin-bottom: 1.5em;
+}
+
+.padBas{
+    padding-bottom: 55px;
+}
+
+.parallax{
+    background-image: url("../img/Photo1.jpg");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax2{
+    background-image: url("../img/Photo3.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.parallax3{
+    background-image: url("../img/Photo4.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
