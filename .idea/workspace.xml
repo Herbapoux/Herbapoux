@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d55d4e3f-9379-4f83-b2a9-884d830a470e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Laboratoire_2/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Laboratoire_2/css/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Laboratoire_2/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="21" column="64" lean-forward="true" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+              <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -26,11 +26,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Laboratoire_2/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="87" column="25" lean-forward="true" selection-start-line="87" selection-start-column="25" selection-end-line="87" selection-end-column="25" />
+            <state relative-caret-position="539">
+              <caret line="117" column="20" selection-start-line="117" selection-start-column="20" selection-end-line="117" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -100,8 +100,8 @@
         <option value="$PROJECT_DIR$/Facebook_exercice/css/style.css" />
         <option value="$PROJECT_DIR$/Facebook_exercice/index.html" />
         <option value="$PROJECT_DIR$/Parallax_Background/index.html" />
-        <option value="$PROJECT_DIR$/Laboratoire_2/css/style.css" />
         <option value="$PROJECT_DIR$/Laboratoire_2/index.html" />
+        <option value="$PROJECT_DIR$/Laboratoire_2/css/style.css" />
       </list>
     </option>
   </component>
@@ -137,13 +137,6 @@
               <item name="~/Desktop/AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="Herbapoux" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="Bootstrap" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Herbapoux" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Desktop/AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Herbapoux" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Bootstrap" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Exercice_site_2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="Herbapoux" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
@@ -249,11 +242,12 @@
       <workItem from="1556730806504" duration="6884000" />
       <workItem from="1556803161845" duration="13099000" />
       <workItem from="1556838452305" duration="3357000" />
+      <workItem from="1556885974936" duration="54000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="141256000" />
+    <option name="totallyTimeSpent" value="141310000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
@@ -302,8 +296,8 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap.css.map">
-      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Bootstrap/Demo/img/Homer.jpg">
       <provider selected="true" editor-type-id="images" />
@@ -324,8 +318,8 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap-grid.min.css.map">
-      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_3/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -536,20 +530,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Laboratoire_2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Laboratoire_2/css/bootstrap-reboot.min.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Laboratoire_2/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="87" column="25" lean-forward="true" selection-start-line="87" selection-start-column="25" selection-end-line="87" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Laboratoire_2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="64" lean-forward="true" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+        <state relative-caret-position="539">
+          <caret line="117" column="20" selection-start-line="117" selection-start-column="20" selection-end-line="117" selection-end-column="20" />
         </state>
       </provider>
     </entry>
