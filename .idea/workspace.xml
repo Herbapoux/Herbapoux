@@ -2,42 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d55d4e3f-9379-4f83-b2a9-884d830a470e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook_exercice/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/img/Bureau.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/img/Bureau.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/img/Cash.png" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/img/Cash.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/img/Etudiant.png" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/img/Etudiant.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/img/Interrogation.png" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/img/Interrogation.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/img/John.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/img/John.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/img/MoiEtCanon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/img/MoiEtCanon.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/img/Paris.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/img/Paris.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/img/Photo1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/img/Photo1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/img/Photo2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/img/Photo2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/img/Photo3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/img/Photo3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/img/Photo4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/img/Photo4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/img/PhotoCover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/img/PhotoCover.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Laboratoire_2/js/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Examen_2_Parallax/js/jquery-3.3.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/img/Bureau.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/img/Cash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/img/Etudiant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/img/Interrogation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/img/John.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/img/MoiEtCanon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/img/Paris.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/img/Photo1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/img/Photo2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/img/Photo3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/img/Photo4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/img/PhotoCover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercice_Parallax_Video/js/jquery-3.3.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,11 +47,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Examen_2_Parallax/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-345">
-              <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
+            <state relative-caret-position="-544">
+              <caret line="11" selection-start-line="11" selection-end-line="95" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercice_Parallax_Video/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercice_Parallax_Video/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -64,8 +82,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Examen_2_Parallax/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1259">
-              <caret line="128" column="22" selection-start-line="128" selection-start-column="22" selection-end-line="128" selection-end-column="22" />
+            <state relative-caret-position="170">
+              <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -86,8 +104,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Cours_01/index.html" />
-        <option value="$PROJECT_DIR$/JeMePresente/index.html" />
         <option value="$PROJECT_DIR$/JeMePresente/CSS/Style.css" />
         <option value="$PROJECT_DIR$/../JeMePresente_v2/JeMePresente_v2/Index.html" />
         <option value="$PROJECT_DIR$/JeMePresente_v2/Index.html" />
@@ -137,6 +153,8 @@
         <option value="$PROJECT_DIR$/Parallax_Background/index.html" />
         <option value="$PROJECT_DIR$/Laboratoire_2/index.html" />
         <option value="$PROJECT_DIR$/Laboratoire_2/css/style.css" />
+        <option value="$PROJECT_DIR$/Exercice_Parallax_Video/index.html" />
+        <option value="$PROJECT_DIR$/Exercice_Parallax_Video/css/style.css" />
       </list>
     </option>
   </component>
@@ -154,7 +172,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -179,10 +196,31 @@
               <item name="Herbapoux" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="Examen_2_Parallax" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
+            <path>
+              <item name="Herbapoux" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Desktop/AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Herbapoux" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Examen_2_Parallax" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="css" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Herbapoux" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Desktop/AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Herbapoux" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Exercice_Parallax_Video" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Herbapoux" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Desktop/AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Herbapoux" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Exercice_Parallax_Video" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="css" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -194,19 +232,19 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Facebook_exercice/img" />
-      <recent name="$PROJECT_DIR$/Parallax_Background" />
-      <recent name="$PROJECT_DIR$/Facebook_exercice" />
-      <recent name="$PROJECT_DIR$/Bootstrap/Exercice_site_2" />
-      <recent name="$PROJECT_DIR$/Bootstrap/Excercie_site" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Laboratoire_2/img" />
       <recent name="$PROJECT_DIR$/Facebook_exercice/img" />
       <recent name="$PROJECT_DIR$/Bootstrap" />
       <recent name="$PROJECT_DIR$/Bootstrap/Bootstrap_demo" />
-      <recent name="$PROJECT_DIR$/Bootstrap_exercice_1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Exercice_Parallax_Video" />
+      <recent name="$PROJECT_DIR$/Facebook_exercice/img" />
+      <recent name="$PROJECT_DIR$/Parallax_Background" />
+      <recent name="$PROJECT_DIR$/Facebook_exercice" />
+      <recent name="$PROJECT_DIR$/Bootstrap/Exercice_site_2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -263,15 +301,17 @@
       <workItem from="1556730806504" duration="6884000" />
       <workItem from="1556803161845" duration="13099000" />
       <workItem from="1556838452305" duration="3357000" />
-      <workItem from="1556885974936" duration="2644000" />
+      <workItem from="1556885974936" duration="2795000" />
+      <workItem from="1557165952298" duration="1501000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143900000" />
+    <option name="totallyTimeSpent" value="145552000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18671875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -298,26 +338,12 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JeMePresente_v2/CSS/styleClasses.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JeMePresente_v2/CSS/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap.css.map">
-      <provider editor-type-id="sourcemapFileViewerProvider" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Bootstrap/Demo/img/Homer.jpg">
       <provider selected="true" editor-type-id="images" />
@@ -338,8 +364,8 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap-grid.min.css.map">
-      <provider editor-type-id="sourcemapFileViewerProvider" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_3/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -553,17 +579,31 @@
     <entry file="file://$PROJECT_DIR$/Examen_2_Parallax/css/bootstrap-reboot.min.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Examen_2_Parallax/css/style.css">
+    <entry file="file://$PROJECT_DIR$/Examen_2_Parallax/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1259">
-          <caret line="128" column="22" selection-start-line="128" selection-start-column="22" selection-end-line="128" selection-end-column="22" />
+        <state relative-caret-position="-544">
+          <caret line="11" selection-start-line="11" selection-end-line="95" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Examen_2_Parallax/index.html">
+    <entry file="file://$PROJECT_DIR$/Examen_2_Parallax/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-345">
-          <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
+        <state relative-caret-position="170">
+          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercice_Parallax_Video/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercice_Parallax_Video/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
