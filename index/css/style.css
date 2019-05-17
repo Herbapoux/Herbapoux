@@ -7,14 +7,13 @@ html, body{
 h1{
     text-transform: uppercase;
     font-weight: bold;
-    font-size: 2.5rem;
     color: white;
+    font-size: 2.4rem;
 }
 
 h2{
     color: rgb(200,16,46);
     font-size: 2.5rem;
-
 }
 
 .bgBeige{
@@ -29,6 +28,18 @@ h2{
     color: rgb(200,16,46);
 }
 
+.fontColor{
+    color: white;
+}
+
+.GrosTitre {
+    font-size: 5rem;
+}
+
+.h-576p{
+    height: 576px;
+}
+
 .imageRonde{
     width: 50%;
     margin: 0 auto;
@@ -39,6 +50,22 @@ h2{
 .parallax{
     background-image: url("../img/Cover.jpg");
     height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax2 {
+    background-image: url("../img/Photo3.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.parallax3{
+    background-image: url("../img/Photo4.jpg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
