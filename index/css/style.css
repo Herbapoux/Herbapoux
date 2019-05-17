@@ -1,0 +1,46 @@
+html, body{
+    margin: 0;
+    height: 100%;
+    font-size: 16px;
+}
+
+h1{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 2.5rem;
+    color: white;
+}
+
+h2{
+    color: rgb(200,16,46);
+    font-size: 2.5rem;
+
+}
+
+.bgBeige{
+    background-color: rgba(247,227,200,.3);
+}
+
+.bgGris{
+    background-color: rgba(212,211,211,.3);
+}
+
+.fa-li{
+    color: rgb(200,16,46);
+}
+
+.imageRonde{
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 50%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.parallax{
+    background-image: url("../img/Cover.jpg");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
