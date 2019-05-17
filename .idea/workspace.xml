@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d55d4e3f-9379-4f83-b2a9-884d830a470e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/index/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="d55d4e3f-9379-4f83-b2a9-884d830a470e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +13,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
+            <state relative-caret-position="322">
               <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
             </state>
           </provider>
@@ -286,16 +283,15 @@
       <workItem from="1558036230793" duration="1120000" />
       <workItem from="1558045967680" duration="1560000" />
       <workItem from="1558093238416" duration="15000000" />
-      <workItem from="1558116334105" duration="4878000" />
+      <workItem from="1558116334105" duration="5095000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171784000" />
+    <option name="totallyTimeSpent" value="172001000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18671875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -576,7 +572,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
+        <state relative-caret-position="322">
           <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
         </state>
       </provider>
