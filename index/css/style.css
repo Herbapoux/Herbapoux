@@ -16,8 +16,11 @@ h2{
     font-size: 2.5rem;
 }
 
-.bgBeige{
-    background-color: rgba(247,227,200,.3);
+.bgRouge{
+    background-color: rgb(200,16,46);
+}
+.bgBlanc{
+    background-color: white;
 }
 
 .bgGris{
@@ -34,6 +37,8 @@ h2{
 
 .GrosTitre {
     font-size: 5rem;
+    line-height: .9;
+    color: white;
 }
 
 .h-576p{
