@@ -16,6 +16,10 @@ h2{
     font-size: 2.5rem;
 }
 
+.bg-menu{
+    background: rgba(0,0,0,0.7);
+}
+
 .bgRouge{
     background-color: rgb(200,16,46);
 }
@@ -51,8 +55,34 @@ h2{
     width: 20%;
     margin: 0 auto;
     border-radius: 50%;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
 }
+.imageRondeMenu{
+    width: 5%;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+#mosaique1{
+    background-image: url("../img/Bureau.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
+
+.mosaiqueTitre{
+    background: rgba(0,0,0,0.8);
+    font-size: 2rem;
+    color: white;
+    opacity: 0;
+    height: 300px;
+}
+
+.mosaiqueTitre:hover{
+    opacity: 1
+}
+
+
 
 .parallax{
     background-image: url("../img/Cover.jpg");
