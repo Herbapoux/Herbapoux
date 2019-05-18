@@ -23,10 +23,6 @@ h2{
     background-color: white;
 }
 
-.bgGris{
-    background-color: rgba(212,211,211,.3);
-}
-
 .fa-li{
     color: rgb(200,16,46);
 }
@@ -41,12 +37,18 @@ h2{
     color: white;
 }
 
+.GrosTitreR {
+    font-size: 5rem;
+    line-height: .9;
+    color: rgb(200,16,46);
+}
+
 .h-576{
     height: 576px;
 }
 
-.imageRonde{
-    width: 50%;
+.imageRonde {
+    width: 20%;
     margin: 0 auto;
     border-radius: 50%;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
