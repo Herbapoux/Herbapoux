@@ -9,12 +9,13 @@ h1{
     text-transform: uppercase;
     font-weight: bold;
     color: white;
-    font-size: 2.4rem;
+    font-size: 5rem;
+    line-height: .9;
 }
 
 h2{
     color: rgb(200,16,46);
-    font-size: 2.5rem;
+    font-size: 4rem;
 }
 
 @font-face {
@@ -27,35 +28,31 @@ h2{
     background: rgba(0,0,0,0.7);
 }
 
-.bgRouge{
-    background-color: rgb(200,16,46);
+.bgGris{
+    background-color: rgba(212,212,212,.3);
 }
 .bgBlanc{
     background-color: white;
 }
 
-.carreRouge{
-    background-color: rgba(200,16,46,.5);
+.btn{
+    border-radius: 0.38em;
+    font-size: 1em;
+    color: white;
+    background-color: rgb(200,16,46);
+    box-shadow: 0em 0.15em 0.65em 0em rgba(0,0,0,0.25)
+}
+
+.carreG{
+    background-color: rgba(212,212,212,.8);
 }
 
 .fa-li{
     color: rgb(200,16,46);
 }
 
-.fontColor{
-    color: white;
-}
-
-.GrosTitre {
-    font-size: 5rem;
-    line-height: .9;
-    color: white;
-}
-
-.GrosTitreR {
-    font-size: 5rem;
-    line-height: .9;
-    color: rgb(200,16,46);
+.h-65{
+    height: 65%
 }
 
 .h-400{
@@ -117,6 +114,14 @@ h2{
     height: 300px;
 }
 
+#mosaique6{
+    background-image: url("../img/Affiche.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
+
 .mosaiqueTitre{
     background: rgba(0,0,0,0.8);
     font-size: 2rem;
@@ -138,9 +143,9 @@ h2{
     background-size: cover;
 }
 
-.parallax2 {
+.parallax2{
     background-image: url("../img/Cegep.jpg");
-    height: 576px;
+    height: 65%;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
