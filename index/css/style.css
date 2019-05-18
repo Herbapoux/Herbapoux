@@ -2,6 +2,7 @@ html, body{
     margin: 0;
     height: 100%;
     font-size: 16px;
+    font-family: Lato;
 }
 
 h1{
@@ -16,6 +17,12 @@ h2{
     font-size: 2.5rem;
 }
 
+@font-face {
+    font-family: 'Lato';
+    src: url("../Font/Lato-Regular.ttf");
+
+}
+
 .bg-menu{
     background: rgba(0,0,0,0.7);
 }
@@ -25,6 +32,10 @@ h2{
 }
 .bgBlanc{
     background-color: white;
+}
+
+.carreRouge{
+    background-color: rgba(200,16,46,.5);
 }
 
 .fa-li{
@@ -51,6 +62,10 @@ h2{
     height: 400px;
 }
 
+.h-576{
+    height: 576px;
+}
+
 .imageRonde {
     width: 20%;
     margin: 0 auto;
@@ -63,7 +78,39 @@ h2{
 }
 
 #mosaique1{
-    background-image: url("../img/Bureau.jpeg");
+    background-image: url("../img/Cartes.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
+
+#mosaique2{
+    background-image: url("../img/Kiosque.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
+
+#mosaique3{
+    background-image: url("../img/Jardins.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
+
+#mosaique4{
+    background-image: url("../img/LaBiscornue.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
+
+#mosaique5{
+    background-image: url("../img/Zoom.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -82,8 +129,6 @@ h2{
     opacity: 1
 }
 
-
-
 .parallax{
     background-image: url("../img/Cover.jpg");
     height: 100%;
@@ -94,18 +139,11 @@ h2{
 }
 
 .parallax2 {
-    background-image: url("../img/Cover.jpg");
+    background-image: url("../img/Cegep.jpg");
+    height: 576px;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
-}
-
-.parallax3{
-    background-image: url("../img/Photo4.jpg");
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
     background-size: cover;
 }
 
