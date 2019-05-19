@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d55d4e3f-9379-4f83-b2a9-884d830a470e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index/Font/Lato-Bold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/index/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index/index.html" afterDir="false" />
     </list>
@@ -16,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="94" column="42" selection-start-line="94" selection-start-column="42" selection-end-line="94" selection-end-column="42" />
+            <state relative-caret-position="315">
+              <caret line="160" column="76" lean-forward="true" selection-start-line="160" selection-start-column="76" selection-end-line="160" selection-end-column="76" />
             </state>
           </provider>
         </entry>
@@ -25,8 +27,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="618">
-              <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+            <state relative-caret-position="274">
+              <caret line="120" column="1" selection-start-line="120" selection-start-column="1" selection-end-line="120" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -267,19 +269,19 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/index/Font" />
+      <recent name="$PROJECT_DIR$/index/img" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Laboratoire_2/img" />
+      <recent name="$PROJECT_DIR$/Facebook_exercice/img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/index/img" />
       <recent name="$PROJECT_DIR$/index" />
       <recent name="$PROJECT_DIR$/Exercice_Parallax_Video" />
       <recent name="$PROJECT_DIR$/Facebook_exercice/img" />
       <recent name="$PROJECT_DIR$/Parallax_Background" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/index/img" />
-      <recent name="$PROJECT_DIR$/index/Font" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Laboratoire_2/img" />
-      <recent name="$PROJECT_DIR$/Facebook_exercice/img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -346,12 +348,12 @@
       <workItem from="1558116334105" duration="11417000" />
       <workItem from="1558186289091" duration="15425000" />
       <workItem from="1558209001746" duration="6210000" />
-      <workItem from="1558272821355" duration="9325000" />
+      <workItem from="1558272821355" duration="13136000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="209283000" />
+    <option name="totallyTimeSpent" value="213094000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -621,15 +623,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="618">
-          <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+        <state relative-caret-position="274">
+          <caret line="120" column="1" selection-start-line="120" selection-start-column="1" selection-end-line="120" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="94" column="42" selection-start-line="94" selection-start-column="42" selection-end-line="94" selection-end-column="42" />
+        <state relative-caret-position="315">
+          <caret line="160" column="76" lean-forward="true" selection-start-line="160" selection-start-column="76" selection-end-line="160" selection-end-column="76" />
         </state>
       </provider>
     </entry>
