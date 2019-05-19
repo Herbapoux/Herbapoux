@@ -9,13 +9,19 @@ h1{
     text-transform: uppercase;
     font-weight: bold;
     color: white;
-    font-size: 5rem;
+    font-size: 4rem;
     line-height: .9;
 }
 
 h2{
     color: rgb(200,16,46);
     font-size: 4rem;
+}
+
+hr{
+    max-width: 100%;
+    border-width: 1px;
+    border-color: rgb(200,16,46);
 }
 
 @font-face {
@@ -48,6 +54,10 @@ h2{
 }
 
 .fa-li{
+    color: rgb(200,16,46);
+}
+
+.fas{
     color: rgb(200,16,46);
 }
 
@@ -145,13 +155,8 @@ h2{
 
 .parallax2{
     background-image: url("../img/Cegep.jpg");
-    height: 65%;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-}
-
-.pBlanc{
-    color: white;
 }

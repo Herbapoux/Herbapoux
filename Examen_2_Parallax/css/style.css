@@ -121,6 +121,14 @@ h4{
     background-size: cover;
 }
 
+.section-title{
+    display: block;
+    width: 100%;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+
 @media screen and (max-width: 600px){
     h1, h2{
         font-size: 2.2rem;
