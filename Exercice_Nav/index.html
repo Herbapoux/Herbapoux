@@ -1,49 +1,77 @@
 <!DOCTYPE html>
 <html lang="fr-ca">
 <head>
-    <title>Travail final</title>
+    <title>Exercice_Nav</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta charset="UTF-8">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <link rel="stylesheet" href="css/style.css">
+
+    <link rel="icon" type="image/png" href="img/Logo.jpg" />
+
 </head>
 
 <body>
 
 <!-- Barre de navigation -->
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="#">Navbar</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
-            aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+<nav class="navbar navbar-expand-lg fixed-top">
+    <a class="navbar-brand" href="#">
+        <img src="img/Logo.jpg" class="imageRondeMenu">
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-        <div class="navbar-nav">
-            <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
-            <a class="nav-item nav-link" href="#">Features</a>
-            <a class="nav-item nav-link" href="#">Pricing</a>
-            <a class="nav-item nav-link disabled" href="#">Disabled</a>
-        </div>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav">
+            <li class="nav-item active">
+                <a class="nav-link" href="#Accueil">Accueil<span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#Qui">Qui suis-je?</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#etudes">Mes études</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#contact">Me contacter</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#projet">Mes projets</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#projets" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                   Mes projets
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    <a class="dropdown-item" href="#carte">Cartes</a>
+                    <a class="dropdown-item" href="#logo">Logo</a>
+                    <a class="dropdown-item" href="#depliant">Dépliant</a>
+                    <a class="dropdown-item" href="#idmarque">Image de marque</a>
+                </div>
+            </li>
+        </ul>
     </div>
 </nav>
 
-<!-- home -->
 
-<div id="Accueil" class="container-fluid parallax h-100">
+
+<!-- Accueil -->
+
+<section id="Accueil" class="container-fluid parallax h-100">
     <div class="row h-100 text-center align-items-center">
         <div class="col-xl-4 col-md-6 col-12 text-md-right">
             <h1>Yannick<br>Poulin</h1>
             <h2>Graphiste</h2>
-            <img class="imageRonde pt-2" src="img/Profil.jpg" alt="Mon logo" title="Mon logo">
+            <img class="imageRonde pt-2" src="img/Logo.jpg" alt="Mon logo" title="Mon logo">
         </div>
     </div>
-</div>
+</section>
 
 <!-- Section 2 Qui suis-je?-->
 
-<div id="Qui" class="container-fluid bgGris p-5">
+<section id="Qui" class="container-fluid bgGris p-5">
     <div class="row d-flex flex-wrap align-content-center">
         <div class="col-xl-12 mt-5 mb-5">
             <div class="container d-flex flex-wrap align-content-center">
@@ -78,13 +106,13 @@
             </div>
         </div>
     </div>
-</div>
+</section>
 
 <!-- Section 3 mes etudes -->
 
-<div id="etudes" class="container-fluid parallax2 h-576">
+<section id="etudes" class="container-fluid parallax2 h-576">
     <div class="row h-576 text-center">
-        <div class="col-12 offset-sm-2 col-sm-8 offset-md-6 col-md-6 offset-xl-7 col-xl-3 carreG text-md-left justify-content-center d-flex flex-wrap align-content-center">
+            <div class="col-12 offset-sm-2 col-sm-8 offset-md-6 col-md-6 offset-xl-7 col-xl-3 carreG text-md-left justify-content-center d-flex flex-wrap align-content-center">
                 <h2>Mes études</h2>
                 <p>Mes études collégiales ont principalement été fait en formation continue au Cégep de Trois-Rivières.</p>
                 <ul class="fa-ul pl-0 mr-5">
@@ -95,13 +123,13 @@
                 <a href="https://formation-mauricie.ca/" target="_blank">
                     <button type="button" class="btn">Formation continue</button>
                 </a>
+            </div>
         </div>
-    </div>
-</div>
+</section>
 
 <!-- section 4 Me contacter -->
 
-<div id="contact" class="container-fluid bgGris pt-5 pb-5 p-0">
+<section id="contact" class="container-fluid bgGris pt-5 pb-5 p-0">
     <div class="row d-flex flex-wrap align-content-center">
         <div class="col-xl-12 mt-5 mb-5">
             <div class="container align-items-center">
@@ -120,7 +148,7 @@
                         <h3>Adresse</h3>
                         <p>1234 St-Denis, Montréal (Qc)</p>
                     </div>
-                    <div class="col-xl-4 col-md-4 col-12 pl-2 pr-2 pb-2">
+                    <div class="col-xl-4 col-md-4 col-12 p-2">
                         <i class="fas fa-envelope fa-3x pb-2"></i>
                         <h3>Mail</h3>
                         <p>Awsome@gmail.com</p>
@@ -129,14 +157,14 @@
             </div>
         </div>
     </div>
-</div>
+</section>
 
 <!-- Section 5 Mes projets-->
 
-<div id="projet" class="container-fluid p-0 bgGris">
+<section id="projet" class="container-fluid p-0 bgGris">
     <div class="row no-gutters align-items-center">
         <div class="col-xl-4 col-md-6 col-12 text-center">
-                <h2>Mes projets</h2>
+            <h2>Mes projets</h2>
         </div>
         <div class="col-xl-4 col-md-6 col-12">
             <div id="mosaique1">
@@ -174,9 +202,10 @@
             </div>
         </div>
     </div>
-</div>
+</section>
 
 <script src="js/jquery-3.3.1.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
 <script src="js/bootstrap.js"></script>
 </body>
 

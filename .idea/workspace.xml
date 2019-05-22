@@ -2,53 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d55d4e3f-9379-4f83-b2a9-884d830a470e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/Font/Lato-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/Font/Lato-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/img/Affiche.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/img/Bureau.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/img/Cartes.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/img/Cash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/img/Cegep.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/img/Cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/img/Etudiant.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/img/Interrogation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/img/Jardins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/img/John.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/img/Kiosque.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/img/LaBiscornue.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/img/MoiEtCanon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/img/Paris.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/img/Photo1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/img/Photo2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/img/Photo3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/img/Photo4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/img/PhotoCover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/img/Profil.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/img/Zoom.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice_Nav/js/jquery-3.3.1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercice_Nav/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Exercice_Nav/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercice_Nav/img/John.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercice_Nav/img/PhotoCover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercice_Nav/img/Profil.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Exercice_Nav/img/Logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercice_Nav/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Exercice_Nav/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,8 +20,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+            <state relative-caret-position="1860">
+              <caret line="124" column="42" lean-forward="true" selection-start-line="124" selection-start-column="42" selection-end-line="124" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -79,17 +38,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Exercice_Nav/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HanSolo/index.html">
+        <entry file="file://$PROJECT_DIR$/Exercice_Nav/img/Logo.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercice_Nav/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="629">
+              <caret line="293" column="1" selection-start-line="293" selection-start-column="1" selection-end-line="293" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -97,8 +61,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1800">
-              <caret line="120" column="1" selection-start-line="120" selection-start-column="1" selection-end-line="120" selection-end-column="1" />
+            <state relative-caret-position="315">
+              <caret line="76" column="15" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -155,7 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JeMePresente_v2/reves.html" />
         <option value="$PROJECT_DIR$/JeMePresente/etudes.html" />
         <option value="$PROJECT_DIR$/JeMePresente_v2/etudes.html" />
         <option value="$PROJECT_DIR$/JeMePresente_v2/loisirs.html" />
@@ -205,6 +168,7 @@
         <option value="$PROJECT_DIR$/Examen_2_Parallax/index.html" />
         <option value="$PROJECT_DIR$/index/css/style.css" />
         <option value="$PROJECT_DIR$/index/index.html" />
+        <option value="$PROJECT_DIR$/Exercice_Nav/css/style.css" />
         <option value="$PROJECT_DIR$/Exercice_Nav/index.html" />
       </list>
     </option>
@@ -241,6 +205,33 @@
               <item name="Herbapoux" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="Exercice_Nav" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
+            <path>
+              <item name="Herbapoux" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Desktop/AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Herbapoux" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Exercice_Nav" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="css" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Herbapoux" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Desktop/AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Herbapoux" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Exercice_Nav" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="img" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Herbapoux" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Desktop/AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Herbapoux" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="index" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Herbapoux" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Desktop/AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Herbapoux" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="index" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="css" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -254,7 +245,7 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -338,12 +329,12 @@
       <workItem from="1558209001746" duration="6210000" />
       <workItem from="1558272821355" duration="14798000" />
       <workItem from="1558481278787" duration="119000" />
-      <workItem from="1558539316023" duration="1475000" />
+      <workItem from="1558539316023" duration="5642000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="216350000" />
+    <option name="totallyTimeSpent" value="220517000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -374,40 +365,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_2/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bootstrap/Demo_2/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_6/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_6/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bootstrap/Demo/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bootstrap/Demo_2/css/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Bootstrap/Exercice_site/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -562,24 +519,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HanSolo/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
           <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1800">
-          <caret line="120" column="1" selection-start-line="120" selection-start-column="1" selection-end-line="120" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -618,10 +561,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Exercice_Nav/img/Cartes.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercice_Nav/img/John.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercice_Nav/img/MoiEtCanon.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercice_Nav/img/PhotoCover.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1860">
+          <caret line="124" column="42" lean-forward="true" selection-start-line="124" selection-start-column="42" selection-end-line="124" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="76" column="15" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercice_Nav/img/Logo.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercice_Nav/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="293" column="1" selection-start-line="293" selection-start-column="1" selection-end-line="293" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exercice_Nav/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
