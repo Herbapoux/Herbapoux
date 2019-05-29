@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d55d4e3f-9379-4f83-b2a9-884d830a470e" name="Default Changelist" comment="" />
+    <list default="true" id="d55d4e3f-9379-4f83-b2a9-884d830a470e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/TIIW2/Formulaires/FormulaireEnvoye.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Formulaires/FormulaireEnvoye.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,20 +30,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TIIW2/Formulaires/FormulaireEnvoye.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-end-line="23" selection-end-column="7" />
+            <state relative-caret-position="225">
+              <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TIIW2/Formulaires/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="61" column="45" lean-forward="true" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="45" />
+            <state relative-caret-position="451">
+              <caret line="60" column="3" selection-start-line="60" selection-start-column="3" selection-end-line="64" />
             </state>
           </provider>
         </entry>
@@ -128,9 +130,9 @@
         <option value="$PROJECT_DIR$/TIIW2/Exercice_Nav/css/style.css" />
         <option value="$PROJECT_DIR$/TIIW1/index/index.html" />
         <option value="$PROJECT_DIR$/TIIW2/Exercice_Nav/index.html" />
-        <option value="$PROJECT_DIR$/TIIW2/Formulaires/FormulaireEnvoye.html" />
         <option value="$PROJECT_DIR$/TIIW2/Formulaires/css/style.css" />
         <option value="$PROJECT_DIR$/TIIW2/Formulaires/index.html" />
+        <option value="$PROJECT_DIR$/TIIW2/Formulaires/FormulaireEnvoye.html" />
       </list>
     </option>
   </component>
@@ -173,14 +175,6 @@
               <item name="Herbapoux" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="TIIW2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="Formulaires" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Herbapoux" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Desktop/AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Herbapoux" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="TIIW2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Formulaires" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="css" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -282,12 +276,12 @@
       <workItem from="1558539316023" duration="5693000" />
       <workItem from="1558716790753" duration="1956000" />
       <workItem from="1558974330600" duration="5640000" />
-      <workItem from="1559079439974" duration="6115000" />
+      <workItem from="1559079439974" duration="6355000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="234279000" />
+    <option name="totallyTimeSpent" value="234519000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="23" width="1280" height="777" extended-state="6" />
@@ -543,17 +537,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TIIW2/Formulaires/FormulaireEnvoye.html">
+    <entry file="file://$PROJECT_DIR$/TIIW2/Formulaires/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-end-line="23" selection-end-column="7" />
+        <state relative-caret-position="451">
+          <caret line="60" column="3" selection-start-line="60" selection-start-column="3" selection-end-line="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TIIW2/Formulaires/index.html">
+    <entry file="file://$PROJECT_DIR$/TIIW2/Formulaires/FormulaireEnvoye.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="61" column="45" lean-forward="true" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="45" />
+        <state relative-caret-position="225">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
         </state>
       </provider>
     </entry>
