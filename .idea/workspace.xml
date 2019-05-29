@@ -1,544 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d55d4e3f-9379-4f83-b2a9-884d830a470e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/img/Profil.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/FormulaireEnvoye.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/img/Affiche.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/img/Bureau.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/img/Cartes.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/img/Cash.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/img/Cegep.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/img/Cover.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/img/Etudiant.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/img/Interrogation.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/img/Jardins.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/img/Kiosque.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/img/LaBiscornue.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/img/Logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/img/MoiEtCanon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/img/Paris.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/img/Photo1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/img/Photo2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/img/Photo3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/img/Photo4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/img/Profil.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/img/Zoom.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TIIW2/Formulaires/js/jquery-3.3.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo/img/Homer.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo/img/Homer.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo/js/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo/js/jquery-3.3.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo_2/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo_2/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo_2/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo_2/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo_2/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo_2/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo_2/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo_2/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo_2/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo_2/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo_2/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo_2/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo_2/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo_2/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo_2/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo_2/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo_2/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo_2/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo_2/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo_2/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo_2/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo_2/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo_2/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo_2/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo_2/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo_2/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo_2/img/Homer.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo_2/img/Homer.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo_2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo_2/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo_2/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo_2/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo_2/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo_2/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo_2/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo_2/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo_2/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo_2/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo_2/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo_2/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo_2/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo_2/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo_2/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo_2/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo_2/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Demo_2/js/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Demo_2/js/jquery-3.3.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_1/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_1/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_1/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_1/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_1/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_1/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_1/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_1/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_1/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_1/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_1/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_1/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_1/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_1/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_1/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_1/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_1/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_1/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_1/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_1/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_1/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_1/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_1/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_1/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_1/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_1/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_1/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_1/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_1/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_1/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_1/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_1/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_1/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_1/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_1/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_1/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_1/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_1/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_1/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_1/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_1/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_1/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_1/js/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_1/js/jquery-3.3.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_2/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_2/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_2/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_2/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_2/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_2/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_2/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_2/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_2/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_2/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_2/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_2/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_2/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_2/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_2/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_2/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_2/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_2/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_2/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_2/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_2/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_2/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_2/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_2/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_2/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_2/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_2/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_2/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_2/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_2/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_2/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_2/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_2/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_2/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_2/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_2/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_2/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_2/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_2/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_2/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_2/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_2/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_2/js/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_2/js/jquery-3.3.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_3/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_3/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_3/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_3/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_3/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_3/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_3/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_3/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_3/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_3/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_3/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_3/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_3/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_3/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_3/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_3/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_3/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_3/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_3/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_3/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_3/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_3/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_3/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_3/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_3/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_3/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_3/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_3/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_3/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_3/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_3/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_3/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_3/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_3/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_3/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_3/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_3/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_3/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_3/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_3/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_3/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_3/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_3/js/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_3/js/jquery-3.3.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_4/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_4/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_4/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_4/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_4/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_4/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_4/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_4/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_4/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_4/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_4/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_4/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_4/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_4/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_4/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_4/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_4/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_4/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_4/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_4/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_4/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_4/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_4/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_4/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_4/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_4/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_4/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_4/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_4/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_4/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_4/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_4/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_4/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_4/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_4/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_4/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_4/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_4/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_4/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_4/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_4/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_4/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_4/js/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_4/js/jquery-3.3.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_5/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_5/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_5/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_5/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_5/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_5/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_5/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_5/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_5/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_5/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_5/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_5/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_5/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_5/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_5/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_5/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_5/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_5/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_5/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_5/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_5/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_5/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_5/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_5/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_5/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_5/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_5/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_5/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_5/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_5/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_5/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_5/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_5/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_5/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_5/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_5/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_5/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_5/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_5/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_5/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_5/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_5/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_5/js/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_5/js/jquery-3.3.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_6/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_6/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_6/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_6/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_6/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_6/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_6/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_6/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_6/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_6/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_6/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_6/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_6/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_6/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_6/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_6/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_6/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_6/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_6/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_6/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_6/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_6/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_6/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_6/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_6/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_6/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_6/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_6/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_6/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_6/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_6/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_6/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_6/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_6/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_6/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_6/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_6/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_6/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_6/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_6/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_6/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_6/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_6/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_6/js/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_6/js/jquery-3.3.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_7/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_7/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_7/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_7/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_7/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_7/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_7/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_7/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_7/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_7/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_7/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_7/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_7/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_7/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_7/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_7/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_7/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_7/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_7/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_7/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_7/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_7/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_7/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_7/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_7/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_7/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_7/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_7/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_7/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_7/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_7/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_7/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_7/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_7/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_7/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_7/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_7/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_7/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_7/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_7/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_7/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_7/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_7/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_7/js/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_7/js/jquery-3.3.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site/img/Bureau.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site/img/Bureau.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site/img/BureauOrdi.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site/img/BureauOrdi.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site/img/etoileMort.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site/img/etoileMort.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site/js/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site/js/jquery-3.3.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site_2/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site_2/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site_2/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site_2/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site_2/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site_2/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site_2/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site_2/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site_2/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site_2/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site_2/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site_2/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site_2/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site_2/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site_2/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site_2/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site_2/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site_2/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site_2/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site_2/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site_2/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site_2/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site_2/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site_2/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site_2/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site_2/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site_2/img/Bureau.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site_2/img/Bureau.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site_2/img/BureauOrdi.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site_2/img/BureauOrdi.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site_2/img/etoileMort.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site_2/img/etoileMort.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site_2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site_2/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site_2/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site_2/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site_2/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site_2/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site_2/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site_2/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site_2/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site_2/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site_2/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site_2/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site_2/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site_2/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site_2/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site_2/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site_2/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bootstrap/Exercice_site_2/js/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site_2/js/jquery-3.3.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/img/Bureau.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/img/Bureau.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/img/Cash.png" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/img/Cash.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/img/Etudiant.png" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/img/Etudiant.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/img/Interrogation.png" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/img/Interrogation.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/img/John.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/img/John.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/img/MoiEtCanon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/img/MoiEtCanon.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/img/Paris.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/img/Paris.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/img/Photo1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/img/Photo1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/img/Photo2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/img/Photo2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/img/Photo3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/img/Photo3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/img/Photo4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/img/Photo4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/img/PhotoCover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/img/PhotoCover.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Examen_2_Parallax/js/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Examen_2_Parallax/js/jquery-3.3.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/Font/Lato-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/Font/Lato-Bold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/Font/Lato-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/Font/Lato-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/img/Affiche.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/img/Affiche.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/img/Bureau.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/img/Bureau.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/img/Cartes.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/img/Cartes.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/img/Cash.png" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/img/Cash.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/img/Cegep.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/img/Cegep.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/img/Cover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/img/Cover.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/img/Etudiant.png" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/img/Etudiant.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/img/Interrogation.png" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/img/Interrogation.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/img/Jardins.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/img/Jardins.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/img/Kiosque.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/img/Kiosque.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/img/LaBiscornue.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/img/LaBiscornue.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/img/Logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/img/Logo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/img/MoiEtCanon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/img/MoiEtCanon.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/img/Paris.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/img/Paris.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/img/Photo1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/img/Photo1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/img/Photo2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/img/Photo2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/img/Photo3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/img/Photo3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/img/Photo4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/img/Photo4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/img/Zoom.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/img/Zoom.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Nav/js/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/js/jquery-3.3.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Facebook_exercice/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Facebook_exercice/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Facebook_exercice/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Facebook_exercice/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Facebook_exercice/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Facebook_exercice/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Facebook_exercice/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Facebook_exercice/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Facebook_exercice/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Facebook_exercice/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Facebook_exercice/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Facebook_exercice/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/img/Bureau.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Facebook_exercice/img/Bureau.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/img/Cash.png" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/img/Cash.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/img/Etudiant.png" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/img/Etudiant.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/img/Interrogation.png" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/img/Interrogation.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/img/John.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/img/John.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/img/MoiEtCanon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Facebook_exercice/img/MoiEtCanon.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/img/Paris.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Facebook_exercice/img/Paris.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/img/Photo1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/img/Photo1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/img/Photo2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/img/Photo2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/img/Photo3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/img/Photo3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/img/Photo4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/img/Photo4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/img/PhotoCover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/img/PhotoCover.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Facebook_exercice/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Facebook_exercice/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Facebook_exercice/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Facebook_exercice/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Facebook_exercice/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Facebook_exercice/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Facebook_exercice/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Facebook_exercice/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercice_Parallax_Video/js/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Facebook_exercice/js/jquery-3.3.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Facebook_exercice/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/img/Bureau.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/img/Bureau.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/img/John.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Facebook_exercice/img/John.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/img/MoiEtCanon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/img/MoiEtCanon.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/img/Paris.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/img/Paris.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/Facebook_exercice/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Facebook_exercice/js/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/js/jquery-3.3.1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HanSolo/.idea/Han Solo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/HanSolo/.idea/Han Solo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HanSolo/.idea/copyright/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/HanSolo/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HanSolo/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/HanSolo/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HanSolo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/HanSolo/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HanSolo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/HanSolo/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HanSolo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/HanSolo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HanSolo/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/HanSolo/CSS/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HanSolo/Laboratoire Han Solo.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/HanSolo/Laboratoire Han Solo.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HanSolo/font/Starjedi.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/HanSolo/font/Starjedi.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HanSolo/img/HanSolo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/HanSolo/img/HanSolo.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HanSolo/img/chewbacca.png" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/HanSolo/img/chewbacca.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HanSolo/img/etoileMort.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/HanSolo/img/etoileMort.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HanSolo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/HanSolo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente/CSS/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente/CSS/Style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente/etudes.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente/etudes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente/img/Cégep Trois-Rivières.png" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente/img/Cégep Trois-Rivières.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente/img/JeuxDeSociété.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente/img/JeuxDeSociété.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente/img/RêvesProfesionnels.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente/img/RêvesProfesionnels.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente/img/Sports.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente/img/Sports.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente/loisirs.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente/loisirs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente/reves.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente/reves.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente/sports.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente/sports.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/.idea/JeMePresente_v2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente_v2/.idea/JeMePresente_v2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/CSS/Font/Exo2Bold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente_v2/CSS/Font/Exo2Bold.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/CSS/Font/PokemonHollow.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente_v2/CSS/Font/PokemonHollow.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/CSS/img/Cégep Trois-Rivières.png" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente_v2/CSS/img/Cégep Trois-Rivières.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/CSS/img/Moi et Canon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente_v2/CSS/img/Moi et Canon.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/CSS/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente_v2/CSS/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/CSS/styleClasses.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente_v2/CSS/styleClasses.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/OnePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente_v2/OnePage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/OnePageClasses.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente_v2/OnePageClasses.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/etudes.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente_v2/etudes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/img/Cégep Trois-Rivières.png" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente_v2/img/Cégep Trois-Rivières.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/img/JeuxDeSociété.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente_v2/img/JeuxDeSociété.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/img/Moi et Canon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente_v2/img/Moi et Canon.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/img/RêvesProfesionnels.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente_v2/img/RêvesProfesionnels.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/img/Sports.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente_v2/img/Sports.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente_v2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/loisirs.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente_v2/loisirs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/reves.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente_v2/reves.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JeMePresente_v2/sports.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/JeMePresente_v2/sports.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/Font/Lato-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/Font/Lato-Bold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/Font/Lato-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/Font/Lato-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/css/bootstrap-grid.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/img/Affiche.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/img/Affiche.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/img/Bureau.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/img/Bureau.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/img/Cartes.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/img/Cartes.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/img/Cash.png" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/img/Cash.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/img/Cegep.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/img/Cegep.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/img/Cover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/img/Cover.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/img/Etudiant.png" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/img/Etudiant.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/img/Interrogation.png" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/img/Interrogation.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/img/Jardins.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/img/Jardins.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/img/John.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/img/John.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/img/Kiosque.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/img/Kiosque.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/img/LaBiscornue.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/img/LaBiscornue.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/img/MoiEtCanon.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/img/MoiEtCanon.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/img/Paris.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/img/Paris.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/img/Photo1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/img/Photo1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/img/Photo2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/img/Photo2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/img/Photo3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/img/Photo3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/img/Photo4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/img/Photo4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/img/PhotoCover.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/img/PhotoCover.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/img/Profil.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/img/Profil.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/img/Zoom.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/img/Zoom.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW1/index/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/js/bootstrap.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/js/bootstrap.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index/js/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Exercice_Nav/js/jquery-3.3.1.js" afterDir="false" />
-    </list>
+    <list default="true" id="d55d4e3f-9379-4f83-b2a9-884d830a470e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -565,7 +28,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TIIW2/Formulaires/FormulaireEnvoye.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -574,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TIIW2/Formulaires/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="60" column="43" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="43" />
+            <state relative-caret-position="467">
+              <caret line="61" column="45" lean-forward="true" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -674,9 +137,9 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-350" />
-    <option name="y" value="-1057" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
   </component>
@@ -819,15 +282,15 @@
       <workItem from="1558539316023" duration="5693000" />
       <workItem from="1558716790753" duration="1956000" />
       <workItem from="1558974330600" duration="5640000" />
-      <workItem from="1559079439974" duration="5410000" />
+      <workItem from="1559079439974" duration="6115000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="233574000" />
+    <option name="totallyTimeSpent" value="234279000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-350" y="-1057" width="1280" height="777" extended-state="0" />
+    <frame x="10" y="23" width="1280" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.246875" />
@@ -1080,17 +543,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TIIW2/Formulaires/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="60" column="43" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TIIW2/Formulaires/FormulaireEnvoye.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" lean-forward="true" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TIIW2/Formulaires/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="61" column="45" lean-forward="true" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="45" />
         </state>
       </provider>
     </entry>
