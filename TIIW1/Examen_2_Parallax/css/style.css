@@ -1,0 +1,139 @@
+html, body{
+    margin: 0;
+    height: 100%;
+    font-size: 16px;
+}
+
+h1, h2{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 2.8rem;
+}
+
+h3{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+h4{
+   text-transform: uppercase;
+    font-weight: bold;
+}
+
+
+.bg{
+    background-color: rgba(220,220,220,.5);
+}
+
+.bgBleu{
+    background-color: rgb(30, 161, 189);
+    padding: 50px;
+}
+
+.bgOr{
+    background-color: rgb(201, 188, 133);
+    padding: 50px;
+}
+
+.bgVert{
+    background-color: rgb(51, 181, 115);
+    padding: 50px;
+}
+
+.btn{
+    border-radius: 0.38em;
+    font-size: 1em;
+    color: white;
+    text-transform: uppercase;
+    background-color: #e84819;
+    box-shadow: 0em 0.15em 0.65em 0em rgba(0,0,0,0.25)
+}
+
+.btnBas{
+    border-radius: 0.38em;
+    background-color: white;
+    padding: 8px;
+}
+
+.carreJaune{
+    background-color: rgba(224,217,29,.5);
+}
+
+.fa-li{
+    color: #e84819;
+}
+
+.fontColor{
+    color: white;
+}
+
+.h-576p{
+    height: 576px;
+}
+
+.h-80{
+    height: 80%;
+}
+
+.h-20{
+    height: 20%;
+}
+
+.heigh{
+    height: 450px;
+}
+
+.interligne{
+    line-height: normal;
+}
+
+.lineheigh{
+    line-height: 1.4rem;
+}
+
+.marge{
+    margin-bottom: 1.5em;
+}
+
+.parallax{
+    background-image: url("../img/Photo1.jpg");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax2{
+    background-image: url("../img/Photo3.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.parallax3{
+    background-image: url("../img/Photo4.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.section-title{
+    display: block;
+    width: 100%;
+    margin-bottom: 60px;
+    text-align: center;
+}
+
+
+@media screen and (max-width: 600px){
+    h1, h2{
+        font-size: 2.2rem;
+    }
+    h4{
+        font-size: 1.3rem;
+    }
+}

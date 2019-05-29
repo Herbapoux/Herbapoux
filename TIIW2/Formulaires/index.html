@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="fr-ca">
+<head>
+    <title>Exercice_Nav</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<form>
+    <div class="form-group">
+        <label for="nom">Nom</label>
+        <input type="text" class="form-control" id="nom" placeholder="Votre nom">
+    </div>
+    <div class="form-group">
+        <label for="prenom">Prénom</label>
+        <input type="text" class="form-control" id="prenom" placeholder="Votre prénom">
+    </div>
+    <div class="form-group">
+        <label for="demandedaide">Quel est le module que vous étudiez en ce moment?</label>
+        <select class="form-control" id="demandedaide">
+            <option>HTML</option>
+            <option>CSS</option>
+            <option>Bootstrap</option>
+            <option>Positionnement des divisions</option>
+            <option>Javascript</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label for="question">Posez votre question s'il y lieu</label>
+        <textarea class="form-control" id="question" rows="3"></textarea>
+    </div>
+
+    <div class="form-check">
+        <p>Priorité</p>
+        <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1"
+               checked>
+        <label class="form-check-label" for="exampleRadios1">
+            Urgent
+        </label>
+    </div>
+    <div class="form-check">
+        <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="option2">
+        <label class="form-check-label" for="exampleRadios2">
+            Important
+        </label>
+    </div>
+    <div class="form-check">
+        <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios3" value="option2">
+        <label class="form-check-label" for="exampleRadios3">
+            Peut attendre
+        </label>
+    </div>
+    <div class="pt-4">
+        <input class="btn btn-danger" type="reset" value="Effacé">
+    </div>
+    <form action="FormulaireEnvoye.html">
+        <input type="submit" value="Envoyé"/>
+    </form>
+
+
+</form>
+
+<script src="js/jquery-3.3.1.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
+<script src="js/bootstrap.js"></script>
+</body>
+
+</html>

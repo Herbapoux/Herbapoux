@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'PokemonPolice' ;
+    src: url("Font/PokemonHollow.ttf");
+}
+
+@font-face {
+    font-family: 'ExoPolice ';
+    src: url("Font/Exo2Bold.woff");
+}
+
+#RetourEnHaut {
+    background-color: white;
+    text-align: center;
+}
+
+#etudes {background-color: lightgray;}
+
+#sports {background-color: beige;}
+
+#loisirs {background-color: salmon;}
+
+#reves {background-color: aquamarine;}
+
+.BelleImage {border: 1px solid #dddddd; border-radius: 4px;}
+
+.BelleImage:hover {box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);}
+
+.GrosTitre {color: limegreen; font-size: 20px;}
+.PetitTitre {color: navy; font-size: 15px; font-family: PokemonPolice}
+
+h1 {
+    font-family: PokemonPolice;
+}
+
+.lien {color: black}
