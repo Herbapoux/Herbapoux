@@ -12,26 +12,38 @@
 <body>
 
 <section>
-    <div class="container">
+    <div class="container-fluid">
         <div class="row">
-            <div class="col-md-8">
-                <img src="img/Profil.jpg" class="w-50"/>
+            <div class="offset-xl-1 col-xl-10">
+                <img src="img/Profil.jpg" height="150"/>
+                <h1>Y! Voyage</h1>
             </div>
-            <div class="col-md-4">
+        </div>
+        <div class="row">
+            <div class="offset-xl-1 col-xl-10">
+                <P>Yannick Graphiste</P>
+                <P>Montréal Québec</P>
+                <P>Canada</P>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="offset-xl-1 col-xl-10">
                 <form>
-                    <div class="form-group">
+                    <div class="form-group col-xl-4">
                         <label for="nom">Nom</label>
                         <input type="text" class="form-control" id="nom" placeholder="Nom de l'entreprise">
                     </div>
-                    <div class="form-group">
+                    <div class="form-group col-xl-4">
                         <label for="inputAddress">Adresse</label>
                         <input type="text" class="form-control" id="inputAddress" placeholder="Adresse">
                     </div>
-                    <div class="form-group">
+                    <div class="form-group col-xl-4">
                         <label for="inputCity">Ville</label>
                         <input type="text" class="form-control" id="inputCity">
                     </div>
-                    <div class="form-group">
+                    <div class="form-group col-xl-4">
                         <label for="inputState">Province</label>
                         <select id="inputState" class="form-control">
                             <option selected>Choisir...</option>
@@ -40,15 +52,17 @@
                             <option>Manitoba</option>
                         </select>
                     </div>
-                    <div class="form-group">
-                            <label for="inputZip">Code postal</label>
-                            <input type="text" class="form-control" id="inputZip">
+                    <div class="form-group col-xl-4">
+                        <label for="inputZip">Code postal</label>
+                        <input type="text" class="form-control" id="inputZip">
                     </div>
                 </form>
             </div>
         </div>
+    </div>
+    <div class="container-fluid">
         <div class="row">
-            <div class="offset-1 col-10">
+            <div class="offset-1 col-xl-10">
                 <h1>Recherche d'un forfait voyage centré.</h1>
             </div>
         </div>

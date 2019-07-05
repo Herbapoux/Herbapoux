@@ -148,3 +148,39 @@ hr{
     background-position: center;
     background-size: cover;
 }
+
+@media only screen and (max-width: 575px) {
+    .parallax {
+        background-image: url("../img/CoverIphone.jpg");
+    }
+}
+
+@media screen and (min-width: 576px) and (max-width: 1199px) {
+    .parallax {
+        background-image: url("../img/CoverIpad.jpg");
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .bgGris{
+        background-color: white;
+    }
+}
+
+@media print {
+    #etudes {
+        display: none;
+    }
+}
+
+@media print {
+    #contact {
+        display: none;
+    }
+}
+
+@media print {
+    #projet {
+        display: none;
+    }
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Carousel.iml" filepath="$PROJECT_DIR$/.idea/Carousel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Exercice_Nav/.idea/Exercice_Nav.iml" filepath="$PROJECT_DIR$/../Exercice_Nav/.idea/Exercice_Nav.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Formulaires/.idea/Formulaires.iml" filepath="$PROJECT_DIR$/../Formulaires/.idea/Formulaires.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HTML/.idea/HTML.iml" filepath="$PROJECT_DIR$/../HTML/.idea/HTML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Jumbotron/.idea/Jumbotron.iml" filepath="$PROJECT_DIR$/../Jumbotron/.idea/Jumbotron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MediaQueries/.idea/MediaQueries.iml" filepath="$PROJECT_DIR$/../MediaQueries/.idea/MediaQueries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Menu_3_Pages/.idea/Menu_3_Pages.iml" filepath="$PROJECT_DIR$/../Menu_3_Pages/.idea/Menu_3_Pages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Modal/.idea/Modal.iml" filepath="$PROJECT_DIR$/../Modal/.idea/Modal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../TIIW1/index/.idea/index.iml" filepath="$PROJECT_DIR$/../../TIIW1/index/.idea/index.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,7 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d55d4e3f-9379-4f83-b2a9-884d830a470e" name="Default Changelist" comment="" />
+    <list default="true" id="d55d4e3f-9379-4f83-b2a9-884d830a470e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/Font/Lato-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/Font/Lato-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/img/Affiche.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/img/Bureau.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/img/Cartes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/img/Cash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/img/Cegep.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/img/Cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/img/CoverIpad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/img/CoverIphone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/img/Etudiant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/img/Interrogation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/img/Jardins.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/img/John.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/img/Kiosque.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/img/LaBiscornue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/img/MoiEtCanon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/img/Paris.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/img/Photo1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/img/Photo2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/img/Photo3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/img/Photo4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/img/PhotoCover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/img/Profil.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/img/Zoom.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TIIW2/MediaQueries/js/jquery-3.3.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIIW2/Formulaires/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Formulaires/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TIIW2/Formulaires/recherche.html" beforeDir="false" afterPath="$PROJECT_DIR$/TIIW2/Formulaires/recherche.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,14 +62,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TIIW2/Formulaires/recherche.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TIIW1/index/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="674">
-              <caret line="176" column="7" lean-forward="true" selection-start-line="176" selection-start-column="7" selection-end-line="176" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#11;n#form#0;n#div#3;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TIIW2/MediaQueries/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="162" selection-start-line="162" selection-end-line="162" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TIIW2/Menu_3_Pages/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="451">
+              <caret line="51" column="10" lean-forward="true" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TIIW2/MediaQueries/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1740">
+              <caret line="116" column="68" selection-start-line="116" selection-start-column="68" selection-end-line="116" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -34,8 +110,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TIIW2/Formulaires/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="60" column="3" selection-start-line="60" selection-start-column="3" selection-end-line="62" selection-end-column="10" />
+            <state relative-caret-position="915">
+              <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -44,7 +120,7 @@
         <entry file="file://$PROJECT_DIR$/TIIW2/Jumbotron/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
-              <caret line="32" column="6" lean-forward="true" selection-start-line="16" selection-end-line="32" selection-end-column="6" />
+              <caret line="32" column="6" selection-start-line="16" selection-end-line="32" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -65,8 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Bootstrap/css/style.css" />
-        <option value="$PROJECT_DIR$/Bootstrap_exercice_1/css/style.css" />
         <option value="$PROJECT_DIR$/Bootstrap/index.html" />
         <option value="$PROJECT_DIR$/Bootstrap_exercice_1/index.html" />
         <option value="$PROJECT_DIR$/Bootstrap/Bootstrap_exercice_1/css/style.css" />
@@ -106,7 +180,6 @@
         <option value="$PROJECT_DIR$/TIIW1/index/index.html" />
         <option value="$PROJECT_DIR$/TIIW2/Formulaires/css/style.css" />
         <option value="$PROJECT_DIR$/TIIW2/Formulaires/FormulaireEnvoye.html" />
-        <option value="$PROJECT_DIR$/TIIW2/Formulaires/index.html" />
         <option value="$PROJECT_DIR$/TIIW2/Exercice_Nav/css/style.css" />
         <option value="$PROJECT_DIR$/TIIW2/Exercice_Nav/index.html" />
         <option value="$PROJECT_DIR$/TIIW2/Carousel/css/style.css" />
@@ -115,7 +188,10 @@
         <option value="$PROJECT_DIR$/TIIW2/Modal/index.html" />
         <option value="$PROJECT_DIR$/TIIW2/Menu_3_Pages/css/style.css" />
         <option value="$PROJECT_DIR$/TIIW2/Menu_3_Pages/index.html" />
+        <option value="$PROJECT_DIR$/TIIW2/Formulaires/index.html" />
         <option value="$PROJECT_DIR$/TIIW2/Formulaires/recherche.html" />
+        <option value="$PROJECT_DIR$/TIIW2/MediaQueries/index.html" />
+        <option value="$PROJECT_DIR$/TIIW2/MediaQueries/css/style.css" />
       </list>
     </option>
   </component>
@@ -133,7 +209,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -158,24 +233,11 @@
               <item name="Herbapoux" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="TIIW2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
-            <path>
-              <item name="Herbapoux" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Desktop/AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Herbapoux" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="TIIW2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Formulaires" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="Herbapoux" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Desktop/AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Herbapoux" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="TIIW2" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="Jumbotron" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,19 +249,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/TIIW2" />
-      <recent name="$PROJECT_DIR$/TIIW1" />
-      <recent name="$PROJECT_DIR$/index/Font" />
-      <recent name="$PROJECT_DIR$/index/img" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TIIW2/MediaQueries" />
       <recent name="$PROJECT_DIR$/TIIW2/Menu_3_Pages" />
       <recent name="$PROJECT_DIR$/TIIW2/Modal" />
       <recent name="$PROJECT_DIR$/TIIW2/Jumbotron" />
       <recent name="$PROJECT_DIR$/TIIW2/Carousel" />
-      <recent name="$PROJECT_DIR$/TIIW2/Formulaires" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TIIW2/MediaQueries/img" />
+      <recent name="$PROJECT_DIR$/TIIW2" />
+      <recent name="$PROJECT_DIR$/TIIW1" />
+      <recent name="$PROJECT_DIR$/index/Font" />
+      <recent name="$PROJECT_DIR$/index/img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -279,15 +341,20 @@
       <workItem from="1559741515061" duration="6705000" />
       <workItem from="1559749506513" duration="25000" />
       <workItem from="1559824864861" duration="6681000" />
+      <workItem from="1559852279905" duration="181000" />
+      <workItem from="1560292506891" duration="2795000" />
+      <workItem from="1560780120730" duration="2276000" />
+      <workItem from="1560868364680" duration="2379000" />
+      <workItem from="1561663638309" duration="220000" />
+      <workItem from="1561664729188" duration="69000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="256046000" />
+    <option name="totallyTimeSpent" value="263966000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2" y="23" width="1280" height="757" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="757" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.246875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -314,53 +381,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_3/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_4/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="55" selection-start-line="29" selection-start-column="55" selection-end-line="29" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_site/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="637">
-          <caret line="68" column="29" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TIIW1/Examen_2_Parallax/img/Paris.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TIIW1/JeMePresente_v2/loisirs.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TIIW1/Examen_2_Parallax/img/Photo4.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TIIW1/Bootstrap/Exercice_7/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TIIW1/Examen_2_Parallax/css/bootstrap-reboot.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/TIIW1/Exercice_Parallax_Video/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -470,13 +490,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TIIW1/index/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="65" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TIIW2/Carousel/css/style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -488,13 +501,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TIIW2/Carousel/img/Jardins.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TIIW2/Menu_3_Pages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="51" column="10" lean-forward="true" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TIIW2/Menu_3_Pages/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -540,10 +546,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TIIW2/Jumbotron/index.html">
+    <entry file="file://$PROJECT_DIR$/TIIW2/Formulaires/recherche.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="6" lean-forward="true" selection-start-line="16" selection-end-line="32" selection-end-column="6" />
+        <state relative-caret-position="195">
+          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Technique d'intégration des interfaces WEB 2/Materiel recu/04_Média_queries/CorrectionSeminaire3/recherche.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Technique d'intégration des interfaces WEB 2/Materiel recu/04_Média_queries/CorrectionSeminaire3/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Technique d'intégration des interfaces WEB 2/Materiel recu/04_Média_queries/CorrectionSeminaire3/formulaireEnvoye.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TIIW2/MediaQueries/img/Paris.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TIIW2/MediaQueries/img/John.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TIIW2/MediaQueries/img/Etudiant.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TIIW2/MediaQueries/img/CoverIpad.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TIIW1/index/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TIIW2/MediaQueries/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="116" column="68" selection-start-line="116" selection-start-column="68" selection-end-line="116" selection-end-column="68" />
         </state>
       </provider>
     </entry>
@@ -556,18 +601,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TIIW2/Formulaires/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="60" column="3" selection-start-line="60" selection-start-column="3" selection-end-line="62" selection-end-column="10" />
+        <state relative-caret-position="915">
+          <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TIIW2/Formulaires/recherche.html">
+    <entry file="file://$PROJECT_DIR$/TIIW2/Jumbotron/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="674">
-          <caret line="176" column="7" lean-forward="true" selection-start-line="176" selection-start-column="7" selection-end-line="176" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#11;n#form#0;n#div#3;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="480">
+          <caret line="32" column="6" selection-start-line="16" selection-end-line="32" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TIIW2/MediaQueries/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="162" selection-start-line="162" selection-end-line="162" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TIIW2/Menu_3_Pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="51" column="10" lean-forward="true" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
         </state>
       </provider>
     </entry>
