@@ -2,12 +2,18 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <link rel="icon" type="image/png" href="../../../../../Technique%20d'intégration%20des%20interfaces%20WEB%202/Materiel%20recu/11_Événements/Flash/favicon.png" />
+  <link rel="icon" type="image/png" href="img/favicon.png" />
   <title>Flash</title>
 </head>
+
 <body>
-		<img id="flashID" class="flashClass" src="../../../../../Technique%20d'intégration%20des%20interfaces%20WEB%202/Materiel%20recu/11_Événements/Flash/flash.jpg" width="200px"/>
-		<br/>
+	<div>
+		<img id="nuke" src="img/nuke.jpg" height="700" width="1000" style="display:none"/>
+	</div>
+	<div id="explosion">
+		<div id="FlashDiv">
+			<img id="flashID" class="flashClass" src="img/flash.jpg" width="200px"/>
+		</div>
 		<input type="button" value="Déplacer Gauche" id="boutonGauche"/> <br/>
 		<input type="button" value="Déplacer Droite" id="boutonDroite"/> <br/>
 		<input type="button" value="Changer image" id="boutonChangerImage"/>Changez l'image de Flash1 à Flash 2 et vice-versa (une fois). <br/>
@@ -18,8 +24,13 @@
 		<input type="button" value="Dupliquer" id="boutonDupliquer"/>Flash est tellement rapide, ajoutez une autre image à côté de Flash à tous les cliques sur ce bouton!<br />
 		<input type="button" value="Ralentir" id="boutonRalentir"/>Flash ralentit, enlevez une image!<br />
 		<input type="button" value="Teleport" id="boutonTeleport"/>Flash se téléporte sous ces boutons et retourne en haut lorsque l'on clique de nouveau<br />
-<input type="button" value="VitesseSupreme" id="boutonVitesseSupreme"/>Flash doit apparaître et disparaître toutes les 500MS pendant 5 secondes.<br />
-<input type="button" value="Nuke" id="boutonNuke"/>Ce bouton fait afficher une image d'explosion dans l'écran et enlève tout le reste (boutons images, etc).<br />
-		   
+		<input type="button" value="VitesseSupreme" id="boutonVitesseSupreme"/>Flash doit apparaître et disparaître toutes les 500MS pendant 5 secondes.<br />
+		<input type="button" value="Nuke" id="boutonNuke"/>Ce bouton fait afficher une image d'explosion dans l'écran et enlève tout le reste (boutons images, etc).<br />
+		<img id="flashIDTeleport" class="flashClass2" src="img/flash.jpg" width="200px" style="display:none"/>
+	</div>
 </body>
+
+<script src="js/jquery-3.3.1.js"></script>
+<script src="js/bootstrap.js"></script>
+<script src="js/js_jQuery.js"></script>
 </html>
