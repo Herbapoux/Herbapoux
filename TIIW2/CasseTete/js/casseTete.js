@@ -83,28 +83,3 @@ function fVerification()
 }
 
 fVerification();
-
-
-/*$( ".img-fluid" ).click(function() {
-    var idImage = this.id;
-    var sourceImage = this.src;
-    alert(idImage);
-});*/
-
-/*compteur = 0;
-$("#boutonChangerImage").click(function(){
-    var imagedeflash;
-
-    imagedeflash = $('#flashID').attr("src");
-    if(compteur < 2)
-
-        if(imagedeflash === "img/flash.jpg"){
-        $('#flashID').attr("src" , "img/flash2.jpg");
-        }
-
-        else{
-        $('#flashID').attr("src" , "img/flash.jpg");
-        }
-
-    compteur = compteur + 1
-});*/
