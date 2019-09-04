@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ff4d429-cfd9-4082-9854-8989924532f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/CasseTete/js/casseTete.js" beforeDir="false" afterPath="$PROJECT_DIR$/CasseTete/js/casseTete.js" afterDir="false" />
-    </list>
+    <list default="true" id="8ff4d429-cfd9-4082-9854-8989924532f2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,11 +10,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CasseTete/Index.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CasseTete/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -24,7 +22,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CasseTete/js/casseTete.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="668">
+            <state relative-caret-position="1260">
               <caret line="84" column="16" selection-start-line="84" selection-start-column="16" selection-end-line="84" selection-end-column="16" />
             </state>
           </provider>
@@ -43,11 +41,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jQuery_tp2/js/js_jQuery.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="401">
               <caret line="98" column="35" lean-forward="true" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CasseTete/js/jquery-3.3.1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-699">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -114,8 +123,8 @@
         <option value="$PROJECT_DIR$/index_exemple/index.html" />
         <option value="$PROJECT_DIR$/jQuery_tp2/Index.html" />
         <option value="$PROJECT_DIR$/CasseTete/css/style.css" />
-        <option value="$PROJECT_DIR$/CasseTete/Index.html" />
         <option value="$PROJECT_DIR$/CasseTete/js/casseTete.js" />
+        <option value="$PROJECT_DIR$/CasseTete/Index.html" />
       </list>
     </option>
   </component>
@@ -149,12 +158,12 @@
             <path>
               <item name="TIIW2" type="b2602c69:ProjectViewProjectNode" />
               <item name="TIIW2" type="462c0819:PsiDirectoryNode" />
-              <item name="jQuery_tp2" type="462c0819:PsiDirectoryNode" />
+              <item name="CasseTete" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TIIW2" type="b2602c69:ProjectViewProjectNode" />
               <item name="TIIW2" type="462c0819:PsiDirectoryNode" />
-              <item name="jQuery_tp2" type="462c0819:PsiDirectoryNode" />
+              <item name="CasseTete" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -252,16 +261,15 @@
       <workItem from="1567117777300" duration="932000" />
       <workItem from="1567436307480" duration="14162000" />
       <workItem from="1567457394970" duration="1765000" />
-      <workItem from="1567631976788" duration="96000" />
+      <workItem from="1567631976788" duration="245000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="234480000" />
+    <option name="totallyTimeSpent" value="234629000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="737" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49646643" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" sideWeight="0.50353354" side_tool="true" weight="0.25" />
@@ -288,15 +296,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Nav_js/js/bootstrap.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../../Technique d'intégration des interfaces WEB 2/Materiel recu/08_Javascript/no2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
@@ -533,20 +532,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CasseTete/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CasseTete/js/casseTete.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="668">
-          <caret line="84" column="16" selection-start-line="84" selection-start-column="16" selection-end-line="84" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jQuery_tp2/Index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -562,6 +547,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="401">
           <caret line="98" column="35" lean-forward="true" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasseTete/js/jquery-3.3.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-699">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasseTete/js/casseTete.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="84" column="16" selection-start-line="84" selection-start-column="16" selection-end-line="84" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasseTete/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
