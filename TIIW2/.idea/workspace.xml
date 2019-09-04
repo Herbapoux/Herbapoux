@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ff4d429-cfd9-4082-9854-8989924532f2" name="Default Changelist" comment="" />
+    <list default="true" id="8ff4d429-cfd9-4082-9854-8989924532f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CasseTete/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CasseTete/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CasseTete/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CasseTete/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CasseTete/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CasseTete/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CasseTete/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CasseTete/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CasseTete/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CasseTete/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CasseTete/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CasseTete/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CasseTete/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CasseTete/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CasseTete/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CasseTete/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CasseTete/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CasseTete/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CasseTete/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CasseTete/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CasseTete/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CasseTete/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CasseTete/js/casseTete.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CasseTete/js/jquery-3.3.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,10 +37,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CasseTete/Index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CasseTete/js/casseTete.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-654">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jQuery_tp2/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-27">
-              <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="4" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -23,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jQuery_tp2/js/js_jQuery.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-180">
-              <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+            <state relative-caret-position="357">
+              <caret line="35" column="28" lean-forward="true" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -38,8 +82,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -93,6 +137,9 @@
         <option value="$PROJECT_DIR$/Nav_js/js/js4_while.js" />
         <option value="$PROJECT_DIR$/index_exemple/index.html" />
         <option value="$PROJECT_DIR$/jQuery_tp2/Index.html" />
+        <option value="$PROJECT_DIR$/CasseTete/css/style.css" />
+        <option value="$PROJECT_DIR$/CasseTete/Index.html" />
+        <option value="$PROJECT_DIR$/CasseTete/js/casseTete.js" />
       </list>
     </option>
   </component>
@@ -102,7 +149,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="660" />
+    <option name="height" value="737" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -111,6 +158,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,11 +175,16 @@
               <item name="TIIW2" type="462c0819:PsiDirectoryNode" />
               <item name="jQuery_tp2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TIIW2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIIW2" type="462c0819:PsiDirectoryNode" />
+              <item name="jQuery_tp2" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,19 +198,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/jQuery_tp2/img" />
-      <recent name="$PROJECT_DIR$/jQuery_tp2/css" />
-      <recent name="$PROJECT_DIR$/jQuery_tp2" />
-      <recent name="$PROJECT_DIR$/Exercice jQuery1 StormTrooper" />
-      <recent name="$PROJECT_DIR$/Nav_js" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/jQuery_tp2/js" />
       <recent name="$PROJECT_DIR$/jQuery_tp2/img" />
       <recent name="$PROJECT_DIR$/jQuery_tp2" />
       <recent name="$PROJECT_DIR$/Exercice jQuery1 StormTrooper/js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CasseTete" />
+      <recent name="$PROJECT_DIR$/jQuery_tp2/img" />
+      <recent name="$PROJECT_DIR$/jQuery_tp2/css" />
+      <recent name="$PROJECT_DIR$/jQuery_tp2" />
+      <recent name="$PROJECT_DIR$/Exercice jQuery1 StormTrooper" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -219,19 +272,22 @@
       <workItem from="1567021261238" duration="584000" />
       <workItem from="1567025017723" duration="392000" />
       <workItem from="1567032490588" duration="10145000" />
-      <workItem from="1567081693596" duration="6198000" />
+      <workItem from="1567081693596" duration="6350000" />
+      <workItem from="1567117777300" duration="932000" />
+      <workItem from="1567436307480" duration="14162000" />
+      <workItem from="1567457394970" duration="1765000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="217373000" />
+    <option name="totallyTimeSpent" value="234384000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="660" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="737" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49823323" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" sideWeight="0.5017668" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49646643" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" sideWeight="0.50353354" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.7261484" />
@@ -255,47 +311,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HTML/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1995">
-          <caret line="133" column="24" selection-start-line="133" selection-start-column="24" selection-end-line="133" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/FormulaireEnvoyee.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="76" selection-start-line="17" selection-start-column="76" selection-end-line="17" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="62" selection-start-line="14" selection-start-column="62" selection-end-line="14" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/Informations.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/js/script.js" />
-    <entry file="file://$PROJECT_DIR$/Exercice_Nav/js/script.js" />
-    <entry file="file://$PROJECT_DIR$/Exercice_Nav/js/Premierscript.js" />
-    <entry file="file://$PROJECT_DIR$/../TIIW1/JeMePresente_v2/etudes.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TIIW1/Examen_2_Parallax/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="614">
-          <caret line="76" column="57" selection-start-line="76" selection-start-column="40" selection-end-line="76" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Nav_js/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -372,9 +387,6 @@
     <entry file="file://$PROJECT_DIR$/Nav_js/img/Cover.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercice jQuery1 StormTrooper/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -406,13 +418,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../../Technique d'intégration des interfaces WEB 2/Materiel recu/11_Événements/index/index.html" />
-    <entry file="file://$PROJECT_DIR$/Nav_js/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../../Technique d'intégration des interfaces WEB 2/Materiel recu/11_Événements/index/js/helloJquery.js" />
     <entry file="file://$PROJECT_DIR$/index_exemple/js/script2.js">
       <provider selected="true" editor-type-id="text-editor" />
@@ -469,19 +474,12 @@
     <entry file="file://$PROJECT_DIR$/Exercice_Nav/img/Cover.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery_tp2/css/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/jQuery_tp2/css/style.css" />
     <entry file="file://$PROJECT_DIR$/Exercice_Nav/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="143" column="4" selection-start-line="143" selection-start-column="4" selection-end-line="148" selection-end-column="27" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TIIW1/index/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-450" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercice_Nav/index.html">
@@ -508,10 +506,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CasseTete/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Nav_js/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-370" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIIW1/Examen_2_Parallax/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="76" column="57" selection-start-line="76" selection-start-column="40" selection-end-line="76" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIIW1/Bootstrap/Exercice_6/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIIW1/Facebook_exercice/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIIW1/index/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-479" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasseTete/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Technique d'intégration des interfaces WEB 2/Materiel recu/12_Examen_Final/casseTete2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jQuery_tp2/Index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="4" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -521,8 +569,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jQuery_tp2/js/js_jQuery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-180">
-          <caret line="55" column="25" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
+        <state relative-caret-position="357">
+          <caret line="35" column="28" lean-forward="true" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasseTete/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CasseTete/js/casseTete.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-654">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
