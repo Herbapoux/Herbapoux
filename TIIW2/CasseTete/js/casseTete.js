@@ -67,10 +67,10 @@ function fVerification()
      for(i=1; i<10; i++)
      {
             //getting image source
-            var path=$('#image'+i).attr('src');
+            var path = $('#image'+i).attr('src');
 
             //splitting url and getting filename with file extension
-            var file=path.split('/').pop();
+            var file = path.split('/').pop();
 
             if(file === "image_0"+i+".jpg")
             {
