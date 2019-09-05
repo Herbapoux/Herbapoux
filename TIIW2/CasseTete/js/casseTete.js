@@ -69,14 +69,12 @@ function fVerification()
 
      if(FVictoire === 9)
      {
-
          //$('#solide').toggle();
          setTimeout(function ()
          {
              $('#victoire').toggle();
          }, 500);
-         $('#victoire, h1').prepend("Bravo, vous l'avez réussi en " + nbCompteur + " clics!");
-
+         $('#Vclics').html("Bravo, vous l'avez réussi en " + nbCompteur + " clics!");
      }
 }
 
@@ -94,7 +92,10 @@ $("#boutonRecommencer").click(function(){
     $("#image7").attr("src", "img/image_03.jpg");
     $("#image8").attr("src", "img/image_05.jpg");
     $("#image9").attr("src", "img/image_01.jpg");
-    $('#solide').hide();
+    $('#victoire').hide();
+    nbCompteur = 0;
+
+
 
 });
 
@@ -110,7 +111,7 @@ $("#boutonTricher").click(function(){
     $("#image7").attr("src", "img/image_07.jpg");
     $("#image8").attr("src", "img/image_08.jpg");
     $("#image9").attr("src", "img/image_09.jpg");
-    $('#solide').toggle();
+    $('#victoire').show();
 });
 
 
