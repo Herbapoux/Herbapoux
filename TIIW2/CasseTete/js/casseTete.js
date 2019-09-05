@@ -1,37 +1,44 @@
-var premierClic = 1;
+var premierClic = 0;
 var premierImageSRC;
 var premiereImageID;
 var deuxiemeImageSRC;
 var deuxiemeImageID;
 
+
+
+$('.img-fluid').hover(function () {
+    $('.img-fluid').css("cursor", "pointer");
+
+});
+
 $( ".img-fluid" ).click(function()
 {
-
     var idImage = this.id;
     var sourceImage = this.src;
 
     //Premier click
-    if(premierClic < 2)
+
+    if(premierClic === 1)
     {
         $('#'+idImage).hide(500);
         premierImageSRC = sourceImage;
         premiereImageID = idImage;
-        premierClic = 2;
+        premierClic = 0;
         //alert("Cliquez maintenant sur l'autre image.")
         //console.log("ID = " + premiereImageID + "\n" + "Source = " + premierImageSRC);
 
         fVerification();
     }
-    //Deuxieme click
+    //Deuxième click
     else
     {
         //Vérifie si la meme image a ete clique
-        if(idImage === premiereImageID)
+        /*if(idImage === premiereImageID)
         {
-            alert("veuiillez click sur une autre image.");
+            alert("veuillez click sur une autre image.");
         }
         else
-        {
+        {*/
 
         deuxiemeImageSRC = sourceImage;
         deuxiemeImageID = idImage;
@@ -48,8 +55,9 @@ $( ".img-fluid" ).click(function()
 
         fVerification();
 
-        }
     }
+    //}
+
 });
 
 function fVerification()
@@ -66,20 +74,44 @@ function fVerification()
 
             if(file === "image_0"+i+".jpg")
             {
-                FVictoire++
+                FVictoire = FVictoire + 1
             }
 
             //console.log(file + " : image_0" + i+".jpg")
      }
 
      if(FVictoire === 9)
-    {
-
-        FVictoire = 0;
-        setTimeout( 500), alert("Bravo champion");
-    }
+     {
+         setTimeout(500);
+         alert("Bravo champion");
+     }
 
     //console.log("Bonne réponse : " + NbrBonneReponse);
 }
 
 fVerification();
+
+
+/*$( ".img-fluid" ).click(function() {
+    var idImage = this.id;
+    var sourceImage = this.src;
+    alert(idImage);
+});*/
+
+/*compteur = 0;
+$("#boutonChangerImage").click(function(){
+    var imagedeflash;
+
+    imagedeflash = $('#flashID').attr("src");
+    if(compteur < 2)
+
+        if(imagedeflash === "img/flash.jpg"){
+        $('#flashID').attr("src" , "img/flash2.jpg");
+        }
+
+        else{
+        $('#flashID').attr("src" , "img/flash.jpg");
+        }
+
+    compteur = compteur + 1
+});*/

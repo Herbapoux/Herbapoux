@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ff4d429-cfd9-4082-9854-8989924532f2" name="Default Changelist" comment="" />
+    <list default="true" id="8ff4d429-cfd9-4082-9854-8989924532f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CasseTete/js/casseTete.js" beforeDir="false" afterPath="$PROJECT_DIR$/CasseTete/js/casseTete.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,33 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CasseTete/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="372">
+              <caret line="25" column="86" selection-start-line="25" selection-start-column="80" selection-end-line="25" selection-end-column="86" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CasseTete/js/casseTete.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1260">
-              <caret line="84" column="16" selection-start-line="84" selection-start-column="16" selection-end-line="84" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jQuery_tp2/Index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="4" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -44,16 +34,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jQuery_tp2/js/js_jQuery.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="98" column="35" lean-forward="true" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
+            <state relative-caret-position="388">
+              <caret line="60" column="4" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CasseTete/js/jquery-3.3.1.js">
+        <entry file="file://$PROJECT_DIR$/Nav_js/js/js3.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-699">
+            <state relative-caret-position="476">
+              <caret line="295" selection-start-line="295" selection-end-line="295" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Nav_js/js/js4_while.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -123,8 +123,8 @@
         <option value="$PROJECT_DIR$/index_exemple/index.html" />
         <option value="$PROJECT_DIR$/jQuery_tp2/Index.html" />
         <option value="$PROJECT_DIR$/CasseTete/css/style.css" />
-        <option value="$PROJECT_DIR$/CasseTete/js/casseTete.js" />
         <option value="$PROJECT_DIR$/CasseTete/Index.html" />
+        <option value="$PROJECT_DIR$/CasseTete/js/casseTete.js" />
       </list>
     </option>
   </component>
@@ -132,7 +132,7 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="y" value="30" />
     <option name="width" value="1280" />
     <option name="height" value="737" />
   </component>
@@ -143,7 +143,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,13 +162,30 @@
             <path>
               <item name="TIIW2" type="b2602c69:ProjectViewProjectNode" />
               <item name="TIIW2" type="462c0819:PsiDirectoryNode" />
-              <item name="CasseTete" type="462c0819:PsiDirectoryNode" />
+              <item name="jQuery_tp2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIIW2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIIW2" type="462c0819:PsiDirectoryNode" />
+              <item name="jQuery_tp2" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIIW2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIIW2" type="462c0819:PsiDirectoryNode" />
+              <item name="Nav_js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIIW2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIIW2" type="462c0819:PsiDirectoryNode" />
+              <item name="Nav_js" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -261,15 +277,17 @@
       <workItem from="1567117777300" duration="932000" />
       <workItem from="1567436307480" duration="14162000" />
       <workItem from="1567457394970" duration="1765000" />
-      <workItem from="1567631976788" duration="245000" />
+      <workItem from="1567631976788" duration="1121000" />
+      <workItem from="1567683480327" duration="3348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="234629000" />
+    <option name="totallyTimeSpent" value="238853000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="737" extended-state="0" />
+    <frame x="0" y="30" width="1280" height="737" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49646643" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" sideWeight="0.50353354" side_tool="true" weight="0.25" />
@@ -320,13 +338,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="11" selection-start-line="20" selection-end-line="20" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Nav_js/js/js3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4425">
-          <caret line="295" selection-start-line="295" selection-end-line="295" />
         </state>
       </provider>
     </entry>
@@ -465,16 +476,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Nav_js/js/js4_while.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1851">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index_exemple/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -532,6 +533,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CasseTete/js/jquery-3.3.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-809">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jQuery_tp2/Index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -545,31 +555,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jQuery_tp2/js/js_jQuery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="98" column="35" lean-forward="true" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
+        <state relative-caret-position="388">
+          <caret line="60" column="4" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CasseTete/js/jquery-3.3.1.js">
+    <entry file="file://$PROJECT_DIR$/Nav_js/js/js3.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-699">
+        <state relative-caret-position="476">
+          <caret line="295" selection-start-line="295" selection-end-line="295" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Nav_js/js/js4_while.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CasseTete/js/casseTete.js">
+    <entry file="file://$PROJECT_DIR$/CasseTete/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="84" column="16" selection-start-line="84" selection-start-column="16" selection-end-line="84" selection-end-column="16" />
+        <state relative-caret-position="372">
+          <caret line="25" column="86" selection-start-line="25" selection-start-column="80" selection-end-line="25" selection-end-column="86" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CasseTete/index.html">
+    <entry file="file://$PROJECT_DIR$/CasseTete/js/casseTete.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
