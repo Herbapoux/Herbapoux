@@ -5,11 +5,12 @@ var deuxiemeImageSRC;
 var deuxiemeImageID;
 
 
-
 $('.img-fluid').hover(function () {
     $('.img-fluid').css("cursor", "pointer");
 
 });
+
+var nbCompteur = 0;
 
 $( ".img-fluid" ).click(function()
 {
@@ -17,29 +18,19 @@ $( ".img-fluid" ).click(function()
     var sourceImage = this.src;
 
     //Premier click
-
     if(premierClic === 1)
     {
         $('#'+idImage).hide(500);
         premierImageSRC = sourceImage;
         premiereImageID = idImage;
         premierClic = 0;
-        //alert("Cliquez maintenant sur l'autre image.")
-        //console.log("ID = " + premiereImageID + "\n" + "Source = " + premierImageSRC);
 
         fVerification();
     }
+
     //Deuxième click
     else
     {
-        //Vérifie si la meme image a ete clique
-        /*if(idImage === premiereImageID)
-        {
-            alert("veuillez click sur une autre image.");
-        }
-        else
-        {*/
-
         deuxiemeImageSRC = sourceImage;
         deuxiemeImageID = idImage;
 
@@ -52,12 +43,10 @@ $( ".img-fluid" ).click(function()
         premiereImageID = "";
         deuxiemeImageSRC = "";
         deuxiemeImageID = "";
+        nbCompteur = nbCompteur + 1;
 
         fVerification();
-
     }
-    //}
-
 });
 
 function fVerification()
@@ -66,52 +55,63 @@ function fVerification()
 
      for(i=1; i<10; i++)
      {
-            //getting image source
-            var path = $('#image'+i).attr('src');
+         //getting image source
+         var path = $('#image'+i).attr('src');
 
-            //splitting url and getting filename with file extension
-            var file = path.split('/').pop();
+         //splitting url and getting filename with file extension
+         var file = path.split('/').pop();
 
-            if(file === "image_0"+i+".jpg")
-            {
-                FVictoire = FVictoire + 1
-            }
-
-            //console.log(file + " : image_0" + i+".jpg")
+         if(file === "image_0"+i+".jpg")
+         {
+             FVictoire = FVictoire + 1
+         }
      }
 
      if(FVictoire === 9)
      {
-         setTimeout(500);
-         alert("Bravo champion");
-     }
 
-    //console.log("Bonne réponse : " + NbrBonneReponse);
+         //$('#solide').toggle();
+         setTimeout(function ()
+         {
+             $('#victoire').toggle();
+         }, 500);
+         $('#victoire, h1').prepend("Bravo, vous l'avez réussi en " + nbCompteur + " clics!");
+
+     }
 }
 
 fVerification();
 
+//BOUTON RECOMMENCER
 
-/*$( ".img-fluid" ).click(function() {
-    var idImage = this.id;
-    var sourceImage = this.src;
-    alert(idImage);
-});*/
+$("#boutonRecommencer").click(function(){
+    $("#image1").attr("src", "img/image_02.jpg");
+    $("#image2").attr("src", "img/image_08.jpg");
+    $("#image3").attr("src", "img/image_09.jpg");
+    $("#image4").attr("src", "img/image_07.jpg");
+    $("#image5").attr("src", "img/image_06.jpg");
+    $("#image6").attr("src", "img/image_04.jpg");
+    $("#image7").attr("src", "img/image_03.jpg");
+    $("#image8").attr("src", "img/image_05.jpg");
+    $("#image9").attr("src", "img/image_01.jpg");
+    $('#solide').hide();
 
-/*compteur = 0;
-$("#boutonChangerImage").click(function(){
-    var imagedeflash;
+});
 
-    imagedeflash = $('#flashID').attr("src");
-    if(compteur < 2)
+//BOUTON TRICHER
 
-        if(imagedeflash === "img/flash.jpg"){
-        $('#flashID').attr("src" , "img/flash2.jpg");
-        }
+$("#boutonTricher").click(function(){
+    $("#image1").attr("src", "img/image_01.jpg");
+    $("#image2").attr("src", "img/image_02.jpg");
+    $("#image3").attr("src", "img/image_03.jpg");
+    $("#image4").attr("src", "img/image_04.jpg");
+    $("#image5").attr("src", "img/image_05.jpg");
+    $("#image6").attr("src", "img/image_06.jpg");
+    $("#image7").attr("src", "img/image_07.jpg");
+    $("#image8").attr("src", "img/image_08.jpg");
+    $("#image9").attr("src", "img/image_09.jpg");
+    $('#solide').toggle();
+});
 
-        else{
-        $('#flashID').attr("src" , "img/flash.jpg");
-        }
 
-    compteur = compteur + 1
-});*/
+
