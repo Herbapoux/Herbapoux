@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ff4d429-cfd9-4082-9854-8989924532f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CasseTete/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CasseTete/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CasseTete/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+            <state relative-caret-position="161">
+              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -115,8 +115,8 @@
         <option value="$PROJECT_DIR$/jQuery_tp2/Index.html" />
         <option value="$PROJECT_DIR$/CasseTete/css/style.css" />
         <option value="$PROJECT_DIR$/CasseTete/Index.html" />
-        <option value="$PROJECT_DIR$/CasseTete/index.html" />
         <option value="$PROJECT_DIR$/CasseTete/js/casseTete.js" />
+        <option value="$PROJECT_DIR$/CasseTete/index.html" />
       </list>
     </option>
   </component>
@@ -149,7 +149,7 @@
             <path>
               <item name="TIIW2" type="b2602c69:ProjectViewProjectNode" />
               <item name="TIIW2" type="462c0819:PsiDirectoryNode" />
-              <item name="jQuery_tp2" type="462c0819:PsiDirectoryNode" />
+              <item name="CasseTete" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -249,15 +249,16 @@
       <workItem from="1567457394970" duration="1765000" />
       <workItem from="1567631976788" duration="1121000" />
       <workItem from="1567683480327" duration="13721000" />
-      <workItem from="1567722909301" duration="169000" />
+      <workItem from="1567722909301" duration="375000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="249395000" />
+    <option name="totallyTimeSpent" value="249601000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="108" width="1280" height="659" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49646643" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" sideWeight="0.50353354" side_tool="true" weight="0.25" />
@@ -527,8 +528,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CasseTete/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+        <state relative-caret-position="161">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
         </state>
       </provider>
     </entry>
