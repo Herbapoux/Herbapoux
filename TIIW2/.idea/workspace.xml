@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ff4d429-cfd9-4082-9854-8989924532f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/TIIW2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TIIW2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8ff4d429-cfd9-4082-9854-8989924532f2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ProjetSynthese/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="208" column="44" lean-forward="true" selection-start-line="208" selection-start-column="44" selection-end-line="208" selection-end-column="44" />
+            <state relative-caret-position="214">
+              <caret line="196" column="8" selection-start-line="196" selection-start-column="8" selection-end-line="196" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -232,12 +227,12 @@
       <workItem from="1569330524908" duration="9021000" />
       <workItem from="1569413002095" duration="13945000" />
       <workItem from="1569506148120" duration="21086000" />
-      <workItem from="1569585899348" duration="6015000" />
+      <workItem from="1569585899348" duration="6062000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="303543000" />
+    <option name="totallyTimeSpent" value="303590000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="702" extended-state="0" />
@@ -493,8 +488,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProjetSynthese/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="208" column="44" lean-forward="true" selection-start-line="208" selection-start-column="44" selection-end-line="208" selection-end-column="44" />
+        <state relative-caret-position="214">
+          <caret line="196" column="8" selection-start-line="196" selection-start-column="8" selection-end-line="196" selection-end-column="8" />
         </state>
       </provider>
     </entry>
