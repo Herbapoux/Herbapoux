@@ -110,7 +110,7 @@ const MutationObserver =
             if (typeof console !== 'undefined' && console !== null) {
                 console.warn('MutationObserver is not supported by your browser.');
                 console.warn(
-                    'WowMin.js cannot detect dom mutations, please call .sync() after loading new content.'
+                    'Wow.js cannot detect dom mutations, please call .sync() after loading new content.'
                 );
             }
         }
@@ -136,7 +136,7 @@ const getComputedStyle = window.getComputedStyle ||
         };
     };
 
-export default class WowMin {
+export default class Wow {
     defaults = {
         boxClass: 'wow',
         animateClass: 'animated',
