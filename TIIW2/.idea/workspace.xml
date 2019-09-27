@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ff4d429-cfd9-4082-9854-8989924532f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ProjetSynthese/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetSynthese/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjetSynthese/js/wow.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ProjetSynthese/js/wow.js" afterDir="false" />
-    </list>
+    <list default="true" id="8ff4d429-cfd9-4082-9854-8989924532f2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ProjetSynthese/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="370">
+              <caret line="165" column="54" selection-start-line="165" selection-start-column="54" selection-end-line="165" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -271,12 +268,12 @@
       <workItem from="1569330524908" duration="9021000" />
       <workItem from="1569413002095" duration="13945000" />
       <workItem from="1569506148120" duration="21086000" />
-      <workItem from="1569585899348" duration="8464000" />
+      <workItem from="1569585899348" duration="8596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="305992000" />
+    <option name="totallyTimeSpent" value="306124000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="702" extended-state="0" />
@@ -536,8 +533,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProjetSynthese/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="370">
+          <caret line="165" column="54" selection-start-line="165" selection-start-column="54" selection-end-line="165" selection-end-column="54" />
         </state>
       </provider>
     </entry>
