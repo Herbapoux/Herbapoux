@@ -112,6 +112,7 @@ $("#boutonTricher").click(function(){
     $("#image8").attr("src", "img/image_08.jpg");
     $("#image9").attr("src", "img/image_09.jpg");
     $('#victoire').show();
+    nbCompteur = 0;
 });
 
 

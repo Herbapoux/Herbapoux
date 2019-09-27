@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1/ProjetSynthese/.idea/ProjetSynthese.iml" filepath="$PROJECT_DIR$/../../../../../../AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1/ProjetSynthese/.idea/ProjetSynthese.iml" />
       <module fileurl="file://$PROJECT_DIR$/../TIIW1/.idea/TIIW1.iml" filepath="$PROJECT_DIR$/../TIIW1/.idea/TIIW1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/TIIW2.iml" filepath="$PROJECT_DIR$/.idea/TIIW2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../../AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1/untitled/.idea/untitled.iml" filepath="$PROJECT_DIR$/../../../../../../AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1/untitled/.idea/untitled.iml" />
     </modules>
   </component>
 </project>

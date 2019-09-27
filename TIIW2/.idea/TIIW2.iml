@@ -5,5 +5,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="TIIW1" />
+    <orderEntry type="module" module-name="ProjetSynthese" />
+    <orderEntry type="module" module-name="untitled" />
   </component>
 </module>
