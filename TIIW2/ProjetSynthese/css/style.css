@@ -1,0 +1,326 @@
+html, body{
+    margin: 0;
+    height: 100%;
+    font-size: 16px;
+}
+
+@font-face {
+    font-family: 'Montserrat ExtraBold';
+    src: url("../Font/MontserratExtraBold.ttf");
+}
+
+@font-face {
+    font-family: 'Montserrat Black';
+    src: url("../Font/MontserratBlack.ttf");
+}
+
+@font-face {
+    font-family: 'Montserrat SemiBold';
+    src: url("../Font/MontserratSemiBold.ttf");
+}
+
+@font-face {
+    font-family: 'Montserrat Bold';
+    src: url("../Font/MontserratBold.ttf");
+}
+
+@font-face {
+    font-family: 'Montserrat Regular';
+    src: url("../Font/MontserratRegular.ttf");
+}
+
+hr{
+    border-top: 1px solid white;
+
+}
+
+.bgBleu{
+    background-color: rgba(42,125,169,0.3);
+}
+
+.bgBleuFooter{
+    background-color: rgba(42,125,169,0.7);
+}
+
+.bgBravo{
+    background-image: url("../img/JeuneGarconContent.jpeg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.bgImage1 {
+    background-image: url("../img/Natation.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.bgImage2{
+    background-image: url("../img/Aquaforme.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+.bgImage3{
+    background-image: url("../img/Sauveteur.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgVert{
+    background-color: rgb(102,164,127);
+}
+
+.btnVert{
+    border-radius: 0.38em;
+    background-color: rgb(102,164,127);
+    border-width: 2px;
+    font-size: 1em;
+    color: white;
+}
+
+.btnBlanc{
+    border-radius: 0.38em;
+    border-color: white;
+    border-width: 2px;
+    font-size: 1em;
+    color: white;
+}
+
+.btnBlancInscription{
+    border-radius: 0.38em;
+    border-color: white;
+    border-width: 2px;
+    font-size: 2em;
+    font-family: "Montserrat SemiBold";
+    color: white;
+}
+
+.fontBlanc{
+    color: white;
+}
+
+.fontBlancCours{
+    font-family: "Montserrat SemiBold";
+    color: white;
+    font-size: 3rem;
+    opacity: 0.8;
+    text-shadow: -1px 0 gray, 0 1px grey, 1px 0 grey, 0 -1px grey;
+}
+
+.fontBlancFooter{
+    font-family: "Montserrat Bold";
+    color: white;
+    font-size: 2.5rem;
+}
+
+.fontBlancFooter2{
+    font-family: "Montserrat Regular";
+    color: white;
+    font-size: 1.6rem;
+}
+
+.fab{
+    color: white;
+}
+
+.fontBravo{
+    font-family: "Montserrat Black";
+    font-size: 5rem;
+    color: white;
+}
+
+.h-15{
+    height: 15%;
+}
+
+.hamburger{
+    color: white;
+}
+
+
+.imageMenu{
+    height: auto;
+    width: auto;
+    max-height: 72px;
+    max-width: 250px;
+}
+
+.parallax{
+    background-image: url("../img/bullesAccueil.jpg");
+    background-attachment: fixed;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.textInscription{
+    font-family: "Montserrat SemiBold";
+    color: white;
+
+}
+
+.titre{
+    font-size: 7rem;
+    color: white;
+    font-family: "Montserrat ExtraBold";
+}
+
+.titreVert{
+    font-size: 5rem;
+    color: rgb(102,164,127);
+    font-family: "Montserrat Black";
+}
+
+/****************** Section du Navbar *******************/
+
+.navbar {
+    background-color: rgba(1,111,170, 0.7);
+}
+.navbar .navbar-brand {
+    color: #ffffff;
+}
+.navbar .navbar-brand:hover,
+.navbar .navbar-brand:focus {
+    color: #000000;
+}
+.navbar .navbar-text {
+    color: #ffffff;
+}
+.navbar .navbar-text a {
+    color: #000000;
+}
+.navbar .navbar-text a:hover,
+.navbar .navbar-text a:focus {
+    color: #000000;
+}
+.navbar .navbar-nav .nav-link {
+    color: #ffffff;
+    border-radius: .25rem;
+    margin: 0 0.25em;
+}
+.navbar .navbar-nav .nav-link:not(.disabled):hover,
+.navbar .navbar-nav .nav-link:not(.disabled):focus {
+    color: #000000;
+}
+.navbar .navbar-nav .dropdown-menu {
+    background-color: rgba(1,111,170,0.7);
+    border-color: #ffffff;
+}
+.navbar .navbar-nav .dropdown-menu .dropdown-item {
+    color: #ffffff;
+}
+.navbar .navbar-nav .dropdown-menu .dropdown-item:hover,
+.navbar .navbar-nav .dropdown-menu .dropdown-item:focus,
+.navbar .navbar-nav .dropdown-menu .dropdown-item.active {
+    color: #000000;
+    background-color: #ffffff;
+}
+.navbar .navbar-nav .dropdown-menu .dropdown-divider {
+    border-top-color: #ffffff;
+}
+.navbar .navbar-nav .nav-item.active .nav-link,
+.navbar .navbar-nav .nav-item.active .nav-link:hover,
+.navbar .navbar-nav .nav-item.active .nav-link:focus,
+.navbar .navbar-nav .nav-item.show .nav-link,
+.navbar .navbar-nav .nav-item.show .nav-link:hover,
+.navbar .navbar-nav .nav-item.show .nav-link:focus {
+    color: #000000;
+    background-color: #ffffff;
+}
+.navbar .navbar-toggle {
+    border-color: #ffffff;
+}
+.navbar .navbar-toggle:hover,
+.navbar .navbar-toggle:focus {
+    background-color: #ffffff;
+}
+.navbar .navbar-toggle .navbar-toggler-icon {
+    color: #ffffff;
+}
+.navbar .navbar-collapse,
+.navbar .navbar-form {
+    border-color: #ffffff;
+}
+.navbar .navbar-link {
+    color: #ffffff;
+}
+.navbar .navbar-link:hover {
+    color: #000000;
+}
+
+@media (max-width: 575px) {
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #ffffff;
+    }
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #000000;
+    }
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #000000;
+        background-color: #ffffff;
+    }
+}
+
+@media (max-width: 767px) {
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #ffffff;
+    }
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #000000;
+    }
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #000000;
+        background-color: #ffffff;
+    }
+}
+
+@media (max-width: 991px) {
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #ffffff;
+    }
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #000000;
+    }
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #000000;
+        background-color: #ffffff;
+    }
+}
+
+@media (max-width: 1199px) {
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #ffffff;
+    }
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #000000;
+    }
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #000000;
+        background-color: #ffffff;
+    }
+}
+
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item {
+    color: #ffffff;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+    color: #000000;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item.active {
+    color: #000000;
+    background-color: #ffffff;
+}

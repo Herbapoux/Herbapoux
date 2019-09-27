@@ -4,8 +4,8 @@
     <list default="true" id="8ff4d429-cfd9-4082-9854-8989924532f2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/TIIW2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TIIW2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CasseTete/js/casseTete.js" beforeDir="false" afterPath="$PROJECT_DIR$/CasseTete/js/casseTete.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,37 +16,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../../../../../../AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1/ProjetSynthese/index.html">
+        <entry file="file://$PROJECT_DIR$/ProjetSynthese/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="201" selection-start-line="201" selection-end-line="202" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../../../../AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1/ProjetSynthese/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="31" selection-start-line="31" selection-end-line="34" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../TIIW1/Examen_2_Parallax/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="91" selection-start-line="15" selection-start-column="76" selection-end-line="15" selection-end-column="91" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../TIIW1/Examen_2_Parallax/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="870">
-              <caret line="58" selection-start-line="58" selection-end-line="60" selection-end-column="1" />
+            <state relative-caret-position="309">
+              <caret line="208" column="44" lean-forward="true" selection-start-line="208" selection-start-column="44" selection-end-line="208" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -73,7 +46,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HTML/Header.php" />
         <option value="$PROJECT_DIR$/index/index.html" />
         <option value="$PROJECT_DIR$/HTML/js/jquery-3.3.1.js" />
         <option value="$PROJECT_DIR$/HTML/SePreparer.html" />
@@ -124,6 +96,7 @@
         <option value="$PROJECT_DIR$/../TIIW1/Examen_2_Parallax/index.html" />
         <option value="$PROJECT_DIR$/../../../../../../AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1/ProjetSynthese/css/style.css" />
         <option value="$PROJECT_DIR$/../../../../../../AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1/ProjetSynthese/index.html" />
+        <option value="$PROJECT_DIR$/ProjetSynthese/index.html" />
       </list>
     </option>
   </component>
@@ -148,7 +121,12 @@
           <expand>
             <path>
               <item name="TIIW2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled" type="462c0819:PsiDirectoryNode" />
+              <item name="TIIW2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIIW2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIIW2" type="462c0819:PsiDirectoryNode" />
+              <item name="ProjetSynthese" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -254,17 +232,18 @@
       <workItem from="1569330524908" duration="9021000" />
       <workItem from="1569413002095" duration="13945000" />
       <workItem from="1569506148120" duration="21086000" />
-      <workItem from="1569585899348" duration="4857000" />
+      <workItem from="1569585899348" duration="6015000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="302385000" />
+    <option name="totallyTimeSpent" value="303543000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="702" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49646643" visible="true" weight="0.45" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49646643" visible="true" weight="0.3484375" />
       <window_info id="Structure" order="1" sideWeight="0.50353354" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -290,28 +269,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-370" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="8" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CasseTete/css/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../Technique d'intégration des interfaces WEB 2/Materiel recu/12_Examen_Final/casseTete2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="16" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CasseTete/js/jquery-3.3.1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-809">
@@ -373,15 +330,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="795">
           <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../../../AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1/ProjetSynthese/js/jquery-3.3.1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -497,17 +445,28 @@
     <entry file="file://$PROJECT_DIR$/../../../../../../AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1/ProjetSynthese/img/Sauveteur.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../TIIW1/Examen_2_Parallax/index.html">
+    <entry file="file://$PROJECT_DIR$/ProjetSynthese/.idea/ProjetSynthese.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetSynthese/.idea/index.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetSynthese/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../../../AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1/ProjetSynthese/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="91" selection-start-line="15" selection-start-column="76" selection-end-line="15" selection-end-column="91" />
+        <state relative-caret-position="303">
+          <caret line="201" selection-start-line="201" selection-end-line="202" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../TIIW1/Examen_2_Parallax/css/style.css">
+    <entry file="file://$PROJECT_DIR$/../../../../../../AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1/ProjetSynthese/js/jquery-3.3.1.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="58" selection-start-line="58" selection-end-line="60" selection-end-column="1" />
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -518,10 +477,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../../../AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1/ProjetSynthese/index.html">
+    <entry file="file://$PROJECT_DIR$/../TIIW1/Examen_2_Parallax/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="201" selection-start-line="201" selection-end-line="202" />
+        <state relative-caret-position="15">
+          <caret line="15" column="91" selection-start-line="15" selection-start-column="76" selection-end-line="15" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TIIW1/Examen_2_Parallax/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="58" selection-start-line="58" selection-end-line="60" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetSynthese/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="208" column="44" lean-forward="true" selection-start-line="208" selection-start-column="44" selection-end-line="208" selection-end-column="44" />
         </state>
       </provider>
     </entry>
