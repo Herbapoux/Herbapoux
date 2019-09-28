@@ -13,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ProjetSynthese/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="165" column="54" selection-start-line="165" selection-start-column="54" selection-end-line="165" selection-end-column="54" />
+            <state relative-caret-position="45">
+              <caret line="164" lean-forward="true" selection-start-line="164" selection-end-line="164" />
             </state>
           </provider>
         </entry>
@@ -178,7 +178,7 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -268,12 +268,12 @@
       <workItem from="1569330524908" duration="9021000" />
       <workItem from="1569413002095" duration="13945000" />
       <workItem from="1569506148120" duration="21086000" />
-      <workItem from="1569585899348" duration="8596000" />
+      <workItem from="1569585899348" duration="8769000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="306124000" />
+    <option name="totallyTimeSpent" value="306297000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="702" extended-state="0" />
@@ -533,8 +533,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProjetSynthese/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="165" column="54" selection-start-line="165" selection-start-column="54" selection-end-line="165" selection-end-column="54" />
+        <state relative-caret-position="45">
+          <caret line="164" lean-forward="true" selection-start-line="164" selection-end-line="164" />
         </state>
       </provider>
     </entry>
