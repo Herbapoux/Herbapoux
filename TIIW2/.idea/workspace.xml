@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ff4d429-cfd9-4082-9854-8989924532f2" name="Default Changelist" comment="" />
+    <list default="true" id="8ff4d429-cfd9-4082-9854-8989924532f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ProjetSynthese/Header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjetSynthese/NousJoindre.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjetSynthese/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjetSynthese/natation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjetSynthese/natation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,17 +20,51 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProjetSynthese/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="175" column="47" lean-forward="true" selection-start-line="175" selection-start-column="47" selection-end-line="175" selection-end-column="47" />
+            <state relative-caret-position="-6">
+              <caret line="215" column="10" lean-forward="true" selection-start-line="215" selection-start-column="10" selection-end-line="215" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProjetSynthese/natation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1904">
+              <caret line="385" column="8" lean-forward="true" selection-start-line="385" selection-start-column="8" selection-end-line="387" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProjetSynthese/nousJoindre.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="140" selection-start-line="140" selection-end-line="155" selection-end-column="10" />
+              <folding>
+                <element signature="n#style#0;n#iframe#0;n#div#1;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ProjetSynthese/nouvelles.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="139" column="30" lean-forward="true" selection-start-line="139" selection-start-column="30" selection-end-line="139" selection-end-column="30" />
+              <folding>
+                <element signature="e#8727#8734#1" expanded="true" />
+                <element signature="e#9173#9180#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProjetSynthese/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="129" column="11" lean-forward="true" selection-start-line="129" selection-start-column="11" selection-end-line="129" selection-end-column="11" />
+            <state relative-caret-position="315">
+              <caret line="283" column="12" selection-start-line="283" selection-start-column="12" selection-end-line="283" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -33,9 +74,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -50,14 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HTML/Randonnee.html" />
-        <option value="$PROJECT_DIR$/HTML/Parcs.html" />
-        <option value="$PROJECT_DIR$/Modal/index.html" />
-        <option value="$PROJECT_DIR$/Formulaires/FormulaireEnvoye.html" />
-        <option value="$PROJECT_DIR$/HTML/FormulaireEnvoyee.html" />
-        <option value="$PROJECT_DIR$/HTML/Accueil.html" />
-        <option value="$PROJECT_DIR$/HTML/css/style.css" />
-        <option value="$PROJECT_DIR$/HTML/index.html" />
         <option value="$PROJECT_DIR$/HTML/Informations.html" />
         <option value="$PROJECT_DIR$/HTML/Randonnees.html" />
         <option value="$PROJECT_DIR$/Menu_3_Pages/index.html" />
@@ -99,8 +132,16 @@
         <option value="$PROJECT_DIR$/../../../../../../AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1/ProjetSynthese/index.html" />
         <option value="$PROJECT_DIR$/ProjetSynthese/js/WOW.js" />
         <option value="$PROJECT_DIR$/ProjetSynthese/css/animate.css" />
+        <option value="$PROJECT_DIR$/ProjetSynthese/header.php" />
+        <option value="$PROJECT_DIR$/ProjetSynthese/natation.php" />
+        <option value="$PROJECT_DIR$/ProjetSynthese/footer.php" />
+        <option value="$PROJECT_DIR$/ProjetSynthese/index.php" />
+        <option value="$PROJECT_DIR$/ProjetSynthese/NousJoindre.html" />
+        <option value="$PROJECT_DIR$/ProjetSynthese/natation.html" />
+        <option value="$PROJECT_DIR$/ProjetSynthese/nousJoindre.html" />
         <option value="$PROJECT_DIR$/ProjetSynthese/index.html" />
         <option value="$PROJECT_DIR$/ProjetSynthese/css/style.css" />
+        <option value="$PROJECT_DIR$/ProjetSynthese/nouvelles.html" />
       </list>
     </option>
   </component>
@@ -108,7 +149,7 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="y" value="40" />
     <option name="width" value="1280" />
     <option name="height" value="702" />
   </component>
@@ -142,7 +183,7 @@
               <item name="TIIW2" type="b2602c69:ProjectViewProjectNode" />
               <item name="TIIW2" type="462c0819:PsiDirectoryNode" />
               <item name="ProjetSynthese" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -250,17 +291,18 @@
       <workItem from="1569506148120" duration="21086000" />
       <workItem from="1569585899348" duration="8769000" />
       <workItem from="1569675618392" duration="23185000" />
+      <workItem from="1569770313130" duration="26208000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="329482000" />
+    <option name="totallyTimeSpent" value="355690000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="702" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49646643" visible="true" weight="0.3484375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49646643" visible="true" weight="0.24765626" />
       <window_info id="Structure" order="1" sideWeight="0.50353354" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -286,95 +328,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Nav_js/js/js4_while.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="31" column="24" lean-forward="true" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CasseTete/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="30" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="30" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CasseTete/js/casseTete.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1695">
-          <caret line="113" column="26" selection-start-line="113" selection-start-column="26" selection-end-line="113" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jQuery_tp2/js/js_jQuery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TIIW1/index/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TIIW1/HanSolo/CSS/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TIIW1/HanSolo/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TIIW1/Bootstrap/Exercice_site_2/css/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TIIW1/JeMePresente_v2/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TIIW1/Bootstrap/Exercice_6/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TIIW1/Bootstrap/Exercice_site_2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-705" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Modal/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jumbotron/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TIIW1/Facebook_exercice/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercice_Nav/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="131" column="4" selection-start-line="131" selection-start-column="4" selection-end-line="131" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercice_Nav/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="188" column="79" selection-start-line="188" selection-start-column="42" selection-end-line="188" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../../../AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1/ProjetSynthese/img/CheveuxMouvement.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../../../AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1/ProjetSynthese/img/LunetteJaune.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../../../AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1/ProjetSynthese/img/FilleSousLeau.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../../../../AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1/ProjetSynthese/img/EnfantPlanche.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -496,16 +449,112 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProjetSynthese/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="175" column="47" lean-forward="true" selection-start-line="175" selection-start-column="47" selection-end-line="175" selection-end-column="47" />
+        <state relative-caret-position="1470">
+          <caret line="98" selection-start-line="98" selection-end-line="98" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetSynthese/img/Natation.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Menu_3_Pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-317" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/footer.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-260" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetSynthese/natation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetSynthese/img/ImageFilleSousLeau.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetSynthese/img/JeuneGarconContent.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetSynthese/img/LunetteJaune.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetSynthese/img/NageCasqueJaune.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetSynthese/img/EnfantPlanche.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetSynthese/img/JuniorAmies.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetSynthese/img/SousLeauNoiretBlanc.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetSynthese/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="29" column="21" selection-end-line="73" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetSynthese/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="23" selection-end-line="97" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetSynthese/natation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1904">
+          <caret line="385" column="8" lean-forward="true" selection-start-line="385" selection-start-column="8" selection-end-line="387" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetSynthese/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="215" column="10" lean-forward="true" selection-start-line="215" selection-start-column="10" selection-end-line="215" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetSynthese/nousJoindre.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="140" selection-start-line="140" selection-end-line="155" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProjetSynthese/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="129" column="11" lean-forward="true" selection-start-line="129" selection-start-column="11" selection-end-line="129" selection-end-column="11" />
+        <state relative-caret-position="315">
+          <caret line="283" column="12" selection-start-line="283" selection-start-column="12" selection-end-line="283" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetSynthese/nouvelles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="139" column="30" lean-forward="true" selection-start-line="139" selection-start-column="30" selection-end-line="139" selection-end-column="30" />
+          <folding>
+            <element signature="e#8727#8734#1" expanded="true" />
+            <element signature="e#9173#9180#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

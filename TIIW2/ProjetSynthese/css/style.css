@@ -5,6 +5,33 @@ html, body{
     font-family: "Montserrat Regular";
 }
 
+h1{
+    font-size: 5rem;
+    color: white;
+    font-family: "Montserrat ExtraBold";
+}
+
+h2{
+    font-size: 4rem;
+    color: rgb(102,164,127);
+    font-family: "Montserrat Black";
+}
+
+h3{
+    font-family: "Montserrat SemiBold";
+    color: white;
+    font-size: 3rem;
+    opacity: 0.8;
+    text-shadow: -1px 0 gray, 0 1px grey, 1px 0 grey, 0 -1px grey;
+    z-index: 1;
+}
+
+h4{
+    font-family: "Montserrat Bold";
+    color: white;
+    font-size: 2.5rem;
+}
+
 h5{
     font-family: "Montserrat SemiBold";
     color: white;
@@ -45,6 +72,10 @@ hr{
     background-color: rgba(42,125,169,0.3);
 }
 
+.bgBleuFooter2{
+    background-color: rgb(1,111,170);
+}
+
 .bgBleuFooter{
     background-color: rgba(42,125,169,0.7);
 }
@@ -81,8 +112,30 @@ hr{
     background-size: cover;
 }
 
+.bgImageNatationIndi{
+    background-image: url("../img/EnfantPlanche.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgImageNatationGroupe{
+    background-image: url("../img/JuniorAmies.jpg");
+    height: 100%;
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .bgVert{
     background-color: rgb(102,164,127);
+}
+
+.bgVertImportant{
+    background-color: rgb(102,164,127);
+    border-radius: 2em;
+    border-width: 2px;
 }
 
 .btnVert{
@@ -110,8 +163,17 @@ hr{
     color: white;
 }
 
+.carte{
+    max-height: 100%;
+    max-width: 100%;
+}
+
 .containerFiltre{
     position: relative;
+}
+
+.CroixRouge{
+    height: 50px
 }
 
 .fab{
@@ -126,36 +188,8 @@ hr{
     position: absolute;
 }
 
-
-.fontBlanc{
-    color: white;
-}
-
-.fontBlancCours{
-    font-family: "Montserrat SemiBold";
-    color: white;
-    font-size: 3rem;
-    opacity: 0.8;
-    text-shadow: -1px 0 gray, 0 1px grey, 1px 0 grey, 0 -1px grey;
-    z-index: 1;
-}
-
-.fontBlancFooter{
-    font-family: "Montserrat Bold";
-    color: white;
-    font-size: 2.5rem;
-}
-
-.fontBlancFooter2{
+.textContact{
     font-family: "Montserrat Regular";
-    color: white;
-    font-size: 1.6rem;
-}
-
-.fontBravo{
-    font-family: "Montserrat Black";
-    font-size: 5rem;
-    color: white;
 }
 
 .h-15{
@@ -164,21 +198,40 @@ hr{
 .h-20{
     height: 20%;
 }
+.h-35{
+    height: 35%;
+}
 
 .h-40{
     height: 40%;
+}
+
+.h-60{
+    height: 60%;
+}
+
+.h-85{
+    height: 85%;
 }
 
 .hamburger{
     color: white;
 }
 
+.hrVert{
+    border-top: 1px solid;
+    border-color: rgb(102,164,127);
+}
 
 .imageMenu{
     height: auto;
     width: auto;
     max-height: 72px;
     max-width: 250px;
+}
+
+.imageHauteur{
+    height: 50%;
 }
 
 .parallax{
@@ -195,30 +248,43 @@ hr{
     align-items: center;
 }
 
+.parallaxNatation{
+    background: url("../img/Natation.jpg");
+    background-attachment: fixed;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    position: center;
+}
+
+.textBlanc{
+    color: white;
+    z-index: 1;
+}
+
+.textNoir{
+    color: black;
+    z-index: 1;
+}
+
 .textMenu{
     font-size: 1.3rem;
     font-family: "Montserrat SemiBold";
 
 }
 
-.textInscription{
+/****************** Section du pagination *******************/
+
+.page-item{
+    color: rgb(102,164,127)
+}
+
+.pagination{
+    font-size: 2em;
     font-family: "Montserrat SemiBold";
-    color: white;
 }
-
-.titre{
-    font-size: 5rem;
-    color: white;
-    font-family: "Montserrat ExtraBold";
-}
-
-.titreVert{
-    font-size: 5rem;
-    color: rgb(102,164,127);
-    font-family: "Montserrat Black";
-
-}
-
 /****************** Section du Navbar *******************/
 
 .navbar {
