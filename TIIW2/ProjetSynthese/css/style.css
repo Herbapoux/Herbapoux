@@ -67,6 +67,10 @@ hr{
     border-top: 1px solid white;
 }
 
+.footer{
+    color: white;
+}
+
 
 .bgBleu{
     background-color: rgba(42,125,169,0.3);
@@ -138,6 +142,11 @@ hr{
     border-width: 2px;
 }
 
+.btnBlancP{
+    opacity: .8;
+    z-index: 1;
+}
+
 .btnVert{
     border-radius: 0.38em;
     background-color: rgb(102,164,127);
@@ -158,7 +167,7 @@ hr{
     border-radius: 0.38em;
     border-color: white;
     border-width: 2px;
-    font-size: 2em;
+    font-size: 1.5em;
     font-family: "Montserrat SemiBold";
     color: white;
 }
@@ -192,8 +201,8 @@ hr{
     font-family: "Montserrat Regular";
 }
 
-.h-15{
-    height: 15%;
+.h-10{
+    height: 10%;
 }
 .h-20{
     height: 20%;
@@ -271,7 +280,7 @@ hr{
 
 .textMenu{
     font-size: 1.3rem;
-    font-family: "Montserrat SemiBold";
+    font-family: "Montserrat Regular";
 
 }
 

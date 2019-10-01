@@ -1,7 +1,6 @@
 
 <!-- header -->
 
-<!--<?php include "header.php"; ?>-->
 <!DOCTYPE html>
 <html lang="fr-ca">
 <head>
@@ -14,7 +13,7 @@
     <link rel="stylesheet" href="css/animate.css">
     <script src="js/wow.js"></script>
     <script>
-        new Wow().init();
+        new  Wow().init();
     </script>
     <link rel="stylesheet" type="text/css" href="https://csshake.surge.sh/csshake.min.css">
 
@@ -31,7 +30,7 @@
 
 <nav class="col-12 navbar navbar-expand-md fixed-top p-0 textMenu">
     <div class="container-fluid">
-        <a class="navbar-brand p-0 ml-5 m-0" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/">
+        <a class="navbar-brand p-0 ml-5 m-0" href="http://localhost:63342/TIIW2/ProjetSynthese/index.html?_ijt=a3ed91l2rn4l1kdj0nksdr8hm2">
             <img src="img/logomolecule.jpg" class="imageMenu" alt="logo" title="logo"/>
         </a>
 
@@ -54,19 +53,28 @@
 
         <div class="collapse navbar-collapse order-3 order-sm-2" id="navbarNavAltMarkup">
             <div class="navbar-nav d-md-flex d-block flex-row mx-md-auto mx-0">
-                <a class="nav-item nav-link active" href="#propos">Natation<span class="sr-only">(current)</span></a>
-                <a class="nav-item nav-link active" href="#propos">Aquaforme<span class="sr-only">(current)</span></a>
-                <a class="nav-item nav-link active" href="#propos">Secourisme<span class="sr-only">(current)</span></a>
+                <a class="nav-item nav-link active" href="http://localhost:63342/TIIW2/ProjetSynthese/index.html?_ijt=a3ed91l2rn4l1kdj0nksdr8hm2">Accueil<span class="sr-only">(current)</span></a>
+                <a class="nav-item nav-link" href="http://localhost:63342/TIIW2/ProjetSynthese/nouvelles.html?_ijt=9qfs0p8ggm52d19487cvdj5ptq">Nouvelles</a>
+                <div class="dropdown">
+                    <a class="nav-item dropdown nav-link" href="http://localhost:63342/TIIW2/ProjetSynthese/nosCours.html?_ijt=iat8jh1vaterva7bmus8i54af2" id="dropdownMenuButton"
+                       data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Nos cours
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                        <a class="dropdown-item" href="http://localhost:63342/TIIW2/ProjetSynthese/nosCours.html?_ijt=iat8jh1vaterva7bmus8i54af2#natation">Natation</a>
+                        <a class="dropdown-item" href="http://localhost:63342/TIIW2/ProjetSynthese/nosCours.html?_ijt=iat8jh1vaterva7bmus8i54af2#aquaforme">Aquaforme</a>
+                        <a class="dropdown-item" href="http://localhost:63342/TIIW2/ProjetSynthese/nosCours.html?_ijt=iat8jh1vaterva7bmus8i54af2#secourisme">Secourisme</a>
+                    </div>
+                </div>
             </div>
             <div class="navbar-nav ml-auto">
-                <a class="nav-item nav-link" href="#nouvelles">Nouvelles</a>
-                <a class="nav-item nav-link" href="#joindre">Nous joindre</a>
+                <a class="nav-item nav-link" href="http://localhost:63342/TIIW2/ProjetSynthese/nousJoindre.html?_ijt=dddtost9pqe19is90e154ij746">Nous joindre</a>
                 <a class="nav-item nav-link btnVert" href="#inscription">Inscription</a>
             </div>
         </div>
     </div>
-
 </nav>
+
 <!-- Accueil -->
 
 <section id="accueil" class="container-fluid h-100 p-0">
@@ -81,9 +89,10 @@
             </div>
             <div class="row h-50 align-items-center">
                 <div class="offset-8 col-xl-3">
-                    <p class="text-left textBlanc">Lorem ipsum dolor sit amet, consec tetur adipiscing elit. sit amet, consec.</p>
+                    <h5 class="text-center">Piscine fermée</h5>
+                    <p class="textBlanc">Lorem ipsum dolor sit amet, consec tetur adipiscing elit. sit amet, consec.</p>
                     <div class="text-right">
-                        <a href="#" class="btn btnVert">En savoir +</a>
+                        <a href="http://localhost:63342/TIIW2/ProjetSynthese/nouvelles.html?_ijt=9qfs0p8ggm52d19487cvdj5ptq#important" class="btn btnVert">En savoir +</a>
                     </div>
                 </div>
             </div>
@@ -93,33 +102,42 @@
 
 <!-- Cours -->
 
-<section id="" class="container-fluid d-flex flex-wrap align-items-center h-75">
+<section id="cours" class="container-fluid d-flex flex-wrap align-items-center h-75">
     <div class="container h-100 pt-4">
         <div class="row">
             <h2>Cours</h2>
         </div>
-        <div class="row h-75 pb-4">
+        <div class="row h-75">
             <div class="col-xl-4 h-100 p-0 pr-1">
                 <div class="container h-100 p-0 containerFiltre">
                     <div class="filtre"></div>
-                    <div class="container bgImage1 d-flex flex-wrap align-items-center">
+                    <div class="container bgImage1 text-center d-flex flex-wrap align-content-center">
                         <h3 class="text-center w-100">Natation</h3>
+                        <div class="container btnBlancP w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
                     </div>
                 </div>
             </div>
             <div class="col-xl-4 h-100 p-0 pl-1 pr-1">
                 <div class="container h-100 p-0 containerFiltre">
                     <div class="filtre"></div>
-                    <div class="container bgImage2 d-flex flex-wrap align-items-center">
+                    <div class="container bgImage2 text-center d-flex flex-wrap align-content-center">
                         <h3 class="text-center w-100">Aquaforme</h3>
+                        <div class="container btnBlancP w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
                     </div>
                 </div>
             </div>
             <div class="col-xl-4 h-100 p-0 pl-1">
                 <div class="container h-100 p-0 containerFiltre">
                     <div class="filtre"></div>
-                    <div class="container bgImage3 d-flex flex-wrap align-items-center">
+                    <div class="container bgImage3 text-center d-flex flex-wrap align-content-center">
                         <h3 class="text-center w-100">Secourisme</h3>
+                        <div class="container btnBlancP w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -128,7 +146,7 @@
 </section>
 
 <!-- À la une! -->
-<section id="" class="container-fluid align-items-center h-50">
+<section id="aLaUne" class="container-fluid align-items-center h-50">
     <div class="row h-100">
         <div class="col-xl-6 bgBleu h-100">
             <div class="container h-100">
@@ -137,7 +155,7 @@
                         <h2 class="textBlanc text-left">À la une!</h2>
                         <p>MAXIME LEROUX <br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
                         <div class="text-center">
-                            <a href="#" class="btn btnBlanc">Lire +</a>
+                            <a href="http://localhost:63342/TIIW2/ProjetSynthese/nouvelles.html?_ijt=9qfs0p8ggm52d19487cvdj5ptq#aLaUne" class="btn btnBlanc">Lire +</a>
                         </div>
                     </div>
                 </div>
@@ -149,17 +167,20 @@
 
 <!-- Extras -->
 
-<section id="" class="container-fluid d-flex flex-wrap align-items-center h-75">
+<section id="extras" class="container-fluid d-flex flex-wrap align-items-center h-75">
     <div class="container h-100 pt-4">
         <div class="row">
             <h2>Extras</h2>
         </div>
-        <div class="row h-75 pb-4">
+        <div class="row h-75">
             <div class="col-xl-6 h-100 p-0 pr-1">
                 <div class="container h-100 p-0 containerFiltre">
                     <div class="filtre"></div>
-                    <div class="container bgImage1 d-flex flex-wrap align-items-center">
-                        <h3 class="text-center w-100">trucs santé</h3>
+                    <div class="container bgImage1 text-center d-flex flex-wrap align-content-center">
+                        <h3 class="w-100">Trucs santé</h3>
+                        <div class="container btnBlancP w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -168,16 +189,22 @@
                     <div class="row h-50 pb-1">
                         <div class="container h-100 p-0 containerFiltre">
                             <div class="filtre"></div>
-                            <div class="container h-100 bgImage2 d-flex flex-wrap align-items-center">
-                                <h3 class="text-center w-100">Massages</h3>
+                            <div class="container h-100 bgImage2 text-center d-flex flex-wrap align-content-center">
+                                <h3 class="w-100">Massages</h3>
+                                <div class="container btnBlancP w-100">
+                                    <a href="" class="btn btnBlanc">+</a>
+                                </div>
                             </div>
                         </div>
                     </div>
                     <div class="row h-50 pt-1">
                         <div class="container h-100 p-0 containerFiltre">
                             <div class="filtre"></div>
-                            <div class="container h-100 bgImage2 d-flex flex-wrap align-items-center">
-                                <h3 class="text-center w-100">Petites molécules</h3>
+                            <div class="container h-100 bgImage2 text-center d-flex flex-wrap align-content-center">
+                                <h3 class="w-100">Petites molécules</h3>
+                                <div class="container btnBlancP w-100">
+                                    <a href="" class="btn btnBlanc">+</a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -194,7 +221,7 @@
 
 <!-- Inscription -->
 
-<section id="" class="container-fluid bgVert h-15 mb-3">
+<section id="inscription" class="container-fluid bgVert h-10 mb-2">
     <div class="container h-100">
         <div class="row d-flex flex-wrap align-items-center h-100">
             <div class="col-xl-8 p-0">
@@ -237,36 +264,30 @@
                     </div>
                 </div>
             </div>
+
         </div>
-        <div class="container-fluid p-0">
+        <div class="container-fluid p-0 pt-1 pb-1">
             <hr>
         </div>
-        <div class="container p-0 pt-3 pb-4">
+        <div class="container p-0 pt-3 textBlanc pb-4">
             <div class="row text-center">
-                <div class="col-xl-3">
-                    <h5>À propos</h5>
-                    <p class="m-0">Notre histoire</p>
-                    <p class="m-0">Équipe</p>
-                    <p class="m-0">Certificats</p>
+                <div class="navbar-nav col-xl-4">
+                    <h5><a class="dropdown-item textBlanc" href="http://localhost:63342/TIIW2/ProjetSynthese/nosCours.html?_ijt=iat8jh1vaterva7bmus8i54af2">Nos cours</a></h5>
+                    <a class="dropdown-item textBlanc" href="http://localhost:63342/TIIW2/ProjetSynthese/nosCours.html?_ijt=iat8jh1vaterva7bmus8i54af2#natation">Natation</a>
+                    <a class="dropdown-item textBlanc" href="http://localhost:63342/TIIW2/ProjetSynthese/nosCours.html?_ijt=iat8jh1vaterva7bmus8i54af2#aquaforme">Aquaforme</a>
+                    <a class="dropdown-item textBlanc" href="http://localhost:63342/TIIW2/ProjetSynthese/nosCours.html?_ijt=iat8jh1vaterva7bmus8i54af2#secourisme">Secourisme</a>
                 </div>
-                <div class="col-xl-3">
-                    <h5>Nos cours</h5>
-                    <p class="m-0">Natation</p>
-                    <p class="m-0">Aquaforme</p>
-                    <p class="m-0">Secourisme</p>
+                <div class="navbar-nav col-xl-4">
+                    <h5><a class="dropdown-item textBlanc" href="http://localhost:63342/TIIW2/ProjetSynthese/nouvelles.html?_ijt=9qfs0p8ggm52d19487cvdj5ptq">Nouvelles</a></h5>
+                    <a class="dropdown-item textBlanc" href="http://localhost:63342/TIIW2/ProjetSynthese/nouvelles.html?_ijt=9qfs0p8ggm52d19487cvdj5ptq#important">Important</a>
+                    <a class="dropdown-item textBlanc" href="http://localhost:63342/TIIW2/ProjetSynthese/nouvelles.html?_ijt=9qfs0p8ggm52d19487cvdj5ptq#aLaUne">À la une</a>
+                    <a class="dropdown-item textBlanc" href="http://localhost:63342/TIIW2/ProjetSynthese/nouvelles.html?_ijt=9qfs0p8ggm52d19487cvdj5ptq#autres">Autres</a>
                 </div>
-                <div class="col-xl-3">
-                    <h5>Nouvelles</h5>
-                    <p class="m-0">Important</p>
-                    <p class="m-0">Dernières nouvelles</p>
-                </div>
-                <div class="col-xl-3">
-                    <div class="container">
-                        <h5>Nous joindre</h5>
-                        <p class="m-0">Où ça ce passe?</p>
-                        <p class="m-0">Offres d'emploi</p>
-                        <p class="m-0">Des questions?</p>
-                    </div>
+                <div class="navbar-nav col-xl-4">
+                    <h5><a class="dropdown-item textBlanc" href="http://localhost:63342/TIIW2/ProjetSynthese/nousJoindre.html?_ijt=dddtost9pqe19is90e154ij746">Nous joindre</a></h5>
+                    <a class="dropdown-item textBlanc" href="http://localhost:63342/TIIW2/ProjetSynthese/nousJoindre.html?_ijt=dddtost9pqe19is90e154ij746#offresEmploi">Offres d'emploi</a>
+                    <a class="dropdown-item textBlanc" href="http://localhost:63342/TIIW2/ProjetSynthese/nousJoindre.html?_ijt=dddtost9pqe19is90e154ij746#ouCaCePasse">Où ça ce passe?</a>
+                    <a class="dropdown-item textBlanc" href="http://localhost:63342/TIIW2/ProjetSynthese/nousJoindre.html?_ijt=dddtost9pqe19is90e154ij746#contactezNous">Contactez-nous</a>
                 </div>
             </div>
         </div>
@@ -280,6 +301,9 @@
         </div>
     </div>
 </section>
+
+
+
 
 <script src="js/jquery-3.3.1.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
