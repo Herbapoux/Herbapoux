@@ -6,7 +6,7 @@ html, body{
 }
 
 h1{
-    font-size: 5rem;
+    font-size: 4.9rem;
     color: white;
     font-family: "Montserrat ExtraBold";
 }
@@ -282,6 +282,18 @@ hr{
     font-size: 1.3rem;
     font-family: "Montserrat Regular";
 
+}
+
+@media screen and (max-width: 700px){
+    h1{
+        font-size: 3.5rem;
+    }
+}
+
+@media screen and (min-width: 700px) and (max-width: 1500px){
+    {
+        font-size: 3rem;
+    }
 }
 
 /****************** Section du pagination *******************/
