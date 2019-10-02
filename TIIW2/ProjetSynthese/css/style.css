@@ -84,9 +84,9 @@ hr{
     background-color: rgba(42,125,169,0.7);
 }
 
-.bgAlaune{
+.bgAlaUne{
     background-image: url("../img/JeuneGarconContent.jpeg");
-    height: 100%;
+    height: 576px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover
@@ -94,7 +94,7 @@ hr{
 
 .bgImage1 {
     background-image: url("../img/Natation.jpg");
-    height: 100%;
+    height: 428px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -102,7 +102,7 @@ hr{
 
 .bgImage2{
     background-image: url("../img/Aquaforme.jpg");
-    height: 100%;
+    height: 428px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -110,7 +110,23 @@ hr{
 
 .bgImage3{
     background-image: url("../img/Sauveteur.jpg");
-    height: 100%;
+    height: 428px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgImageMassage{
+    background-image: url("../img/Aquaforme.jpg");
+    height: 210px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgImagePetiteMolecule{
+    background-image: url("../img/Aquaforme.jpg");
+    height: 210px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -287,10 +303,27 @@ hr{
 
 }
 
+@media screen and (max-width: 991px){
+    .bgImage1, .bgImage2, .bgImage3, .bgImageMassage, .bgImagePetiteMolecule{
+        height: 300px;
+    }
+    h2{
+        font-size: 3.5rem;
+    }
+    h3{
+        font-size: 3rem;
+    }
+}
 
-@media screen and (max-width: 1199px){
-    h1{
-        font-size: 5rem;
+@media screen and (max-width: 413px){
+    .bgImage1, .bgImage2, .bgImage3, .bgImageMassage, .bgImagePetiteMolecule{
+        height: 210px;
+    }
+    h2{
+        font-size: 3rem;
+    }
+    h3{
+        font-size: 2rem;
     }
 }
 
@@ -301,12 +334,6 @@ hr{
     }
     h5{
         font-size: 1.3rem;
-    }
-}
-
-@media screen and (min-width: 700px) and (max-width: 1500px){
-    .navbar{
-        justify-content: flex-end;
     }
 }
 
