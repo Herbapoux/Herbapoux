@@ -13,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ProjetSynthese/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+            <state relative-caret-position="145">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
@@ -22,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProjetSynthese/nousJoindre.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3928">
-              <caret line="282" column="7" selection-start-line="282" selection-start-column="7" selection-end-line="282" selection-end-column="7" />
+            <state relative-caret-position="106">
+              <caret line="36" column="54" selection-start-line="36" selection-start-column="54" selection-end-line="36" selection-end-column="54" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#1;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -52,8 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProjetSynthese/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="293" column="4" selection-start-line="293" selection-start-column="4" selection-end-line="293" selection-end-column="4" />
+            <state relative-caret-position="196">
+              <caret line="155" column="19" selection-start-line="155" selection-start-column="19" selection-end-line="155" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -61,7 +61,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HTML/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
+            <state relative-caret-position="82">
               <caret line="122" column="40" selection-start-line="122" selection-start-column="24" selection-end-line="122" selection-end-column="40" />
             </state>
           </provider>
@@ -135,9 +135,9 @@
         <option value="$PROJECT_DIR$/ProjetSynthese/NousJoindre.html" />
         <option value="$PROJECT_DIR$/ProjetSynthese/aquaforme.html" />
         <option value="$PROJECT_DIR$/ProjetSynthese/natation.html" />
-        <option value="$PROJECT_DIR$/ProjetSynthese/nousJoindre.html" />
         <option value="$PROJECT_DIR$/ProjetSynthese/nouvelles.html" />
         <option value="$PROJECT_DIR$/ProjetSynthese/nosCours.html" />
+        <option value="$PROJECT_DIR$/ProjetSynthese/nousJoindre.html" />
         <option value="$PROJECT_DIR$/ProjetSynthese/css/style.css" />
         <option value="$PROJECT_DIR$/ProjetSynthese/index.html" />
       </list>
@@ -309,12 +309,12 @@
       <workItem from="1569877994515" duration="82000" />
       <workItem from="1569930549349" duration="4461000" />
       <workItem from="1569942139911" duration="498000" />
-      <workItem from="1569942677468" duration="14888000" />
+      <workItem from="1569942677468" duration="17857000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="375619000" />
+    <option name="totallyTimeSpent" value="378588000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
@@ -552,20 +552,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="122" column="40" selection-start-line="122" selection-start-column="24" selection-end-line="122" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProjetSynthese/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="293" column="4" selection-start-line="293" selection-start-column="4" selection-end-line="293" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProjetSynthese/nouvelles.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4440">
@@ -575,18 +561,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProjetSynthese/nousJoindre.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3928">
-          <caret line="282" column="7" selection-start-line="282" selection-start-column="7" selection-end-line="282" selection-end-column="7" />
+        <state relative-caret-position="106">
+          <caret line="36" column="54" selection-start-line="36" selection-start-column="54" selection-end-line="36" selection-end-column="54" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#1;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="122" column="40" selection-start-line="122" selection-start-column="24" selection-end-line="122" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetSynthese/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="155" column="19" selection-start-line="155" selection-start-column="19" selection-end-line="155" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ProjetSynthese/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        <state relative-caret-position="145">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>

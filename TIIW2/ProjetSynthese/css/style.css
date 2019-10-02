@@ -6,7 +6,7 @@ html, body{
 }
 
 h1{
-    font-size: 4.9rem;
+    font-size: 5rem;
     color: white;
     font-family: "Montserrat ExtraBold";
 }
@@ -145,6 +145,9 @@ hr{
 .btnBlancP{
     opacity: .8;
     z-index: 1;
+    font-family: "Montserrat Regular";
+    font-size: 2.5rem;
+    padding-top: 1rem;
 }
 
 .btnVert{
@@ -284,9 +287,20 @@ hr{
 
 }
 
+
+@media screen and (max-width: 1199px){
+    h1{
+        font-size: 5rem;
+    }
+}
+
+
 @media screen and (max-width: 700px){
     h1{
         font-size: 3.5rem;
+    }
+    h5{
+        font-size: 1.3rem;
     }
 }
 
