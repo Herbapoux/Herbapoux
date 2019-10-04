@@ -183,6 +183,14 @@ hr{
     color: white;
 }
 
+.btnBlancNatation{
+    opacity: 1;
+    z-index: 1;
+    font-family: "Montserrat Regular";
+    font-size: 1.5rem;
+    padding-top: 1rem;
+}
+
 .btnBlancP{
     opacity: .8;
     z-index: 1;
