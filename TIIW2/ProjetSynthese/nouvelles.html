@@ -82,7 +82,7 @@
         <div class="container h-100">
             <div class="row text-right d-flex align-items-end text-right h-100">
                 <div class="col-xl-12 p-0">
-                    <h1 class="text-right">Nouvelles</h1>
+                    <h1 class="text-center text-md-right">Nouvelles</h1>
                 </div>
             </div>
         </div>
@@ -91,15 +91,15 @@
 
 <!-- Important -->
 
-<section id="important" class="container-fluid h-50">
-    <div class="container pt-4 pb-4 d-flex flex-wrap align-items-center h-100">
-        <div class="row pb-3">
-            <h2>Important</h2>
-            <div class="offset-xl-1 col-xl-10">
+<section id="important" class="container-fluid">
+    <div class="container pt-5 pb-5 d-flex flex-wrap align-items-center">
+        <div class="row">
+            <h2 class="w-100 pb-3">Important</h2>
+            <div class="col-12 offset-md-1 col-md-10">
                 <div class="container bgVertImportant d-flex align-items-center">
-                    <div class="row textBlanc text-center p-3">
+                    <div class="row textBlanc text-center pt-5 pb-5 p-3">
                         <h4 class="w-100">Piscine fermée</h4>
-                        <p class="pl-2 pr-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                        <p class="pl-2 pr-2 text-left">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
                         <P class="w-100 text-right pr-2 m-0">17 septembre 2019</P>
                     </div>
                 </div>
@@ -111,38 +111,39 @@
 
 <!-- À la une! -->
 
-<section id="aLaUne" class="container-fluid align-items-center h-50">
-    <div class="row h-100">
-        <div class="col-xl-6 bgBleu h-100">
-            <div class="container h-100">
-                <div class="row h-100 d-flex flex-wrap align-items-center">
-                    <div class="offset-xl-4 col-xl-8">
-                        <h2 class="textBlanc text-left">À la une!</h2>
-                        <p>MAXIME LEROUX <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                        <P class="w-100 text-right pr-2 m-0">17 septembre 2019</P>
+<section id="aLaUne" class="container-fluid bgBleu align-items-center">
+    <div class="container p-0">
+        <div class="row">
+            <div class="col-12 d-flex flex-wrap align-items-center">
+                <div class="container pt-5 pb-5">
+                    <h2 class="textBlanc pb-4">À la une!</h2>
+                    <div class="offset-sm-1 col-sm-10 offset-md-2 col-md-8">
+                        <img class="img-fluid imageMaxime d-none d-sm-block" src="img/JeuneGarconContent.jpeg" alt="Garçon piscine" title="Maxime Leroux"/>
+                        <h5 class="textBlanc pt-3">Bravo à Maxime Leroux</h5>
+
+                        <p class="pt-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <P class="w-100 textBlanc text-right pr-2 m-0">17 septembre 2019</P>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="col-xl-6 h-100 bgAlaUne"></div>
     </div>
 </section>
 
 <!-- Autres -->
 
-<section id="autres" class="container-fluid pt-4 pb-4 p-0">
-    <div class="container h-100 p-0">
+<section id="autres" class="container-fluid pt-5">
+    <div class="container">
         <div class="row pb-3">
             <h2>Autres...</h2>
         </div>
-        <div class="row h-75 align-items-center pb-4">
-            <div class="col-xl-6 pr-5">
+        <div class="row align-items-center pt-4 pb-4">
+            <div class="col-12 col-md-6 pr-5">
                 <h5 class="textNoir">Nouveau moniteur</h5>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 <P class="w-100 text-right pr-2 m-0">17 septembre 2019</P>
-
             </div>
-            <div class="col-xl-6">
+            <div class="col-6 d-none d-md-block">
                 <img class="img-fluid" src="img/JeuneGarconContent.jpeg" alt="Image de garçon" title="Maxime">
             </div>
         </div>
@@ -150,27 +151,26 @@
     <div class="container-fluid p-0">
         <hr class="hrVert">
     </div>
-    <div class="container h-100 p-0">
-        <div class="row h-75 align-items-center pb-4">
-            <div class="col-xl-6 pr-5">
+    <div class="container pt-4">
+        <div class="row align-items-center pb-4">
+            <div class="col-12 col-md-6 pr-5">
                 <h5 class="textNoir">Nouveau moniteur</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 <P class="w-100 text-right pr-2 m-0">17 septembre 2019</P>
-
             </div>
-            <div class="col-xl-6">
+            <div class="col-6 d-none d-md-block">
                 <img class="img-fluid" src="img/JeuneGarconContent.jpeg" alt="Image de garçon" title="Maxime">
             </div>
         </div>
     </div>
     <div class="container-fluid p-0">
-        <hr class="hrVert">
+        <hr class="hrVert mb-0">
     </div>
 </section>
 
 <!-- Pagination -->
 
-<div class="container text-center pb-5">
+<div class="container text-center pb-5 pt-5">
     <nav aria-label="Page navigation example">
         <ul class="pagination pagination-lg justify-content-center m-0 pg-blue">
             <li class="page-item">

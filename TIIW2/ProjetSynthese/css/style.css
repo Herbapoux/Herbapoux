@@ -89,7 +89,19 @@ hr{
     height: 576px;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover
+    background-size: cover;
+}
+
+.imageMaxime{
+    position: center;
+    width: auto;}
+
+.bgAlaUneNouvelles{
+    background-image: url("../img/JeuneGarconContent.jpeg");
+    height: 428px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .bgImage1 {
@@ -288,8 +300,6 @@ hr{
     width: 100%;
     position: center;
     display: flex;
-    justify-content: left;
-    align-items: center;
 }
 
 .parallaxNatation{
@@ -371,6 +381,10 @@ hr{
 @media screen and (max-width: 413px) {
     .bgImage1, .bgImage2, .bgImage3, .bgImageMassage, .bgImagePetiteMolecule, .bgImageSauveteur, .bgImageComptable, .bgImageMoniteur{
         max-height: 175px;
+    }
+
+    h1{
+        font-size: 3.2rem;
     }
 
     h2 {

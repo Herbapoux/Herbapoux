@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="fr-ca">
 <head>
@@ -10,15 +11,12 @@
     <link rel="stylesheet" href="css/animate.css">
     <script src="js/wow.js"></script>
     <script>
-new Wow().init();
+        new  Wow().init();
     </script>
     <link rel="stylesheet" type="text/css" href="https://csshake.surge.sh/csshake.min.css">
 
 
     <link rel="stylesheet" href="css/style.css">
-
-    <!-- Famicon -->
-    <!--<link rel="icon" type="image/png" href="img/Logo.jpg" /> -->
 
 </head>
 
@@ -27,7 +25,7 @@ new Wow().init();
 
 <nav class="col-12 navbar navbar-expand-md fixed-top p-0 textMenu">
     <div class="container-fluid">
-        <a class="navbar-brand p-0 ml-5 m-0" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/">
+        <a class="navbar-brand p-0 ml-5 m-0" href="http://localhost:63342/TIIW2/ProjetSynthese/index.html?_ijt=a3ed91l2rn4l1kdj0nksdr8hm2">
             <img src="img/logomolecule.jpg" class="imageMenu" alt="logo" title="logo"/>
         </a>
 
@@ -50,25 +48,24 @@ new Wow().init();
 
         <div class="collapse navbar-collapse order-3 order-sm-2" id="navbarNavAltMarkup">
             <div class="navbar-nav d-md-flex d-block flex-row mx-md-auto mx-0">
-                <a class="nav-item nav-link active" href="#propos">À propos<span class="sr-only">(current)</span></a>
-                <a class="nav-item nav-link" href="#nouvelles">Nouvelles</a>
+                <a class="nav-item nav-link active" href="http://localhost:63342/TIIW2/ProjetSynthese/index.html?_ijt=a3ed91l2rn4l1kdj0nksdr8hm2">Accueil<span class="sr-only">(current)</span></a>
+                <a class="nav-item nav-link" href="http://localhost:63342/TIIW2/ProjetSynthese/nouvelles.html?_ijt=9qfs0p8ggm52d19487cvdj5ptq">Nouvelles</a>
                 <div class="dropdown">
-                    <a class="nav-item dropdown nav-link dropdown-toggle" href="#" id="dropdownMenuButton"
+                    <a class="nav-item dropdown nav-link" href="http://localhost:63342/TIIW2/ProjetSynthese/nosCours.html?_ijt=iat8jh1vaterva7bmus8i54af2" id="dropdownMenuButton"
                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Nos cours
                     </a>
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                        <a class="dropdown-item" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/natation.php">Natation</a>
-                        <a class="dropdown-item" href="#aquaforme">Aquaforme</a>
-                        <a class="dropdown-item" href="#secourisme">Secourisme</a>
+                        <a class="dropdown-item" href="http://localhost:63342/TIIW2/ProjetSynthese/nosCours.html?_ijt=iat8jh1vaterva7bmus8i54af2#natation">Natation</a>
+                        <a class="dropdown-item" href="http://localhost:63342/TIIW2/ProjetSynthese/nosCours.html?_ijt=iat8jh1vaterva7bmus8i54af2#aquaforme">Aquaforme</a>
+                        <a class="dropdown-item" href="http://localhost:63342/TIIW2/ProjetSynthese/nosCours.html?_ijt=iat8jh1vaterva7bmus8i54af2#secourisme">Secourisme</a>
                     </div>
                 </div>
             </div>
             <div class="navbar-nav ml-auto">
-                <a class="nav-item nav-link" href="#joindre">Nous joindre</a>
+                <a class="nav-item nav-link" href="http://localhost:63342/TIIW2/ProjetSynthese/nousJoindre.html?_ijt=dddtost9pqe19is90e154ij746">Nous joindre</a>
                 <a class="nav-item nav-link btnVert" href="#inscription">Inscription</a>
             </div>
         </div>
     </div>
-
 </nav>
