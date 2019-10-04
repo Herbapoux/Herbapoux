@@ -90,7 +90,7 @@
     </div>
 </section>
 
-<!-- Contactez-nous -->
+<!-- Nous Contacter -->
 
 <section id="nousContacter" class="container-fluid pt-5 pb-5">
     <div class="container">

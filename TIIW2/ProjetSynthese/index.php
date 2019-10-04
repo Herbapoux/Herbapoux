@@ -20,7 +20,7 @@
                     <h5 class="text-center text-lg-left">Piscine fermée</h5>
                     <p class=" text-center text-lg-left textBlanc">Lorem ipsum dolor sit amet, consec tetur adipiscing elit. sit amet, consec.</p>
                     <div class="text-center text-lg-right">
-                        <a href="http://localhost:63342/TIIW2/ProjetSynthese/nouvelles.html?_ijt=9qfs0p8ggm52d19487cvdj5ptq#important" class="btn btnVert">En savoir +</a>
+                        <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nouvelles.php#important" class="btn btnVert">En savoir +</a>
                     </div>
                 </div>
             </div>
@@ -84,7 +84,7 @@
                         <P class="w-100 text-right pr-2 m-0">17 septembre 2019</P>
                         <div class="row text-center">
                             <div class="container pt-4">
-                                <a href="http://localhost:63342/TIIW2/ProjetSynthese/nouvelles.html?_ijt=9qfs0p8ggm52d19487cvdj5ptq#aLaUne" class="btn btnBlanc">Lire +</a>
+                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nouvelles.php#aLaUne" class="btn btnBlanc">Lire +</a>
                             </div>
                         </div>
                     </div>

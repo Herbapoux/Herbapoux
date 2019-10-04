@@ -50,22 +50,22 @@
         <div class="container p-0 pt-3 textBlanc pb-4">
             <div class="row text-center">
                 <div class="navbar-nav col-12 col-sm-4">
-                    <h5><a class="dropdown-item textBlanc" href="http://localhost:63342/TIIW2/ProjetSynthese/nosCours.html?_ijt=iat8jh1vaterva7bmus8i54af2">Nos cours</a></h5>
-                    <a class="dropdown-item textBlanc" href="http://localhost:63342/TIIW2/ProjetSynthese/nosCours.html?_ijt=iat8jh1vaterva7bmus8i54af2#natation">Natation</a>
-                    <a class="dropdown-item textBlanc" href="http://localhost:63342/TIIW2/ProjetSynthese/nosCours.html?_ijt=iat8jh1vaterva7bmus8i54af2#aquaforme">Aquaforme</a>
-                    <a class="dropdown-item textBlanc" href="http://localhost:63342/TIIW2/ProjetSynthese/nosCours.html?_ijt=iat8jh1vaterva7bmus8i54af2#secourisme">Secourisme</a>
+                    <h5><a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php">Nos cours</a></h5>
+                    <a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#natation">Natation</a>
+                    <a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#aquaforme">Aquaforme</a>
+                    <a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#secourisme">Secourisme</a>
                 </div>
                 <div class="navbar-nav col-12 col-sm-4">
-                    <h5><a class="dropdown-item textBlanc" href="http://localhost:63342/TIIW2/ProjetSynthese/nouvelles.html?_ijt=9qfs0p8ggm52d19487cvdj5ptq">Nouvelles</a></h5>
-                    <a class="dropdown-item textBlanc" href="http://localhost:63342/TIIW2/ProjetSynthese/nouvelles.html?_ijt=9qfs0p8ggm52d19487cvdj5ptq#important">Important</a>
-                    <a class="dropdown-item textBlanc" href="http://localhost:63342/TIIW2/ProjetSynthese/nouvelles.html?_ijt=9qfs0p8ggm52d19487cvdj5ptq#aLaUne">À la une</a>
-                    <a class="dropdown-item textBlanc" href="http://localhost:63342/TIIW2/ProjetSynthese/nouvelles.html?_ijt=9qfs0p8ggm52d19487cvdj5ptq#autres">Autres</a>
+                    <h5><a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nouvelles.php">Nouvelles</a></h5>
+                    <a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nouvelles.php#important">Important</a>
+                    <a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nouvelles.php#aLaUne">À la une</a>
+                    <a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nouvelles.php#autres">Autres</a>
                 </div>
                 <div class="navbar-nav col-12 col-sm-4">
-                    <h5><a class="dropdown-item textBlanc" href="http://localhost:63342/TIIW2/ProjetSynthese/nousJoindre.html?_ijt=dddtost9pqe19is90e154ij746">Nous joindre</a></h5>
-                    <a class="dropdown-item textBlanc" href="http://localhost:63342/TIIW2/ProjetSynthese/nousJoindre.html?_ijt=dddtost9pqe19is90e154ij746#offresEmploi">Offres d'emploi</a>
-                    <a class="dropdown-item textBlanc" href="http://localhost:63342/TIIW2/ProjetSynthese/nousJoindre.html?_ijt=dddtost9pqe19is90e154ij746#ouCaCePasse">Où ça ce passe?</a>
-                    <a class="dropdown-item textBlanc" href="http://localhost:63342/TIIW2/ProjetSynthese/nousJoindre.html?_ijt=dddtost9pqe19is90e154ij746#contactezNous">Contactez-nous</a>
+                    <h5><a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nousJoindre.php">Nous joindre</a></h5>
+                    <a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nousJoindre.php#offresEmploi">Offres d'emploi</a>
+                    <a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nousJoindre.php#ouCaCePasse">Où ça ce passe?</a>
+                    <a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nousJoindre.php#nousContacter">Nous Contacter</a>
                 </div>
             </div>
         </div>

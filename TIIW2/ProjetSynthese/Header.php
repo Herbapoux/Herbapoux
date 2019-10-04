@@ -49,21 +49,21 @@
         <div class="collapse navbar-collapse order-3 order-sm-2" id="navbarNavAltMarkup">
             <div class="navbar-nav d-md-flex d-block flex-row mx-md-auto mx-0">
                 <a class="nav-item nav-link active" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/">Accueil<span class="sr-only">(current)</span></a>
-                <a class="nav-item nav-link" href="http://localhost:63342/TIIW2/ProjetSynthese/nouvelles.html?_ijt=9qfs0p8ggm52d19487cvdj5ptq">Nouvelles</a>
+                <a class="nav-item nav-link" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nouvelles.php">Nouvelles</a>
                 <div class="dropdown">
-                    <a class="nav-item dropdown nav-link" href="http://localhost:63342/TIIW2/ProjetSynthese/nosCours.html?_ijt=iat8jh1vaterva7bmus8i54af2" id="dropdownMenuButton"
+                    <a class="nav-item dropdown nav-link" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php" id="dropdownMenuButton"
                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Nos cours
                     </a>
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                        <a class="dropdown-item" href="http://localhost:63342/TIIW2/ProjetSynthese/nosCours.html?_ijt=iat8jh1vaterva7bmus8i54af2#natation">Natation</a>
-                        <a class="dropdown-item" href="http://localhost:63342/TIIW2/ProjetSynthese/nosCours.html?_ijt=iat8jh1vaterva7bmus8i54af2#aquaforme">Aquaforme</a>
-                        <a class="dropdown-item" href="http://localhost:63342/TIIW2/ProjetSynthese/nosCours.html?_ijt=iat8jh1vaterva7bmus8i54af2#secourisme">Secourisme</a>
+                        <a class="dropdown-item" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php">Natation</a>
+                        <a class="dropdown-item" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#aquaforme">Aquaforme</a>
+                        <a class="dropdown-item" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#secourisme">Secourisme</a>
                     </div>
                 </div>
             </div>
             <div class="navbar-nav ml-auto">
-                <a class="nav-item nav-link" href="http://localhost:63342/TIIW2/ProjetSynthese/nousJoindre.html?_ijt=dddtost9pqe19is90e154ij746">Nous joindre</a>
+                <a class="nav-item nav-link" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nousJoindre.php">Nous joindre</a>
                 <a class="nav-item nav-link btnVert" href="#inscription">Inscription</a>
             </div>
         </div>

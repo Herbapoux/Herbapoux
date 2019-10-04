@@ -43,7 +43,7 @@
                 <div class="p-0 containerFiltre">
                     <div class="filtre"></div>
                     <div class="bgImageNatationGroupe text-center d-flex flex-wrap align-content-center">
-                        <h3 class="w-100">Privé</h3>
+                        <h3 class="w-100">Groupe</h3>
                         <div class="container btnBlancP w-100">
                             <a href="" class="btn btnBlanc">+</a>
                         </div>
