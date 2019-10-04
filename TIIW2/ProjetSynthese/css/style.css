@@ -116,6 +116,14 @@ hr{
     background-size: cover;
 }
 
+.bgImageSauveteur{
+    background-image: url("../img/Sauveteur.jpg");
+    height: 428px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .bgPrescolaire{
     background-image: url("../img/Natation.jpg");
     height: 200px;
@@ -134,6 +142,22 @@ hr{
 
 .bgImagePetiteMolecule{
     background-image: url("../img/Aquaforme.jpg");
+    height: 210px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgImageComptable{
+    background-image: url("../img/Sauveteur.jpg");
+    height: 210px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bgImageMoniteur{
+    background-image: url("../img/Sauveteur.jpg");
     height: 210px;
     background-position: center;
     background-repeat: no-repeat;
@@ -208,7 +232,7 @@ hr{
 }
 
 .carte{
-    height: 428px;
+    height: 100%;
     max-width: 100%;
 }
 
@@ -299,12 +323,18 @@ hr{
     font-family: "Montserrat Regular";
 
 }
+@media screen and (max-width: 1999px){
+    .bgImage
+}
 
 @media screen and (max-width: 991px){
     .bgImage1, .bgImage2, .bgImage3{
         max-height: 300px;
     }
-    .bgImageMassage, .bgImagePetiteMolecule{
+    .bgImageSauveteur{
+        max-height: 300px;
+    }
+    .bgImageMassage, .bgImagePetiteMolecule, .bgImageMoniteur, .bgImageComptable{
         max-height: 148px;
     }
     .textContact{
@@ -320,19 +350,27 @@ hr{
         font-size: 1.8rem;
     }
     h5{
-         font-size: 1.4rem;
+        font-size: 1.4rem;
     }
 }
 
 @media screen and (max-width: 767px){
     h1{
-        font-size: 3.5rem;
+        font-size: 4rem;
+    }
+    .bgImage1, .bgImage2, .bgImage3, .bgImageMassage, .bgImagePetiteMolecule, .bgImageSauveteur, .bgImageComptable, .bgImageMoniteur{
+        max-height: 210px;
+    }
+
+    .carte{
+        height: 300px;
+
     }
 }
 
 @media screen and (max-width: 413px) {
-    .bgImage1, .bgImage2, .bgImage3, .bgImageMassage, .bgImagePetiteMolecule {
-        max-height: 210px;
+    .bgImage1, .bgImage2, .bgImage3, .bgImageMassage, .bgImagePetiteMolecule, .bgImageSauveteur, .bgImageComptable, .bgImageMoniteur{
+        max-height: 175px;
     }
 
     h2 {
