@@ -25,7 +25,7 @@
 
 <nav class="col-12 navbar navbar-expand-md fixed-top p-0 textMenu">
     <div class="container-fluid">
-        <a class="navbar-brand p-0 ml-5 m-0" href="http://localhost:63342/TIIW2/ProjetSynthese/index.html?_ijt=a3ed91l2rn4l1kdj0nksdr8hm2">
+        <a class="navbar-brand p-0 ml-5 m-0" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/">
             <img src="img/logomolecule.jpg" class="imageMenu" alt="logo" title="logo"/>
         </a>
 
@@ -48,7 +48,7 @@
 
         <div class="collapse navbar-collapse order-3 order-sm-2" id="navbarNavAltMarkup">
             <div class="navbar-nav d-md-flex d-block flex-row mx-md-auto mx-0">
-                <a class="nav-item nav-link active" href="http://localhost:63342/TIIW2/ProjetSynthese/index.html?_ijt=a3ed91l2rn4l1kdj0nksdr8hm2">Accueil<span class="sr-only">(current)</span></a>
+                <a class="nav-item nav-link active" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/">Accueil<span class="sr-only">(current)</span></a>
                 <a class="nav-item nav-link" href="http://localhost:63342/TIIW2/ProjetSynthese/nouvelles.html?_ijt=9qfs0p8ggm52d19487cvdj5ptq">Nouvelles</a>
                 <div class="dropdown">
                     <a class="nav-item dropdown nav-link" href="http://localhost:63342/TIIW2/ProjetSynthese/nosCours.html?_ijt=iat8jh1vaterva7bmus8i54af2" id="dropdownMenuButton"
