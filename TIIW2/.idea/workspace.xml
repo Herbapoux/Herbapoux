@@ -10,11 +10,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProjetSynthese/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="221" lean-forward="true" selection-start-line="221" selection-end-line="221" />
+            <state relative-caret-position="487">
+              <caret line="217" column="10" lean-forward="true" selection-start-line="172" selection-end-line="217" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProjetSynthese/nosCours.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="398">
+              <caret line="378" column="23" selection-start-line="378" selection-start-column="23" selection-end-line="378" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -22,17 +31,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProjetSynthese/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="306" column="37" selection-start-line="306" selection-start-column="37" selection-end-line="306" selection-end-column="37" />
+            <state relative-caret-position="293">
+              <caret line="280" column="20" selection-start-line="280" selection-start-column="20" selection-end-line="280" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ProjetSynthese/nousJoindre.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="36" column="54" selection-start-line="36" selection-start-column="54" selection-end-line="36" selection-end-column="54" />
+            <state relative-caret-position="116">
+              <caret line="164" column="25" lean-forward="true" selection-start-line="164" selection-start-column="25" selection-end-line="164" selection-end-column="25" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#1;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -43,17 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProjetSynthese/nouvelles.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="113" selection-start-line="113" selection-end-line="128" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProjetSynthese/nosCours.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7575">
-              <caret line="505" selection-start-line="505" selection-end-line="505" />
+            <state relative-caret-position="331">
+              <caret line="126" column="43" selection-start-line="126" selection-start-column="43" selection-end-line="126" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -125,12 +125,12 @@
         <option value="$PROJECT_DIR$/ProjetSynthese/NousJoindre.html" />
         <option value="$PROJECT_DIR$/ProjetSynthese/aquaforme.html" />
         <option value="$PROJECT_DIR$/ProjetSynthese/natation.html" />
+        <option value="$PROJECT_DIR$/../TIIW1/Examen_2_Parallax/index.html" />
+        <option value="$PROJECT_DIR$/ProjetSynthese/index.html" />
         <option value="$PROJECT_DIR$/ProjetSynthese/nouvelles.html" />
         <option value="$PROJECT_DIR$/ProjetSynthese/nosCours.html" />
-        <option value="$PROJECT_DIR$/ProjetSynthese/nousJoindre.html" />
-        <option value="$PROJECT_DIR$/../TIIW1/Examen_2_Parallax/index.html" />
         <option value="$PROJECT_DIR$/ProjetSynthese/css/style.css" />
-        <option value="$PROJECT_DIR$/ProjetSynthese/index.html" />
+        <option value="$PROJECT_DIR$/ProjetSynthese/nousJoindre.html" />
       </list>
     </option>
   </component>
@@ -149,19 +149,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
-            <path>
-              <item name="TIIW2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIIW1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIIW2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIIW1" type="462c0819:PsiDirectoryNode" />
-              <item name="Examen_2_Parallax" type="462c0819:PsiDirectoryNode" />
-            </path>
             <path>
               <item name="TIIW2" type="b2602c69:ProjectViewProjectNode" />
               <item name="TIIW2" type="462c0819:PsiDirectoryNode" />
@@ -192,6 +182,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -311,11 +302,12 @@
       <workItem from="1569942139911" duration="498000" />
       <workItem from="1569942677468" duration="18912000" />
       <workItem from="1570022554558" duration="13774000" />
+      <workItem from="1570108619066" duration="13216000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="393417000" />
+    <option name="totallyTimeSpent" value="406633000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
@@ -520,13 +512,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProjetSynthese/nosCours.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7575">
-          <caret line="505" selection-start-line="505" selection-end-line="505" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../TIIW1/Examen_2_Parallax/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-383">
@@ -548,48 +533,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercice_Nav/css/style.css">
+    <entry file="file://$PROJECT_DIR$/Exercice_Nav/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="75" selection-start-line="75" selection-end-line="77" selection-end-column="1" />
+        <state relative-caret-position="448">
+          <caret line="42" column="40" lean-forward="true" selection-start-line="42" selection-end-line="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercice_Nav/index.html">
+    <entry file="file://$PROJECT_DIR$/Exercice_Nav/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="153">
+          <caret line="85" column="4" lean-forward="true" selection-start-line="85" selection-start-column="4" selection-end-line="86" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProjetSynthese/nouvelles.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="113" selection-start-line="113" selection-end-line="128" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProjetSynthese/nousJoindre.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="36" column="54" selection-start-line="36" selection-start-column="54" selection-end-line="36" selection-end-column="54" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProjetSynthese/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="306" column="37" selection-start-line="306" selection-start-column="37" selection-end-line="306" selection-end-column="37" />
+        <state relative-caret-position="331">
+          <caret line="126" column="43" selection-start-line="126" selection-start-column="43" selection-end-line="126" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProjetSynthese/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="221" lean-forward="true" selection-start-line="221" selection-end-line="221" />
+        <state relative-caret-position="487">
+          <caret line="217" column="10" lean-forward="true" selection-start-line="172" selection-end-line="217" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetSynthese/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="280" column="20" selection-start-line="280" selection-start-column="20" selection-end-line="280" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetSynthese/nosCours.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="378" column="23" selection-start-line="378" selection-start-column="23" selection-end-line="378" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetSynthese/nousJoindre.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="164" column="25" lean-forward="true" selection-start-line="164" selection-start-column="25" selection-end-line="164" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
