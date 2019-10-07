@@ -33,7 +33,7 @@ h4{
 }
 
 h5{
-    font-family: "Montserrat SemiBold";
+    font-family: "Montserrat Regular";
     color: white;
     font-size: 1.5rem;
 }
@@ -76,6 +76,13 @@ hr{
     background-color: rgba(42,125,169,0.3);
 }
 
+.bgBleuCard{
+    background-color: rgba(42,125,169,0.8);
+    border-radius: 20px;
+    padding: 20px;
+
+}
+
 .bgBleuFooter2{
     background-color: rgb(1,111,170);
 }
@@ -110,6 +117,15 @@ hr{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.bgImage1Card {
+    background-image: url("../img/Natation.jpg");
+    height: 428px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
 }
 
 .bgImage2{
@@ -210,6 +226,20 @@ hr{
     color: white;
 }
 
+.btnBlancCard{
+    background-color: white;
+    border-radius: 0.38em;
+    border-width: 2px;
+    font-size: 1em;
+    color: rgb(42,125,169);
+    font-family: "Montserrat Bold";
+
+}
+
+.btnTop{
+    z-index: 1;
+}
+
 .btnBlancInscription{
     border-radius: 0.38em;
     border-color: white;
@@ -243,6 +273,14 @@ hr{
     color: white;
 }
 
+.card-text{
+    z-index: 1;
+}
+
+.card-title{
+    opacity: 1;
+}
+
 .carte{
     height: 100%;
     max-width: 100%;
@@ -257,7 +295,12 @@ hr{
 }
 
 .CroixRouge{
-    height: 50px
+    height: 50px;
+    z-index: 1;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
 }
 
 .fab{
@@ -274,6 +317,15 @@ hr{
 
 .hamburger{
     color: white;
+}
+
+.hover-zoom {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    transition: all 1.3s;
+    background-size: 100%;
+    position: relative;
 }
 
 .hrVert{
@@ -316,11 +368,6 @@ hr{
 .textBlanc{
     color: white;
     z-index: 1;
-}
-
-.textContact{
-    font-family: "Montserrat Regular";
-    margin-bottom: 0;
 }
 
 .textNoir{
@@ -383,19 +430,26 @@ hr{
         max-height: 175px;
     }
 
+    .textDroitsReserves{
+        font-size: .6rem;
+    }
+
     h1{
         font-size: 3.2rem;
     }
 
-    h2 {
-        font-size: 3rem;
+    h2{
+        font-size: 2.3rem;
     }
 
-    h3 {
-        font-size: 2rem;
+    h3{
+        font-size: 1.7rem;
     }
     h4{
         font-size: 1.7rem;
+    }
+    h5{
+        font-size: 1.1rem;
     }
 }
 
@@ -413,7 +467,7 @@ hr{
 /****************** Section du Navbar *******************/
 
 .navbar {
-    background-color: rgba(1,111,170, 0.7);
+    background-color: rgb(1,111,170);
 }
 .navbar .navbar-brand {
     color: #ffffff;

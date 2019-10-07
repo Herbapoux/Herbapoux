@@ -3,6 +3,10 @@
 
 <?php include "header.php"; ?>
 
+<!-- header -->
+
+<?php include "header.php"; ?>
+
 <!-- Accueil -->
 
 <section id="accueil" class="container-fluid p-0 h-100">
@@ -30,19 +34,33 @@
 
 <!-- Cours -->
 
-<section id="cours" class="container-fluid">
-    <div class="container pt-5 pb-5">
+<section id="cours" class="container-fluid pt-5">
+    <div class="container">
         <div class="row">
             <h2 class="w-100 text-md-left">Cours</h2>
         </div>
         <div class="row">
             <div class="col-md-4 p-0 pb-1 pb-md-0 pr-md-1">
-                <div class="p-0 containerFiltre">
+                <div id="natationShow" class="p-0 containerFiltre">
                     <div class="filtre"></div>
                     <div class="bgImage1 text-center d-flex flex-wrap align-content-center">
                         <h3 class="w-100">Natation</h3>
                         <div class="container btnBlancP w-100">
                             <a href="" class="btn btnBlanc">+</a>
+                        </div>
+                    </div>
+                </div>
+                <div id="natationHide" class="bgImage1Card text-center" style="display: none">
+                    <div class="card-body bgBleuCard h-100">
+                        <div class="row text-right d-flex flex-row-reverse align-items-end w-100 m-0 pt-3 pb-3">
+                            <img class="CroixRouge" src="img/Croix-RougeNatationBlanc.png" alt="Croix-Rouge" title="Croix-Rouge Natation"/>
+                        </div>
+                        <div class="row text-center pr-5 pl-5">
+                            <h3 class="card-title w-100">Natation</h3>
+                            <p class="card-text textBlanc">Nous offrons des cours privés individuel ou en groupe et des cours au niveau préscolaire et junior tous deux approuvés par la Croix-Rouge Natation.</p>
+                            <div class="container btnTop pt-4">
+                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Voir +</a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -74,30 +92,30 @@
 </section>
 
 <!-- À la une! -->
-<section id="aLaUne" class="container-fluid align-items-center d-none d-sm-block">
-        <div class="row">
-            <div class="col-lg-6 bgBleu d-flex flex-wrap align-items-center">
-                <div class="container pt-5 pb-5">
-                    <div class="offset-xl-3 col-xl-8">
-                        <h2 class="textBlanc pb-4">À la une!</h2>
-                        <p>MAXIME LEROUX <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                        <P class="w-100 text-right pr-2 m-0">17 septembre 2019</P>
-                        <div class="row text-center">
-                            <div class="container pt-4">
-                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nouvelles.php#aLaUne" class="btn btnBlanc">Lire +</a>
-                            </div>
+<section id="aLaUne" class="container-fluid align-items-center d-none d-sm-block pt-5">
+    <div class="row">
+        <div class="col-lg-6 bgBleu d-flex flex-wrap align-items-center">
+            <div class="container">
+                <div class="offset-xl-3 col-xl-8">
+                    <h2 class="textBlanc pb-4">À la une!</h2>
+                    <p>MAXIME LEROUX <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <P class="w-100 text-right pr-2 m-0">17 septembre 2019</P>
+                    <div class="row text-center">
+                        <div class="container pt-4">
+                            <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nouvelles.php#aLaUne" class="btn btnBlanc">Lire +</a>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-6 d-none d-lg-block bgAlaUne"></div>
         </div>
+        <div class="col-lg-6 d-none d-lg-block bgAlaUne"></div>
+    </div>
 </section>
 
 <!-- Extras -->
 
-<section id="extras" class="container-fluid">
-    <div class="container pt-5 pb-5">
+<section id="extras" class="container-fluid pt-5 pb-5">
+    <div class="container">
         <div class="row">
             <h2>Extras</h2>
         </div>

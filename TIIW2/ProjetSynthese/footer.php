@@ -23,7 +23,7 @@
             <div class="row pt-4">
                 <div class="col-12 col-md-8">
                     <h4>Des questions?</h4>
-                    <h5 class="textContact pt-2 pt-md-0 mb-0" >819 775-3551 info@moleculesenaction.ca</h5>
+                    <h5 class="pt-2 pt-md-0 mb-0">819 775-3551 info@moleculesenaction.ca</h5>
                 </div>
                 <div class="col-12 col-md-4 text-center text-md-right p-sm-0 pt-2 pt-md-0">
                     <div class="container pl-0">
@@ -47,8 +47,8 @@
         <div class="container-fluid p-0 pt-1 pb-1">
             <hr>
         </div>
-        <div class="container p-0 pt-3 textBlanc pb-4">
-            <div class="row text-center">
+        <div class="container textBlanc d-none d-md-block p-0 pt-3 pb-4">
+            <div class="row col-12 offset-md-1 col-md-10 text-center">
                 <div class="navbar-nav col-12 col-sm-4">
                     <h5><a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php">Nos cours</a></h5>
                     <a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#natation">Natation</a>
@@ -74,7 +74,7 @@
     <div class="container-fluid bgBleuFooter2 text-right pt-3 pb-3">
         <div class="row d-flex flex-wrap align-items-center">
             <div class="col-12">
-                <p class="m-0 textBlanc">@ 2019 - Molécules en action inc. Tous droits réservés</p>
+                <p class="m-0 textBlanc textDroitsReserves">@ 2019 - Molécules en action inc. Tous droits réservés</p>
             </div>
         </div>
     </div>

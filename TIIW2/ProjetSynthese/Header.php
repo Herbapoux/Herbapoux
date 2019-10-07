@@ -23,9 +23,9 @@
 <body>
 <!-- Barre de navigation -->
 
-<nav class="col-12 navbar navbar-expand-md fixed-top p-0 textMenu">
+<nav class="col-12 navbar navbar-expand-lg fixed-top p-0 textMenu">
     <div class="container-fluid">
-        <a class="navbar-brand p-0 ml-5 m-0" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/">
+        <a class="navbar-brand p-0 ml-4 m-0" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/">
             <img src="img/logomolecule.jpg" class="imageMenu" alt="logo" title="logo"/>
         </a>
 
@@ -53,7 +53,7 @@
                 <div class="dropdown">
                     <a class="nav-item dropdown nav-link" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php" id="dropdownMenuButton"
                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        Nos cours
+                        Cours
                     </a>
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                         <a class="dropdown-item" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php">Natation</a>
@@ -63,7 +63,7 @@
                 </div>
             </div>
             <div class="navbar-nav ml-auto">
-                <a class="nav-item nav-link" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nousJoindre.php">Nous joindre</a>
+                <a class="nav-item nav-link" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nousJoindre.php">Contact</a>
                 <a class="nav-item nav-link btnVert" href="#inscription">Inscription</a>
             </div>
         </div>
