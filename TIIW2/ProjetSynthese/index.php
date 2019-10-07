@@ -1,11 +1,5 @@
-
-<!-- header -->
-
 <?php include "header.php"; ?>
-
-<!-- header -->
-
-<?php include "header.php"; ?>
+<!-- Header -->
 
 <!-- Accueil -->
 
