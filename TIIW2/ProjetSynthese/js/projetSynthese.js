@@ -1,10 +1,13 @@
 $('.containerFiltre').hover(function () {
     $('.containerFiltre').css("cursor", "pointer");
+
+    $('#natationHide').show();
+    $('#natationShow').hide();
 });
 
-$("#natationShow").hover(function () {
+$('.containerFiltre').mouseleave(function () {
+    $('.containerFiltre').css("cursor", "pointer");
 
-    $('#natationHide').toggle();
-    $('#natationShow').toggle();
+    $('#natationHide').hide();
+    $('#natationShow').show();
 });
-
