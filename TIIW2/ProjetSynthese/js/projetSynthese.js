@@ -484,3 +484,49 @@ $('#soinsHide').mouseleave(function () {
     $('#soinsHide').hide();
     $('#soinsShow').show();
 });
+
+//NOUS JOINDRE
+
+//Offres d'emploi
+
+$("#offres1Show").hover(function () {
+    $('.containerFiltre').css("cursor", "pointer");
+
+    $('#offres1Hide').show();
+    $('#offres1Show').hide();
+});
+
+$('#offres1Hide').mouseleave(function () {
+    $('.containerFiltre').css("cursor", "pointer");
+
+    $('#offres1Hide').hide();
+    $('#offres1Show').show();
+});
+
+$("#offres2Show").hover(function () {
+    $('.containerFiltre').css("cursor", "pointer");
+
+    $('#offres2Hide').show();
+    $('#offres2Show').hide();
+});
+
+$('#offres2Hide').mouseleave(function () {
+    $('.containerFiltre').css("cursor", "pointer");
+
+    $('#offres2Hide').hide();
+    $('#offres2Show').show();
+});
+
+$("#offres3Show").hover(function () {
+    $('.containerFiltre').css("cursor", "pointer");
+
+    $('#offres3Hide').show();
+    $('#offres3Show').hide();
+});
+
+$('#offres3Hide').mouseleave(function () {
+    $('.containerFiltre').css("cursor", "pointer");
+
+    $('#offres3Hide').hide();
+    $('#offres3Show').show();
+});

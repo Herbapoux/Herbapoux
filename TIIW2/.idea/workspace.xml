@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ff4d429-cfd9-4082-9854-8989924532f2" name="Default Changelist" comment="" />
+    <list default="true" id="8ff4d429-cfd9-4082-9854-8989924532f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ProjetSynthese/nousJoindre.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/ProjetSynthese/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2299">
-              <caret line="156" column="22" lean-forward="true" selection-start-line="146" selection-start-column="16" selection-end-line="156" selection-end-column="22" />
+              <caret line="156" column="22" lean-forward="true" selection-end-line="375" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -30,8 +33,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProjetSynthese/nosCours.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="796" column="77" selection-start-line="796" selection-start-column="77" selection-end-line="796" selection-end-column="77" />
+            <state relative-caret-position="400">
+              <caret line="821" column="76" selection-start-line="821" selection-start-column="76" selection-end-line="821" selection-end-column="76" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -56,6 +59,19 @@
                 <element signature="n#style#0;n#div#1;n#div#2;n#div#1;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#2;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProjetSynthese/nousJoindre.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="433">
+              <caret line="122" column="141" selection-start-line="122" selection-start-column="141" selection-end-line="122" selection-end-column="141" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -73,8 +89,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ProjetSynthese/js/projetSynthese.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="530">
-              <caret line="468" column="29" lean-forward="true" selection-start-line="468" selection-start-column="29" selection-end-line="468" selection-end-column="29" />
+            <state relative-caret-position="560">
+              <caret line="503" column="19" selection-start-line="503" selection-start-column="19" selection-end-line="503" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -178,7 +194,6 @@
         <option value="$PROJECT_DIR$/ProjetSynthese/aquaforme.html" />
         <option value="$PROJECT_DIR$/ProjetSynthese/natation.html" />
         <option value="$PROJECT_DIR$/../TIIW1/Examen_2_Parallax/index.html" />
-        <option value="$PROJECT_DIR$/ProjetSynthese/nousJoindre.html" />
         <option value="$PROJECT_DIR$/ProjetSynthese/nouvelles.html" />
         <option value="$PROJECT_DIR$/ProjetSynthese/nousJoindre.php" />
         <option value="$PROJECT_DIR$/ProjetSynthese/nosCours.php" />
@@ -189,6 +204,7 @@
         <option value="$PROJECT_DIR$/ProjetSynthese/index.html" />
         <option value="$PROJECT_DIR$/ProjetSynthese/css/style.css" />
         <option value="$PROJECT_DIR$/ProjetSynthese/nosCours.html" />
+        <option value="$PROJECT_DIR$/ProjetSynthese/nousJoindre.html" />
         <option value="$PROJECT_DIR$/ProjetSynthese/js/projetSynthese.js" />
       </list>
     </option>
@@ -197,7 +213,7 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="y" value="49" />
     <option name="width" value="1280" />
     <option name="height" value="761" />
   </component>
@@ -354,18 +370,18 @@
       <workItem from="1570183728933" duration="23995000" />
       <workItem from="1570278576808" duration="6601000" />
       <workItem from="1570453663406" duration="18703000" />
-      <workItem from="1570539606668" duration="12118000" />
+      <workItem from="1570539606668" duration="12735000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="468050000" />
+    <option name="totallyTimeSpent" value="468667000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="761" extended-state="0" />
+    <frame x="0" y="49" width="1280" height="761" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49646643" visible="true" weight="0.17265625" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49646643" visible="true" weight="0.17265625" />
       <window_info id="Structure" order="1" sideWeight="0.50353354" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -391,9 +407,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../../../../../AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1/ProjetSynthese/img/Aquaforme.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../../../../AEC-Design et intégration web/Technique d'intégration des interfaces WEB 1/Web1/ProjetSynthese/img/GarconBulles.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -544,13 +557,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProjetSynthese/nousJoindre.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1410">
-          <caret line="94" column="26" selection-start-line="94" selection-start-column="13" selection-end-line="94" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercice_Nav/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
@@ -644,7 +650,7 @@
     <entry file="file://$PROJECT_DIR$/ProjetSynthese/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2299">
-          <caret line="156" column="22" lean-forward="true" selection-start-line="146" selection-start-column="16" selection-end-line="156" selection-end-column="22" />
+          <caret line="156" column="22" lean-forward="true" selection-end-line="375" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -656,10 +662,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetSynthese/nousJoindre.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="123" column="15" lean-forward="true" selection-start-line="5" selection-end-line="123" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ProjetSynthese/nosCours.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="796" column="77" selection-start-line="796" selection-start-column="77" selection-end-line="796" selection-end-column="77" />
+        <state relative-caret-position="400">
+          <caret line="821" column="76" selection-start-line="821" selection-start-column="76" selection-end-line="821" selection-end-column="76" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -684,14 +697,25 @@
             <element signature="n#style#0;n#div#1;n#div#2;n#div#1;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#1;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetSynthese/nousJoindre.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="122" column="141" selection-start-line="122" selection-start-column="141" selection-end-line="122" selection-end-column="141" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProjetSynthese/js/projetSynthese.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="468" column="29" lean-forward="true" selection-start-line="468" selection-start-column="29" selection-end-line="468" selection-end-column="29" />
+        <state relative-caret-position="560">
+          <caret line="503" column="19" selection-start-line="503" selection-start-column="19" selection-end-line="503" selection-end-column="19" />
         </state>
       </provider>
     </entry>
