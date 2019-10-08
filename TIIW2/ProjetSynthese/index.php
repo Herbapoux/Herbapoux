@@ -1,7 +1,9 @@
 <?php include "header.php"; ?>
+
 <!-- Header -->
 
 <!-- Accueil -->
+
 
 <section id="accueil" class="container-fluid p-0 h-100">
     <div class="parallax">
@@ -28,6 +30,7 @@
 
 <!-- Cours -->
 
+
 <section id="cours" class="container-fluid pt-5">
     <div class="container">
         <div class="row">
@@ -45,14 +48,14 @@
                     </div>
                 </div>
                 <div id="natationHide" class="bgImage1Card text-center" style="display: none">
-                    <div class="card-body bgBleuCard h-100">
-                        <div class="row text-right d-flex flex-row-reverse align-items-end w-100 m-0 pt-3 pb-3">
+                    <div class="card-body bgBleuCard h-100 d-flex flex-wrap align-items-center">
+                        <div class="row text-right d-flex flex-row-reverse align-items-end w-100 m-0">
                             <img class="CroixRouge" src="img/Croix-RougeNatationBlanc.png" alt="Croix-Rouge" title="Croix-Rouge Natation"/>
                         </div>
-                        <div class="row text-center pr-5 pl-5">
+                        <div class="row mb-4 text-center">
                             <h3 class="card-title w-100">Natation</h3>
                             <p class="card-text textBlanc">Nous offrons des cours privés individuel ou en groupe et des cours au niveau préscolaire et junior tous deux approuvés par la Croix-Rouge Natation.</p>
-                            <div class="container btnTop pt-4">
+                            <div class="container btnTop">
                                 <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Voir +</a>
                             </div>
                         </div>
@@ -60,7 +63,7 @@
                 </div>
             </div>
             <div class="col-md-4 p-0 pb-1 pb-md-0 pl-md-1 pr-md-1">
-                <div class="p-0 containerFiltre">
+                <div id="aquaformeShow" class="p-0 containerFiltre">
                     <div class="filtre"></div>
                     <div class="bgImage2 text-center d-flex flex-wrap align-content-center">
                         <h3 class="w-100">Aquaforme</h3>
@@ -69,14 +72,36 @@
                         </div>
                     </div>
                 </div>
+                <div id="aquaformeHide" class="bgImage1Card text-center" style="display: none">
+                    <div class="card-body bgBleuCard d-flex flex-wrap align-items-center h-100">
+                        <div class="row text-center">
+                            <h3 class="card-title w-100">Aquaforme</h3>
+                            <p class="card-text textBlanc">Nous offrons des cours d'aquaforme aérobique, spécialisée et prénataux.</p>
+                            <div class="container btnTop pt-4">
+                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Voir +</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
             <div class="col-md-4 p-0 pl-md-1">
-                <div class=" p-0 containerFiltre">
+                <div id="secourismeShow" class=" p-0 containerFiltre">
                     <div class="filtre"></div>
                     <div class="bgImage3 text-center d-flex flex-wrap align-content-center">
                         <h3 class="w-100">Secourisme</h3>
                         <div class="container btnBlancP w-100">
                             <a href="" class="btn btnBlanc">+</a>
+                        </div>
+                    </div>
+                </div>
+                <div id="secourismeHide" class="bgImage1Card text-center" style="display: none">
+                    <div class="card-body bgBleuCard d-flex flex-wrap align-items-center h-100">
+                        <div class="row text-center">
+                            <h3 class="card-title w-100">Secourisme</h3>
+                            <p class="card-text textBlanc">Nous offrons 3 différents cours: Soins immédiats, Cardio-bébé et Cardio-secours. Tous les cours sont certifiés par la Fondation des maladies du coeurs du Québec. </p>
+                            <div class="container btnTop pt-4">
+                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Voir +</a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -115,7 +140,7 @@
         </div>
         <div class="row">
             <div class="col-6 d-none d-md-block p-0 pb-1 pb-lg-0 pr-1">
-                <div class="p-0 containerFiltre">
+                <div id="santeShow" class="p-0 containerFiltre">
                     <div class="filtre"></div>
                     <div class="bgImage1 text-center d-flex flex-wrap align-content-center">
                         <h3 class="w-100">Trucs santé</h3>
@@ -124,11 +149,19 @@
                         </div>
                     </div>
                 </div>
+                <div id="santeHide" class="bgImage1Card text-center" style="display: none">
+                    <div class="card-body bgBleuCard d-flex flex-wrap align-items-center h-100">
+                        <div class="row text-center">
+                            <h3 class="card-title w-100">Trucs santé</h3>
+                            <p class="card-text textBlanc">Saviez-vous que... <br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        </div>
+                    </div>
+                </div>
             </div>
             <div class="col-12 col-md-6 p-0 pl-lg-1">
                 <div class="container">
                     <div class="row pb-1">
-                        <div class="container p-0 containerFiltre">
+                        <div id="massageShow" class="container p-0 containerFiltre">
                             <div class="filtre"></div>
                             <div class="container bgImageMassage text-center d-flex flex-wrap align-content-center">
                                 <h3 class="w-100">Massages</h3>
@@ -137,14 +170,36 @@
                                 </div>
                             </div>
                         </div>
+                        <div id="massageHide" class="bgImage1Card text-center" style="display: none">
+                            <div class="card-body bgBleuCard d-flex flex-wrap align-items-center h-100">
+                                <div class="row text-center">
+                                    <h3 class="card-title w-100">Massages</h3>
+                                    <p class="card-text textBlanc">Un moment de détente...<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    <div class="container btnTop pt-4">
+                                        <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Vers le site</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
-                    <div class="row pt-lg-1">
-                        <div class="container p-0 containerFiltre">
+                    <div class="row pt-1">
+                        <div id="petiteShow" class="container p-0 containerFiltre">
                             <div class="filtre"></div>
                             <div class="container bgImagePetiteMolecule text-center d-flex flex-wrap align-content-center">
                                 <h3 class="w-100">Petites molécules</h3>
                                 <div class="container btnBlancP">
                                     <a href="" class="btn btnBlanc">+</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="petiteHide" class="bgImage1Card text-center" style="display: none">
+                            <div class="card-body bgBleuCard d-flex flex-wrap align-items-center h-100">
+                                <div class="row text-center">
+                                    <h3 class="card-title w-100">Petites Molécules</h3>
+                                    <p class="card-text textBlanc">Pour les tout petits<br>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                    <div class="container btnTop pt-4">
+                                        <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Vers le site</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>

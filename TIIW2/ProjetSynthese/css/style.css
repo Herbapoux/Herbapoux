@@ -80,7 +80,6 @@ hr{
     background-color: rgba(42,125,169,0.8);
     border-radius: 20px;
     padding: 20px;
-
 }
 
 .bgBleuFooter2{
@@ -121,7 +120,7 @@ hr{
 
 .bgImage1Card {
     background-image: url("../img/Natation.jpg");
-    height: 428px;
+    height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
