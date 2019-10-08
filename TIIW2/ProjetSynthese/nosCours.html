@@ -1,0 +1,641 @@
+
+<!DOCTYPE html>
+<html lang="fr-ca">
+<head>
+    <title>Molécules en action</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/v4-shims.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <script src="js/wow.js"></script>
+    <script>
+        new  Wow().init();
+    </script>
+    <link rel="stylesheet" type="text/css" href="https://csshake.surge.sh/csshake.min.css">
+
+
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+<!-- Barre de navigation -->
+
+<nav class="col-12 navbar navbar-expand-lg fixed-top p-0 textMenu">
+    <div class="container-fluid">
+        <a class="navbar-brand p-0 ml-4 m-0" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/">
+            <img src="img/logomolecule.jpg" class="imageMenu" alt="logo" title="logo"/>
+        </a>
+
+        <div class="d-flex flex-row order-2 order-sm-3 align-items-center">
+            <a class="nav-link" href="https://www.facebook.com/" target="_blank">
+                <i class="fab fa-facebook"></i>
+            </a>
+            <a class="nav-link" href="https://twitter.com/" target="_blank">
+                <i class="fab fa-twitter"></i>
+            </a>
+            <a class="nav-link" href="https://www.instagram.com/?hl=fr-ca" target="_blank">
+                <i class="fab fa-instagram"></i>
+            </a>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+                    aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <i class="fas fa-bars fa-2x hamburger"></i>
+            </button>
+        </div>
+
+        <div class="collapse navbar-collapse order-3 order-sm-2" id="navbarNavAltMarkup">
+            <div class="navbar-nav d-md-flex d-block flex-row mx-md-auto mx-0">
+                <a class="nav-item nav-link active" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/">Accueil<span class="sr-only">(current)</span></a>
+                <a class="nav-item nav-link" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nouvelles.php">Nouvelles</a>
+                <div class="dropdown">
+                    <a class="nav-item dropdown nav-link" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php" id="dropdownMenuButton"
+                       data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Cours
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                        <a class="dropdown-item" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php">Natation</a>
+                        <a class="dropdown-item" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#aquaforme">Aquaforme</a>
+                        <a class="dropdown-item" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#secourisme">Secourisme</a>
+                    </div>
+                </div>
+            </div>
+            <div class="navbar-nav ml-auto">
+                <a class="nav-item nav-link" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nousJoindre.php">Contact</a>
+                <a class="nav-item nav-link btnVert" href="#inscription">Inscription</a>
+            </div>
+        </div>
+    </div>
+</nav>
+
+
+<!-- header -->
+
+<?php include "header.php"; ?>
+
+<!-- Accueil -->
+
+<section id="natation" class="container-fluid h-50 p-0">
+    <div class="parallaxNatation containerFiltre">
+        <div class="filtre"></div>
+        <div class="container h-100">
+            <div class="row text-right d-flex align-items-end text-right h-100">
+                <div class="col-xl-12 p-0">
+                    <h1 class="text-center text-md-right">Nos cours</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Natation -->
+
+<section id="privé" class="container-fluid">
+    <div class="container pt-5 pb-5">
+        <div class="row">
+            <div class="col-6 col-md-12 p-0 w-100">
+                <h2 class="text-left">Natation Privé</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 p-0 pb-1 pb-md-0 pr-md-1">
+                <div id="individuelShow" class="p-0 containerFiltre">
+                    <div class="filtre"></div>
+                    <div class="bgImageNatationIndi text-center d-flex flex-wrap align-content-center">
+                        <h3 class="w-100">Individuel</h3>
+                        <div class="container btnBlancP w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
+                    </div>
+                </div>
+                <div id="individuelHide" class="bgImage1Card text-center" style="display: none">
+                    <div class="card-body bgBleuCard d-flex flex-wrap align-items-center h-100">
+                        <div class="row text-center">
+                            <h3 class="card-title w-100">Individuel</h3>
+                            <p class="card-text textBlanc pr-3 pl-3">Nous offrons 3 différents cours: Soins immédiats, Cardio-bébé et Cardio-secours. Tous les cours sont certifiés par la Fondation des maladies du coeurs du Québec. </p>
+                            <div class="container btnTop">
+                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Voir +</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 p-0 pl-md-1">
+                <div id="groupeShow" class="p-0 containerFiltre">
+                    <div class="filtre"></div>
+                    <div class="bgImageNatationGroupe text-center d-flex flex-wrap align-content-center">
+                        <h3 class="w-100">Groupe</h3>
+                        <div class="container btnBlancP w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
+                    </div>
+                </div>
+                <div id="groupeHide" class="bgImage1Card text-center" style="display: none">
+                    <div class="card-body bgBleuCard h-100 d-flex flex-wrap align-items-center">
+                        <div class="row mb-4 text-center">
+                            <h3 class="card-title w-100">Groupe</h3>
+                            <p class="card-text textBlanc pl-3 pr-3">Nous offrons des cours privés individuel ou en groupe et des cours au niveau préscolaire et junior tous deux approuvés par la Croix-Rouge Natation.</p>
+                            <div class="container btnTop">
+                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Voir +</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Préscolaire -->
+<section id="prescolaire" class="container-fluid bgBleu">
+    <div class="container pt-5 pb-5">
+        <div class="row pt-3 text-left">
+            <div class="col-12 col-sm-10 p-0">
+                <h2 class="textBlanc">Natation Préscolaire</h2>
+            </div>
+            <div class="col-12 col-sm-2 d-none text-right mb-2 p-0 w-100 d-flex flex-row-reverse align-items-end">
+                <img class="d-none d-sm-block CroixRouge" src="img/Croix-RougeNatationBlanc.png" alt="Croix-Rouge" title="Croix-Rouge Natation"/>
+            </div>
+        </div>
+        <div class="row pb-1">
+            <div class="col-sm-6 col-md-6 col-lg-3 p-0 pb-2 pr-sm-1 pb-sm-2 pb-md-2">
+                <div id="etoileShow" class="p-0 containerFiltre">
+                    <div class="filtre"></div>
+                    <div class="bgPrescolaire text-center d-flex flex-wrap align-content-center">
+                        <div class="container textBlanc w-100">
+                            <h5 class="m-0">Étoile de mer</h5>
+                            <p class="m-0">4 à 12 mois</p>
+                        </div>
+                        <div class="container btnBlancNatation w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
+                    </div>
+                </div>
+                <div id="etoileHide" class="bgImage1Card text-center" style="display: none">
+                    <div class="card-body bgBleuCard h-100 d-flex flex-wrap align-items-center">
+                        <div class="row mb-4 text-center">
+                            <h5 class="card-title w-100">Étoile de mer<br>4 à 12 mois </h5>
+                            <p class="card-title w-100 textBlanc pl-3 pr-3">Session automne 2019</p>
+                            <p class="card-text w-100 textBlanc pl-3 pr-3">Initie l’enfant à la découverte de l'eau et au déplacement sécuritaire dans l’eau. Un seul parent dans l'eau.</p>
+                            <p class="card-title w-100 textBlanc pl-3 pr-3">Pré-requis</p>
+                            <p class="card-text w-100 textBlanc pl-3 pr-3">L'enfant se lève la tête tout seul.</p>
+                            <p class="card-title w-100 textBlanc pl-3 pr-3">Spécification</p>
+                            <p class="card-text w-100 textBlanc pl-3 pr-3">Un seul adulte dans l'eau avec l'enfant.<br>Si l'enfant n'est pas propre, il doit avoir une couche aquatique.</p>
+                            <p class="card-text w-100 textBlanc pl-3 pr-3">68,72 $</p>
+                            <div class="container btnTop">
+                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Horaire</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-6 col-lg-3 p-0 pb-2 pl-sm-1 pb-sm-2 pb-md-1 pr-lg-1">
+                <div id="canardShow" class="p-0 containerFiltre">
+                    <div class="filtre"></div>
+                    <div class="bgPrescolaire text-center d-flex flex-wrap align-content-center">
+                        <div class="container textBlanc w-100">
+                            <h5 class="m-0">Canard</h5>
+                            <p class="m-0">16 à 24 mois</p>
+                        </div>
+                        <div class="container btnBlancNatation w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
+                    </div>
+                </div>
+                <div id="canardHide" class="bgImage1Card text-center" style="display: none">
+                    <div class="card-body bgBleuCard h-100 d-flex flex-wrap align-items-center">
+                        <div class="row mb-4 text-center">
+                            <h5 class="card-title w-100">Canard<br>16 à 24 mois</h5>
+                            <p class="card-title w-100 textBlanc pl-3 pr-3">Session automne 2019</p>
+                            <p class="card-text w-100 textBlanc pl-3 pr-3">Avec flotteurs.  Initiation aux mouvements et aux déplacements sécuritaires dans l'eau.</p>
+                            <p class="card-title w-100 textBlanc pl-3 pr-3">Pré-requis</p>
+                            <p class="card-text w-100 textBlanc pl-3 pr-3">L'enfant se lève la tête tout seul.</p>
+                            <p class="card-title w-100 textBlanc pl-3 pr-3">Spécification</p>
+                            <p class="card-text w-100 textBlanc pl-3 pr-3">Un seul adulte dans l'eau avec l'enfant.<br>Flotteurs hippopotames facultatifs.<br>Si l'enfant n'est pas propre, il doit avoir une couche aquatique.</p>
+                            <p class="card-text w-100 textBlanc pl-3 pr-3">68,72 $</p>
+                            <div class="container btnTop">
+                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Horaire</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-6 col-lg-3 p-0 pb-2 pr-sm-1 pb-md-0 pl-lg-1">
+                <div id="tortueShow" class="p-0 containerFiltre">
+                    <div class="filtre"></div>
+                    <div class="bgPrescolaire text-center d-flex flex-wrap align-content-center">
+                        <div class="container textBlanc w-100">
+                            <h5 class="m-0">Tortue de mer</h5>
+                            <p class="m-0">2 à 3 ans</p>
+                        </div>
+                        <div class="container btnBlancNatation w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
+                    </div>
+                </div>
+                <div id="tortueHide" class="bgImage1Card text-center" style="display: none">
+                    <div class="card-body bgBleuCard h-100 d-flex flex-wrap align-items-center">
+                        <div class="row mb-4 text-center">
+                            <h5 class="card-title w-100">Tortue de mer</h5>
+                            <p class="card-text w-100 textBlanc pl-3 pr-3">Session automne</p>
+                            <p class="card-text w-100 textBlanc pl-3 pr-3">Ecole secondaire <br>Grande-Rivière</p>
+                            <p class="card-text w-100 textBlanc pl-3 pr-3">68,72 $</p>
+                            <div class="container btnTop">
+                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Horaire</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-6 col-lg-3 p-0 pb-2 pl-sm-1">
+                <div class=" p-0 containerFiltre">
+                    <div class="filtre"></div>
+                    <div class="bgPrescolaire text-center d-flex flex-wrap align-content-center">
+                        <div class="container textBlanc w-100">
+                            <h5 class="m-0">Loutre de mer</h5>
+                            <p class="m-0">3 à 3 1/2 ans</p>
+                        </div>
+                        <div class="container btnBlancNatation w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row pt-1">
+            <div class="col-sm-6 col-md-6 col-lg-3 p-0 pb-2 pr-sm-1 pb-sm-2 pb-md-2">
+                <div class="p-0 containerFiltre">
+                    <div class="filtre"></div>
+                    <div class="bgPrescolaire text-center d-flex flex-wrap align-content-center">
+                        <div class="container textBlanc w-100">
+                            <h5 class="m-0">Salamandre</h5>
+                            <p class="m-0">3 1/2 à 4 ans</p>
+                        </div>
+                        <div class="container btnBlancNatation w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-6 col-lg-3 p-0 pb-2 pl-sm-1 pb-sm-2 pb-md-2 pr-lg-1">
+                <div class="p-0 containerFiltre">
+                    <div class="filtre"></div>
+                    <div class="bgPrescolaire text-center d-flex flex-wrap align-content-center">
+                        <div class="container textBlanc w-100">
+                            <h5 class="m-0">Poisson-lune</h5>
+                            <p class="m-0">3 1/2 ans et +</p>
+                        </div>
+                        <div class="container btnBlancNatation w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-6 col-lg-3 p-0 pb-2 pr-sm-1 pb-md-1 pl-lg-1">
+                <div class="p-0 containerFiltre">
+                    <div class="filtre"></div>
+                    <div class="bgPrescolaire text-center d-flex flex-wrap align-content-center">
+                        <div class="container textBlanc w-100">
+                            <h5 class="m-0">Crocodile</h5>
+                            <p class="m-0">4 ans et +</p>
+                        </div>
+                        <div class="container btnBlancNatation w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-6 col-lg-3 p-0 pl-sm-1">
+                <div class=" p-0 containerFiltre">
+                    <div class="filtre"></div>
+                    <div class="bgPrescolaire text-center d-flex flex-wrap align-content-center">
+                        <div class="container textBlanc w-100">
+                            <h5 class="m-0">Baleine</h5>
+                            <p class="m-0">4 à 6 ans</p>
+                        </div>
+                        <div class="container btnBlancNatation w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row text-right">
+            <div class="offset-12 offset-sm-9 offset-md-9 offset-lg-9 col-xl-3 pt-3 p-0 pl-1"><a href="#" class="btn btnVert btn-block">M'inscrire</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Junior -->
+<section id="junior" class="container-fluid">
+    <div class="container pt-5 pb-5">
+        <div class="row pt-3 text-left">
+            <div class="col-12 col-sm-10 p-0">
+                <h2>Natation Junior</h2>
+            </div>
+            <div class="col-12 col-sm-2 d-none text-right mb-2 p-0 w-100 d-flex flex-row-reverse align-items-end">
+                <img class="d-none d-sm-block CroixRouge" src="img/Croix-RougeNatationNoir.png" alt="Croix-Rouge" title="Croix-Rouge Natation"/>
+            </div>
+        </div>
+        <div class="row pb-1">
+            <div class="col-sm-6 col-md-6 col-lg-3 p-0 pb-2 pr-sm-1 pb-sm-2 pb-md-2">
+                <div class="p-0 containerFiltre">
+                    <div class="filtre"></div>
+                    <div class="bgPrescolaire text-center d-flex flex-wrap align-content-center">
+                        <div class="container textBlanc w-100">
+                            <h5 class="m-0">Junior 3</h5>
+                        </div>
+                        <div class="container btnBlancNatation w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-6 col-lg-3 p-0 pb-2 pl-sm-1 pb-sm-2 pb-md-1 pr-lg-1">
+                <div class="p-0 containerFiltre">
+                    <div class="filtre"></div>
+                    <div class="bgPrescolaire text-center d-flex flex-wrap align-content-center">
+                        <div class="container textBlanc w-100">
+                            <h5 class="m-0">Junior 4</h5>
+                        </div>
+                        <div class="container btnBlancNatation w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-6 col-lg-3 p-0 pb-2 pr-sm-1 pb-md-0 pl-lg-1">
+                <div class="p-0 containerFiltre">
+                    <div class="filtre"></div>
+                    <div class="bgPrescolaire text-center d-flex flex-wrap align-content-center">
+                        <div class="container textBlanc w-100">
+                            <h5 class="m-0">Junior 5</h5>
+                        </div>
+                        <div class="container btnBlancNatation w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-6 col-lg-3 p-0 pb-2 pl-sm-1">
+                <div class=" p-0 containerFiltre">
+                    <div class="filtre"></div>
+                    <div class="bgPrescolaire text-center d-flex flex-wrap align-content-center">
+                        <div class="container textBlanc w-100">
+                            <h5 class="m-0">Junior 6</h5>
+                        </div>
+                        <div class="container btnBlancNatation w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row pt-1">
+            <div class="col-sm-6 col-md-6 col-lg-3 p-0 pb-2 pr-sm-1 pb-sm-2 pb-md-2">
+                <div class="p-0 containerFiltre">
+                    <div class="filtre"></div>
+                    <div class="bgPrescolaire text-center d-flex flex-wrap align-content-center">
+                        <div class="container textBlanc w-100">
+                            <h5 class="m-0">Junior 7</h5>
+                        </div>
+                        <div class="container btnBlancNatation w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-6 col-lg-3 p-0 pb-2 pl-sm-1 pb-sm-2 pb-md-2 pr-lg-1">
+                <div class="p-0 containerFiltre">
+                    <div class="filtre"></div>
+                    <div class="bgPrescolaire text-center d-flex flex-wrap align-content-center">
+                        <div class="container textBlanc w-100">
+                            <h5 class="m-0">Junior 8</h5>
+                        </div>
+                        <div class="container btnBlancNatation w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-6 col-lg-3 p-0 pb-2 pr-sm-1 pb-md-1 pl-lg-1">
+                <div class="p-0 containerFiltre">
+                    <div class="filtre"></div>
+                    <div class="bgPrescolaire text-center d-flex flex-wrap align-content-center">
+                        <div class="container textBlanc w-100">
+                            <h5 class="m-0">Junior 9</h5>
+                        </div>
+                        <div class="container btnBlancNatation w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-6 col-lg-3 p-0 pl-sm-1">
+                <div class=" p-0 containerFiltre">
+                    <div class="filtre"></div>
+                    <div class="bgPrescolaire text-center d-flex flex-wrap align-content-center">
+                        <div class="container textBlanc w-100">
+                            <h5 class="m-0">Junior 10</h5>
+                        </div>
+                        <div class="container btnBlancNatation w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row text-right">
+            <div class="offset-12 offset-sm-9 offset-md-9 offset-lg-9 col-xl-3 pt-3 p-0 pl-1"><a href="#" class="btn btnVert btn-block">M'inscrire</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Aquaforme -->
+
+<section id="aquaforme" class="container-fluid bgBleu">
+    <div class="container pt-5 pb-5">
+        <div class="row">
+            <h2 class="w-100 text-left textBlanc">Aquaforme</h2>
+        </div>
+        <div class="row">
+            <div class="col-md-4 p-0 pb-1 pb-md-0 pr-md-1">
+                <div class="p-0 containerFiltre">
+                    <div class="filtre"></div>
+                    <div class="bgImage1 text-center d-flex flex-wrap align-content-center">
+                        <h3 class="w-100">Aérobique</h3>
+                        <div class="container btnBlancP w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 p-0 pb-1 pb-md-0 pl-md-1 pr-md-1">
+                <div class="p-0 containerFiltre">
+                    <div class="filtre"></div>
+                    <div class="bgImage2 text-center d-flex flex-wrap align-content-center">
+                        <h3 class="w-100">Spécialisée</h3>
+                        <div class="container btnBlancP w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 p-0 pl-md-1">
+                <div class=" p-0 containerFiltre">
+                    <div class="filtre"></div>
+                    <div class="bgImage3 text-center d-flex flex-wrap align-content-center">
+                        <h3 class="w-100">Prénataux</h3>
+                        <div class="container btnBlancP w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Secourisme -->
+
+<section id="secourisme" class="container-fluid">
+    <div class="container pt-5 pb-5">
+        <div class="row">
+            <h2 class="w-100 text-left">Secourisme</h2>
+        </div>
+        <div class="row">
+            <div class="col-md-4 p-0 pb-1 pb-md-0 pr-md-1">
+                <div class="p-0 containerFiltre">
+                    <div class="filtre"></div>
+                    <div class="bgImage1 text-center d-flex flex-wrap align-content-center">
+                        <h3 class="w-100">Cardio-bébé</h3>
+                        <div class="container btnBlancP w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 p-0 pb-1 pb-md-0 pl-md-1 pr-md-1">
+                <div class="p-0 containerFiltre">
+                    <div class="filtre"></div>
+                    <div class="bgImage2 text-center d-flex flex-wrap align-content-center">
+                        <h3 class="w-100">Cardio-secours</h3>
+                        <div class="container btnBlancP w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 p-0 pl-md-1">
+                <div class=" p-0 containerFiltre">
+                    <div class="filtre"></div>
+                    <div class="bgImage3 text-center d-flex flex-wrap align-content-center">
+                        <h3 class="w-100">Soins immédiats</h3>
+                        <div class="container btnBlancP w-100">
+                            <a href="" class="btn btnBlanc">+</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- footer -->
+
+<!-- footer -->
+<!-- Inscription -->
+
+<section id="inscription" class="container-fluid bgVert pt-3 pb-3 mb-2">
+    <div class="container">
+        <div class="row d-flex flex-wrap align-items-center">
+            <div class="col-12 col-md-9 p-0 pt-3 pb-3">
+                <h5 class="text-center text-md-left m-0">Pour le plaisir d'être en forme et en santé</h5>
+            </div>
+            <div class="col-12 col-md-3 p-0 pt-3 pb-3">
+                <div class="text-center text-md-right">
+                    <a href="#" class="btn btnBlancInscription">Inscription</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- SubFooter -->
+
+<section id="footer">
+    <div class="container-fluid bgBleuFooter textBlanc">
+        <div class="container p-sm-0 pt-3">
+            <div class="row pt-4">
+                <div class="col-12 col-md-8">
+                    <h4>Des questions?</h4>
+                    <h5 class="pt-2 pt-md-0 mb-0">819 775-3551 info@moleculesenaction.ca</h5>
+                </div>
+                <div class="col-12 col-md-4 text-center text-md-right p-sm-0 pt-2 pt-md-0">
+                    <div class="container pl-0">
+                        <h4 class="m-0 d-none d-md-block">Suivez-nous!</h4>
+                        <div class="container d-flex flex-row flex-md-row-reverse order-2 order-sm-3 p-0">
+                            <a class="nav-link pl-0" href="https://www.facebook.com/" target="_blank">
+                                <i class="fab fa-facebook fa-2x"></i>
+                            </a>
+                            <a class="nav-link pl-0" href="https://twitter.com/" target="_blank">
+                                <i class="fab fa-twitter fa-2x"></i>
+                            </a>
+                            <a class="nav-link pl-0" href="https://www.instagram.com/?hl=fr-ca" target="_blank">
+                                <i class="fab fa-instagram fa-2x"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="container-fluid p-0 pt-1 pb-1">
+            <hr>
+        </div>
+        <div class="container textBlanc d-none d-md-block p-0 pt-3 pb-4">
+            <div class="row col-12 offset-md-1 col-md-10 text-center">
+                <div class="navbar-nav col-12 col-sm-4">
+                    <h5><a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php">Nos cours</a></h5>
+                    <a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#natation">Natation</a>
+                    <a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#aquaforme">Aquaforme</a>
+                    <a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#secourisme">Secourisme</a>
+                </div>
+                <div class="navbar-nav col-12 col-sm-4">
+                    <h5><a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nouvelles.php">Nouvelles</a></h5>
+                    <a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nouvelles.php#important">Important</a>
+                    <a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nouvelles.php#aLaUne">À la une</a>
+                    <a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nouvelles.php#autres">Autres</a>
+                </div>
+                <div class="navbar-nav col-12 col-sm-4">
+                    <h5><a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nousJoindre.php">Nous joindre</a></h5>
+                    <a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nousJoindre.php#offresEmploi">Offres d'emploi</a>
+                    <a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nousJoindre.php#ouCaCePasse">Où ça ce passe?</a>
+                    <a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nousJoindre.php#nousContacter">Nous Contacter</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid bgBleuFooter2 text-right pt-3 pb-3">
+        <div class="row d-flex flex-wrap align-items-center">
+            <div class="col-12">
+                <p class="m-0 textBlanc textDroitsReserves">@ 2019 - Molécules en action inc. Tous droits réservés</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<script src="js/jquery-3.3.1.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
+<script src="js/bootstrap.js"></script>
+<script src="js/projetSynthese.js"></script>
+</body>
+
+</html>

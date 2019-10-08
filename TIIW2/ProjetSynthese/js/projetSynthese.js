@@ -94,3 +94,71 @@ $('#petiteHide').mouseleave(function () {
     $('#petiteHide').hide();
     $('#petiteShow').show();
 });
+
+//Page NOS COURS
+
+//Natation privé - Individuel
+
+$("#individuelShow").hover(function () {
+    $('.containerFiltre').css("cursor", "pointer");
+
+    $('#individuelHide').show();
+    $('#individuelShow').hide();
+});
+
+$('#individuelHide').mouseleave(function () {
+    $('.containerFiltre').css("cursor", "pointer");
+
+    $('#individuelHide').hide();
+    $('#individuelShow').show();
+});
+
+//Natation privé - Groupe
+
+$("#groupeShow").hover(function () {
+    $('.containerFiltre').css("cursor", "pointer");
+
+    $('#groupeHide').show();
+    $('#groupeShow').hide();
+});
+
+$('#groupeHide').mouseleave(function () {
+    $('.containerFiltre').css("cursor", "pointer");
+
+    $('#groupeHide').hide();
+    $('#groupeShow').show();
+});
+
+//Natation - Préscolaire
+
+//Étoile de mer
+
+$("#etoileShow").hover(function () {
+    $('.containerFiltre').css("cursor", "pointer");
+
+    $('#etoileHide').show();
+    $('#etoileShow').hide();
+});
+
+$('#etoileHide').mouseleave(function () {
+    $('.containerFiltre').css("cursor", "pointer");
+
+    $('#etoileHide').hide();
+    $('#etoileShow').show();
+});
+
+//Canard
+
+$("#canardShow").hover(function () {
+    $('.containerFiltre').css("cursor", "pointer");
+
+    $('#canardHide').show();
+    $('#canardShow').hide();
+});
+
+$('#canardHide').mouseleave(function () {
+    $('.containerFiltre').css("cursor", "pointer");
+
+    $('#canardHide').hide();
+    $('#canardShow').show();
+});
