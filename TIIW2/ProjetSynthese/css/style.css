@@ -33,7 +33,6 @@ h4{
 }
 
 h5{
-    font-family: "Montserrat Regular";
     color: white;
     font-size: 1.5rem;
 }
@@ -84,6 +83,11 @@ hr{
     background-color: rgba(42,125,169,0.8);
     border-radius: 20px;
     padding: 20px;
+}
+
+.bgBleuCardHoraire{
+    background-color: rgba(42,125,169,1);
+    border-radius: 20px;
 }
 
 .bgBleuFooter2{
@@ -321,6 +325,15 @@ hr{
 
 .hamburger{
     color: white;
+}
+
+.horaireTitre{
+    font-size: 1rem;
+    font-family: "Montserrat SemiBold";
+}
+
+.horaireTexte{
+    font-size: .8rem;
 }
 
 .hover-zoom {
