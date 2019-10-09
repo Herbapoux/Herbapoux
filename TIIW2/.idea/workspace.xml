@@ -30,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ProjetSynthese/nosCours.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="71">
-              <caret line="196" selection-start-line="196" selection-end-line="196" />
+            <state relative-caret-position="235">
+              <caret line="207" column="47" lean-forward="true" selection-start-line="207" selection-start-column="47" selection-end-line="207" selection-end-column="47" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -80,8 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ProjetSynthese/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="346" column="1" selection-start-line="346" selection-start-column="1" selection-end-line="346" selection-end-column="1" />
+            <state relative-caret-position="201">
+              <caret line="345" column="16" lean-forward="true" selection-start-line="345" selection-start-column="16" selection-end-line="345" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -378,15 +378,16 @@
       <workItem from="1570278576808" duration="6601000" />
       <workItem from="1570453663406" duration="18703000" />
       <workItem from="1570539606668" duration="14210000" />
-      <workItem from="1570628210779" duration="7048000" />
+      <workItem from="1570628210779" duration="7126000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="477190000" />
+    <option name="totallyTimeSpent" value="477268000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="39" width="1280" height="761" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49646643" visible="true" weight="0.17265625" />
       <window_info id="Structure" order="1" sideWeight="0.50353354" side_tool="true" weight="0.25" />
@@ -692,15 +693,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProjetSynthese/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="346" column="1" selection-start-line="346" selection-start-column="1" selection-end-line="346" selection-end-column="1" />
+        <state relative-caret-position="201">
+          <caret line="345" column="16" lean-forward="true" selection-start-line="345" selection-start-column="16" selection-end-line="345" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ProjetSynthese/nosCours.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="196" selection-start-line="196" selection-end-line="196" />
+        <state relative-caret-position="235">
+          <caret line="207" column="47" lean-forward="true" selection-start-line="207" selection-start-column="47" selection-end-line="207" selection-end-column="47" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
