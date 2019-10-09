@@ -71,6 +71,10 @@ hr{
     color: white;
 }
 
+.bgBlancCard{
+    background-color: white;
+    border-radius: 20px;
+}
 
 .bgBleu{
     background-color: rgba(42,125,169,0.3);
