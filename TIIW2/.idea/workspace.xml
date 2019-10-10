@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ff4d429-cfd9-4082-9854-8989924532f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8ff4d429-cfd9-4082-9854-8989924532f2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ProjetSynthese/nosCours.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="1498" column="96" selection-start-line="1498" selection-start-column="96" selection-end-line="1498" selection-end-column="96" />
+            <state relative-caret-position="284">
+              <caret line="1785" column="70" lean-forward="true" selection-start-line="1785" selection-start-column="70" selection-end-line="1785" selection-end-column="70" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -386,18 +384,18 @@
       <workItem from="1570453663406" duration="18703000" />
       <workItem from="1570539606668" duration="14210000" />
       <workItem from="1570628210779" duration="11491000" />
-      <workItem from="1570713616911" duration="10260000" />
+      <workItem from="1570713616911" duration="11734000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="491893000" />
+    <option name="totallyTimeSpent" value="493367000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="39" width="1280" height="761" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49646643" visible="true" weight="0.17265625" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49646643" visible="true" weight="0.17265625" />
       <window_info id="Structure" order="1" sideWeight="0.50353354" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -726,8 +724,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ProjetSynthese/nosCours.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="1498" column="96" selection-start-line="1498" selection-start-column="96" selection-end-line="1498" selection-end-column="96" />
+        <state relative-caret-position="284">
+          <caret line="1785" column="70" lean-forward="true" selection-start-line="1785" selection-start-column="70" selection-end-line="1785" selection-end-column="70" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
