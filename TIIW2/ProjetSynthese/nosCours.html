@@ -2877,6 +2877,9 @@
         <div class="row">
             <h2 class="w-100 text-left textBlanc">Aquaforme</h2>
         </div>
+
+        <!-- Aérobique -->
+
         <div class="row">
             <div class="col-md-4 p-0 pb-1 pb-md-0 pr-md-1">
                 <div id="aerobiqueShow" class="p-0 containerFiltre">
@@ -2898,12 +2901,77 @@
                             <p class="card-title w-100 textBlanc pl-3 pr-3">Rabais</p>
                             <p class="card-text w-100 textBlanc pl-3 pr-3">2 cours d'aquaforme aérobique pour 165.96$.<br>3 cours d'aquaforme aérobique pour 235.11$</p>
                             <div class="container btnTop">
-                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Horaire</a>
+                                <button type="button" class="btn btnBlancCard" data-toggle="modal" data-target="#aerobique">
+                                    Horaire
+                                </button>
                             </div>
                         </div>
                     </div>
                 </div>
+                <!-- The Modal aérobique -->
+                <div class="modal fade" id="aerobique">
+                    <div class="modal-dialog modal-dialog-centered">
+                        <div class="bgBleuCard modal-content">
+
+                            <!-- Modal Header -->
+                            <div>
+                                <button type="button" class="close textBlanc" data-dismiss="modal">X</button>
+                            </div>
+                            <div class="textBlanc text-center">
+                                <h4 class="modal-title">Aérobique</h4>
+                            </div>
+                            <!-- Modal body -->
+                            <div class="modal-body text-center">
+                                <div class="container-fluid p-0">
+                                    <h5>Session automne 2019</h5>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Mardi</h6>
+                                                <p class="horaireTexte">17 septembre <br>au<br>19 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBleuCardHoraire mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>A</h5>
+                                                            <p>19:45<br>à<br>20:45</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Jeudi</h6>
+                                                <p class="horaireTexte">19 septembre <br>au<br>21 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBleuCardHoraire mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>B</h5>
+                                                            <p>19:45<br>à<br>20:45</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Modal footer -->
+                            <div class="modal-footer">
+                                <div class="col-12">
+                                    <div class="text-center">
+                                        <a href="#" class="btn btnBlancInscription">Inscription</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Modal end -->
             </div>
+
+            <!-- Spécialisée -->
+
             <div class="col-md-4 p-0 pb-1 pb-md-0 pl-md-1 pr-md-1">
                 <div id="specialiseeShow" class="p-0 containerFiltre">
                     <div class="filtre"></div>
@@ -2924,12 +2992,44 @@
                             <p class="card-title w-100 textBlanc pl-3 pr-3">Rabais</p>
                             <p class="card-text w-100 textBlanc pl-3 pr-3">2 cours d'aquaforme spécialisée pour 161,78$.</p>
                             <div class="container btnTop">
-                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Horaire</a>
+                                <button type="button" class="btn btnBlancCard" data-toggle="modal" data-target="#specialisee">
+                                    Horaire
+                                </button>
                             </div>
                         </div>
                     </div>
                 </div>
+                <!-- The Modal Spécialisée -->
+                <div class="modal fade" id="specialisee">
+                    <div class="modal-dialog modal-dialog-centered">
+                        <div class="bgBleuCard modal-content">
+
+                            <!-- Modal Header -->
+                            <div>
+                                <button type="button" class="close textBlanc" data-dismiss="modal">X</button>
+                            </div>
+                            <div class="textBlanc text-center">
+                                <h4 class="modal-title">Spécialisée</h4>
+                            </div>
+                            <!-- Modal body -->
+                            <div class="modal-body text-center">
+                                <div class="container-fluid p-0">
+                                    <h5>Aucune session pour l'automne 2019</h5>
+                                </div>
+                            </div>
+                            <!-- Modal footer -->
+                            <div class="modal-footer">
+                                <div class="col-12">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Modal end -->
             </div>
+
+            <!-- Prénataux -->
+
             <div class="col-md-4 p-0 pl-md-1">
                 <div id="prenatauxShow" class=" p-0 containerFiltre">
                     <div class="filtre"></div>
@@ -2950,11 +3050,73 @@
                             <p class="card-title w-100 textBlanc pl-3 pr-3">Rabais</p>
                             <p class="card-text w-100 textBlanc pl-3 pr-3">2 cours de prénataux aquatiques pour 165,96$.<br>3 cours de prénataux aquatiques pour 235.96$</p>
                             <div class="container btnTop">
-                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Horaire</a>
+                                <button type="button" class="btn btnBlancCard" data-toggle="modal" data-target="#prenataux">
+                                    Horaire
+                                </button>
                             </div>
                         </div>
                     </div>
                 </div>
+                <!-- The Modal Prénataux -->
+                <div class="modal fade" id="prenataux">
+                    <div class="modal-dialog modal-dialog-centered">
+                        <div class="bgBleuCard modal-content">
+
+                            <!-- Modal Header -->
+                            <div>
+                                <button type="button" class="close textBlanc" data-dismiss="modal">X</button>
+                            </div>
+                            <div class="textBlanc text-center">
+                                <h4 class="modal-title">Prénataux</h4>
+                            </div>
+                            <!-- Modal body -->
+                            <div class="modal-body text-center">
+                                <div class="container-fluid p-0">
+                                    <h5>Session automne 2019</h5>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Mardi</h6>
+                                                <p class="horaireTexte">17 septembre <br>au<br>19 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBleuCardHoraire mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>A</h5>
+                                                            <p>19:45<br>à<br>20:45</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Jeudi</h6>
+                                                <p class="horaireTexte">19 septembre <br>au<br>21 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBleuCardHoraire mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>B</h5>
+                                                            <p>19:45<br>à<br>20:45</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Modal footer -->
+                            <div class="modal-footer">
+                                <div class="col-12">
+                                    <div class="text-center">
+                                        <a href="#" class="btn btnBlancInscription">Inscription</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Modal end -->
             </div>
         </div>
     </div>
@@ -2968,6 +3130,9 @@
             <h2 class="w-100 text-left">Secourisme</h2>
         </div>
         <div class="row">
+
+            <!-- Cardio-bébé -->
+
             <div class="col-md-4 p-0 pb-1 pb-md-0 pr-md-1">
                 <div id="bebeShow" class="p-0 containerFiltre">
                     <div class="filtre"></div>
@@ -2988,12 +3153,44 @@
                             <p class="card-title w-100 textBlanc pl-3 pr-3">Spécification</p>
                             <p class="card-text w-100 textBlanc pl-3 pr-3">Durée de 6 à 7 heures</p>
                             <div class="container btnTop">
-                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Horaire</a>
+                                <button type="button" class="btn btnBlancCard" data-toggle="modal" data-target="#bebe">
+                                    Horaire
+                                </button>
                             </div>
                         </div>
                     </div>
                 </div>
+                <!-- The Modal Cardio-bébé -->
+                <div class="modal fade" id="bebe">
+                    <div class="modal-dialog modal-dialog-centered">
+                        <div class="bgBleuCard modal-content">
+
+                            <!-- Modal Header -->
+                            <div>
+                                <button type="button" class="close textBlanc" data-dismiss="modal">X</button>
+                            </div>
+                            <div class="textBlanc text-center">
+                                <h4 class="modal-title">Cardio-bébé</h4>
+                            </div>
+                            <!-- Modal body -->
+                            <div class="modal-body text-center">
+                                <div class="container-fluid p-0">
+                                    <h5>Aucune session pour l'automne 2019</h5>
+                                </div>
+                            </div>
+                            <!-- Modal footer -->
+                            <div class="modal-footer">
+                                <div class="col-12">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Modal end -->
             </div>
+
+            <!-- Premier-secours -->
+
             <div class="col-md-4 p-0 pb-1 pb-md-0 pl-md-1 pr-md-1">
                 <div id="secoursShow" class="p-0 containerFiltre">
                     <div class="filtre"></div>
@@ -3014,12 +3211,44 @@
                             <p class="card-title w-100 textBlanc pl-3 pr-3">Spécification</p>
                             <p class="card-text w-100 textBlanc pl-3 pr-3">Durée de 6 heures</p>
                             <div class="container btnTop">
-                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Horaire</a>
+                                <button type="button" class="btn btnBlancCard" data-toggle="modal" data-target="#secours">
+                                    Horaire
+                                </button>
                             </div>
                         </div>
                     </div>
                 </div>
+                <!-- The Modal Cardio-secours -->
+                <div class="modal fade" id="secours">
+                    <div class="modal-dialog modal-dialog-centered">
+                        <div class="bgBleuCard modal-content">
+
+                            <!-- Modal Header -->
+                            <div>
+                                <button type="button" class="close textBlanc" data-dismiss="modal">X</button>
+                            </div>
+                            <div class="textBlanc text-center">
+                                <h4 class="modal-title">Cardio-secours</h4>
+                            </div>
+                            <!-- Modal body -->
+                            <div class="modal-body text-center">
+                                <div class="container-fluid p-0">
+                                    <h5>Aucune session pour l'automne 2019</h5>
+                                </div>
+                            </div>
+                            <!-- Modal footer -->
+                            <div class="modal-footer">
+                                <div class="col-12">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Modal end -->
             </div>
+
+            <!-- Soins immédiats -->
+
             <div class="col-md-4 p-0 pl-md-1">
                 <div id="soinsShow" class=" p-0 containerFiltre">
                     <div class="filtre"></div>
@@ -3040,11 +3269,40 @@
                             <p class="card-title w-100 textBlanc pl-3 pr-3">Spécification</p>
                             <p class="card-text w-100 textBlanc pl-3 pr-3">Durée de 8 heures</p>
                             <div class="container btnTop">
-                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Horaire</a>
+                                <button type="button" class="btn btnBlancCard" data-toggle="modal" data-target="#soins">
+                                    Horaire
+                                </button>
                             </div>
                         </div>
                     </div>
                 </div>
+                <!-- The Modal Soins immédiats -->
+                <div class="modal fade" id="soins">
+                    <div class="modal-dialog modal-dialog-centered">
+                        <div class="bgBleuCard modal-content">
+
+                            <!-- Modal Header -->
+                            <div>
+                                <button type="button" class="close textBlanc" data-dismiss="modal">X</button>
+                            </div>
+                            <div class="textBlanc text-center">
+                                <h4 class="modal-title">Soins immédiats</h4>
+                            </div>
+                            <!-- Modal body -->
+                            <div class="modal-body text-center">
+                                <div class="container-fluid p-0">
+                                    <h5>Aucune session pour l'automne 2019</h5>
+                                </div>
+                            </div>
+                            <!-- Modal footer -->
+                            <div class="modal-footer">
+                                <div class="col-12">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Modal end -->
             </div>
         </div>
     </div>
