@@ -336,15 +336,6 @@ hr{
     font-size: .8rem;
 }
 
-.hover-zoom {
-    margin: 0;
-    height: 100%;
-    width: 100%;
-    transition: all 1.3s;
-    background-size: 100%;
-    position: relative;
-}
-
 .hrVert{
     border-top: 1px solid;
     border-color: rgb(102,164,127);
@@ -395,8 +386,8 @@ hr{
 .textMenu{
     font-size: 1.3rem;
     font-family: "Montserrat Regular";
-
 }
+
 @media screen and (max-width: 1999px){
     .bgImage
 }

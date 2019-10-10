@@ -174,6 +174,9 @@
                         </div>
                     </div>
                 </div>
+
+                <!-- Étoile de mer -->
+
                 <div id="etoileHide" class="bgImage1Card text-center" style="display: none">
                     <div class="card-body bgBleuCard h-100 d-flex flex-wrap align-items-center">
                         <div class="row mb-4 text-center">
@@ -186,30 +189,26 @@
                             <p class="card-text w-100 textBlanc pl-3 pr-3">Un seul adulte dans l'eau avec l'enfant.<br>Si l'enfant n'est pas propre, il doit avoir une couche aquatique.</p>
                             <p class="card-text w-100 textBlanc pl-3 pr-3">68,72 $</p>
                             <div class="container btnTop">
-                                <button type="button" class="btn btnBlancCard" data-toggle="modal" data-target="#myModal">
+                                <button type="button" class="btn btnBlancCard" data-toggle="modal" data-target="#etoile">
                                     Horaire
                                 </button>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!-- The Modal -->
 
-                <div class="modal fade" id="myModal">
-                    <div class="modal-dialog modal-dialog-centered">
+                <!-- The Modal Étoile de mer-->
+                <div class="modal fade" id="etoile">
+                    <div class="modal-dialog">
                         <div class="bgBleuCard modal-content">
 
                             <!-- Modal Header -->
                             <div>
-                                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                <button type="button" class="close textBlanc" data-dismiss="modal">X</button>
                             </div>
-                            <div class="textBlanc">
+                            <div class="textBlanc text-center">
                                 <h4 class="modal-title">Étoile de mer</h4>
                                 <h5 class="card-text tex">4 à 12 mois</h5>
-                                <p class="card-title">Endroit</p>
-                                <p class="card-text">Ecole secondaire Grande-Riviere, 100, rue Broad porte 31, Gatineau (Sect: Aylmer), Quebec</p>
-                                <p class="card-title">Avantages</p>
-                                <p class="card-text">Piscines chauffées à 29°C (84.5oF). Vous n’avez pas à payer la double tarification imposée aux non-résidants; Stationnement gratuit; Aucun frais d’adhésion.</p>
                             </div>
                             <!-- Modal body -->
                             <div class="modal-body text-center">
@@ -221,13 +220,13 @@
                                                 <h6 class="horaireTitre pt-3">Samedi</h6>
                                                 <p class="horaireTexte">21 septembre <br>au<br>16 novembre</p>
                                                 <div class="row">
-                                                    <div class="container bgBleuCardHoraire ml-5 mr-5">
+                                                    <div class="container bgBleuCardHoraire ml-4 mr-4">
                                                         <div class="pt-3 textBlanc">
                                                             <h5>A</h5>
                                                             <p>9:00<br>à<br>9:30</p>
                                                         </div>
                                                     </div>
-                                                    <div class="container bgBleuCardHoraire mt-2 mb-3 ml-5 mr-5">
+                                                    <div class="container bgBleuCardHoraire mt-2 mb-3 ml-4 mr-4">
                                                         <div class="pt-3 textBlanc">
                                                             <h5>B</h5>
                                                             <p>10:30<br>à<br>11:00</p>
@@ -241,13 +240,13 @@
                                                 <h6 class="horaireTitre pt-3">Dimanche</h6>
                                                 <p class="horaireTexte">22 septembre <br>au<br>17 novembre</p>
                                                 <div class="row">
-                                                    <div class="container bgBlancCard ml-5 mr-5">
+                                                    <div class="container bgBlancCard ml-4 mr-4">
                                                         <div class="pt-3 textBlanc">
-                                                            <h5>a</h5>
+                                                            <h5>x</h5>
                                                             <p>9:00<br>à<br>9:30</p>
                                                         </div>
                                                     </div>
-                                                    <div class="container bgBleuCardHoraire mt-2 mb-3 ml-5 mr-5">
+                                                    <div class="container bgBleuCardHoraire mt-2 mb-3 ml-4 mr-4">
                                                         <div class="pt-3 textBlanc">
                                                             <h5>C</h5>
                                                             <p>10:30<br>à<br>11:00</p>
@@ -261,12 +260,20 @@
                             </div>
                             <!-- Modal footer -->
                             <div class="modal-footer">
-                                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                <div class="col-12">
+                                    <div class="text-center">
+                                        <a href="#" class="btn btnBlancInscription">Inscription</a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
+                <!-- Modal end -->
             </div>
+
+            <!-- canard -->
+
             <div class="col-sm-6 col-md-6 col-lg-3 p-0 pb-2 pl-sm-1 pb-sm-2 pb-md-1 pr-lg-1">
                 <div id="canardShow" class="p-0 containerFiltre">
                     <div class="filtre"></div>
@@ -290,12 +297,91 @@
                             <p class="card-text w-100 textBlanc pl-3 pr-3">Un seul adulte dans l'eau avec l'enfant.<br>Flotteurs hippopotames facultatifs.<br>Si l'enfant n'est pas propre, il doit avoir une couche aquatique.</p>
                             <p class="card-text w-100 textBlanc pl-3 pr-3">68,72 $</p>
                             <div class="container btnTop">
-                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Horaire</a>
+                                <button type="button" class="btn btnBlancCard" data-toggle="modal" data-target="#canard">
+                                    Horaire
+                                </button>
                             </div>
                         </div>
                     </div>
                 </div>
+
+                <!-- The Modal Canard -->
+                <div class="modal fade" id="canard">
+                    <div class="modal-dialog">
+                        <div class="bgBleuCard modal-content">
+
+                            <!-- Modal Header -->
+                            <div>
+                                <button type="button" class="close textBlanc" data-dismiss="modal">X</button>
+                            </div>
+                            <div class="textBlanc text-center">
+                                <h4 class="modal-title">Canard</h4>
+                                <h5 class="card-text tex">16 à 24 mois</h5>
+                            </div>
+                            <!-- Modal body -->
+                            <div class="modal-body text-center">
+                                <div class="container-fluid p-0">
+                                    <h5>Session automne 2019</h5>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Samedi</h6>
+                                                <p class="horaireTexte">21 septembre <br>au<br>16 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBleuCardHoraire ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>A</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>B</h5>
+                                                            <p>10:30<br>à<br>11:00</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Dimanche</h6>
+                                                <p class="horaireTexte">22 septembre <br>au<br>17 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBlancCard ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>C</h5>
+                                                            <p>10:30<br>à<br>11:00</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Modal footer -->
+                            <div class="modal-footer">
+                                <div class="col-12">
+                                    <div class="text-center">
+                                        <a href="#" class="btn btnBlancInscription">Inscription</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Modal end -->
             </div>
+
+            <!-- Tortue de mer -->
+
             <div class="col-sm-6 col-md-6 col-lg-3 p-0 pb-2 pr-sm-1 pb-md-0 pl-lg-1">
                 <div id="tortueShow" class="p-0 containerFiltre">
                     <div class="filtre"></div>
@@ -319,12 +405,142 @@
                             <p class="card-text w-100 textBlanc pl-3 pr-3">Un seul adulte dans l'eau avec l'enfant.<br>Flotteurs hippopotames fortement recommandés.<br>Si l'enfant n'est pas propre, il doit avoir une couche aquatique.</p>
                             <p class="card-text w-100 textBlanc pl-3 pr-3">68,72 $</p>
                             <div class="container btnTop">
-                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Horaire</a>
+                                <button type="button" class="btn btnBlancCard" data-toggle="modal" data-target="#tortue">
+                                    Horaire
+                                </button>
                             </div>
                         </div>
                     </div>
                 </div>
+                <!-- The Modal Tortue -->
+                <div class="modal fade" id="tortue">
+                    <div class="modal-dialog modal-lg">
+                        <div class="bgBleuCard modal-content">
+
+                            <!-- Modal Header -->
+                            <div>
+                                <button type="button" class="close textBlanc" data-dismiss="modal">X</button>
+                            </div>
+                            <div class="textBlanc text-center">
+                                <h4 class="modal-title">Tortue de mer</h4>
+                                <h5 class="card-text tex">2 à 3 ans</h5>
+                            </div>
+                            <!-- Modal body -->
+                            <div class="modal-body text-center">
+                                <div class="container-fluid p-0">
+                                    <h5>Session automne 2019</h5>
+                                    <div class="row">
+                                        <div class="col-3">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Vendredi</h6>
+                                                <p class="horaireTexte">20 septembre <br>au<br>15 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBlancCard ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>A</h5>
+                                                            <p>18:30<br>à<br>19:00</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-3">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Samedi</h6>
+                                                <p class="horaireTexte">21 septembre <br>au<br>16 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBleuCardHoraire ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>B</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>C</h5>
+                                                            <p>9:30<br>à<br>10:00</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-3">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Dimanche</h6>
+                                                <p class="horaireTexte">22 septembre <br>au<br>17 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBlancCard ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>D</h5>
+                                                            <p>9:30<br>à<br>10:00</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-3">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Mercredi</h6>
+                                                <p class="horaireTexte">25 septembre <br>au<br>13 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBlancCard ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>E</h5>
+                                                            <p>18:00<br>à<br>18:30</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Modal footer -->
+                            <div class="modal-footer">
+                                <div class="col-12">
+                                    <div class="text-center">
+                                        <a href="#" class="btn btnBlancInscription">Inscription</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Modal end -->
             </div>
+
+            <!-- Loutre de mer -->
+
             <div class="col-sm-6 col-md-6 col-lg-3 p-0 pb-2 pl-sm-1">
                 <div id="loutreShow" class="p-0 containerFiltre">
                     <div class="filtre"></div>
@@ -349,13 +565,148 @@
                                 <br>Si l'enfant n'est pas propre, il doit avoir une couche aquatique.</p>
                             <p class="card-text w-100 textBlanc pl-3 pr-3">68,72 $</p>
                             <div class="container btnTop">
-                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Horaire</a>
+                                <button type="button" class="btn btnBlancCard" data-toggle="modal" data-target="#loutre">
+                                    Horaire
+                                </button>
                             </div>
                         </div>
                     </div>
                 </div>
+                <!-- The Modal Loutre -->
+                <div class="modal fade" id="loutre">
+                    <div class="modal-dialog modal-lg">
+                        <div class="bgBleuCard modal-content">
+
+                            <!-- Modal Header -->
+                            <div>
+                                <button type="button" class="close textBlanc" data-dismiss="modal">X</button>
+                            </div>
+                            <div class="textBlanc text-center">
+                                <h4 class="modal-title">Loutre de mer</h4>
+                                <h5 class="card-text tex">3 à 3 1/2 ans</h5>
+                            </div>
+                            <!-- Modal body -->
+                            <div class="modal-body text-center">
+                                <div class="container-fluid p-0">
+                                    <h5>Session automne 2019</h5>
+                                    <div class="row">
+                                        <div class="col-3">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Vendredi</h6>
+                                                <p class="horaireTexte">20 septembre <br>au<br>15 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBlancCard ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>A</h5>
+                                                            <p>18:00<br>à<br>18:30</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-3">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Samedi</h6>
+                                                <p class="horaireTexte">21 septembre <br>au<br>16 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBleuCardHoraire ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>B</h5>
+                                                            <p>10:00<br>à<br>10:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>C</h5>
+                                                            <p>11:30<br>à<br>12:00</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-3">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Dimanche</h6>
+                                                <p class="horaireTexte">22 septembre <br>au<br>17 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBlancCard mb-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>D</h5>
+                                                            <p>10:30<br>à<br>11:00</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-3">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Mercredi</h6>
+                                                <p class="horaireTexte">25 septembre <br>au<br>13 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBlancCard ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>E</h5>
+                                                            <p>18:00<br>à<br>18:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>E</h5>
+                                                            <p>19:00<br>à<br>19:30</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Modal footer -->
+                            <div class="modal-footer">
+                                <div class="col-12">
+                                    <div class="text-center">
+                                        <a href="#" class="btn btnBlancInscription">Inscription</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Modal end -->
             </div>
         </div>
+
+        <!-- Salamandre -->
+
         <div class="row pt-1">
             <div class="col-sm-6 col-md-6 col-lg-3 p-0 pb-2 pr-sm-1 pb-sm-2 pb-md-2">
                 <div id="salamandreShow" class="p-0 containerFiltre">
@@ -382,12 +733,166 @@
                                 <br>Si l'enfant n'est pas propre, il doit avoir une couche aquatique.</p>
                             <p class="card-text w-100 textBlanc pl-3 pr-3">68,72 $</p>
                             <div class="container btnTop">
-                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Horaire</a>
+                                <button type="button" class="btn btnBlancCard" data-toggle="modal" data-target="#salamandre">
+                                    Horaire
+                                </button>
                             </div>
                         </div>
                     </div>
                 </div>
+                <!-- The Modal Salamandre -->
+                <div class="modal fade" id="salamandre">
+                    <div class="modal-dialog modal-lg">
+                        <div class="bgBleuCard modal-content">
+
+                            <!-- Modal Header -->
+                            <div>
+                                <button type="button" class="close textBlanc" data-dismiss="modal">X</button>
+                            </div>
+                            <div class="textBlanc text-center">
+                                <h4 class="modal-title">Salamandrer</h4>
+                                <h5 class="card-text tex">3 1/2 à 4 ans</h5>
+                            </div>
+                            <!-- Modal body -->
+                            <div class="modal-body text-center">
+                                <div class="container-fluid p-0">
+                                    <h5>Session automne 2019</h5>
+                                    <div class="row">
+                                        <div class="col-3">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Vendredi</h6>
+                                                <p class="horaireTexte">20 septembre <br>au<br>15 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBlancCard ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>A</h5>
+                                                            <p>18:00<br>à<br>18:30</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-3">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Samedi</h6>
+                                                <p class="horaireTexte">21 septembre <br>au<br>16 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBleuCardHoraire ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>B</h5>
+                                                            <p>10:00<br>à<br>10:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>11:30<br>à<br>12:00</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>C</h5>
+                                                            <p>11:30<br>à<br>12:00</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-3">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Dimanche</h6>
+                                                <p class="horaireTexte">22 septembre <br>au<br>17 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBleuCardHoraire mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>D</h5>
+                                                            <p>10:00<br>à<br>10:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>E</h5>
+                                                            <p>10:30<br>à<br>11:00</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-3">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Mercredi</h6>
+                                                <p class="horaireTexte">25 septembre <br>au<br>13 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBlancCard ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>F</h5>
+                                                            <p>18:00<br>à<br>18:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>G</h5>
+                                                            <p>19:00<br>à<br>19:30</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Modal footer -->
+                            <div class="modal-footer">
+                                <div class="col-12">
+                                    <div class="text-center">
+                                        <a href="#" class="btn btnBlancInscription">Inscription</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Modal end -->
             </div>
+
+            <!-- Poisson-lune -->
+
             <div class="col-sm-6 col-md-6 col-lg-3 p-0 pb-2 pl-sm-1 pb-sm-2 pb-md-2 pr-lg-1">
                 <div id="poissonShow" class="p-0 containerFiltre">
                     <div class="filtre"></div>
@@ -411,12 +916,220 @@
                             <p class="card-text w-100 textBlanc pl-3 pr-3">Flotteurs hippopotames obligatoires.<br>Casque de bain obligatoire.</p>
                             <p class="card-text w-100 textBlanc pl-3 pr-3">68,72 $</p>
                             <div class="container btnTop">
-                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Horaire</a>
+                                <button type="button" class="btn btnBlancCard" data-toggle="modal" data-target="#poisson">
+                                    Horaire
+                                </button>
                             </div>
                         </div>
                     </div>
                 </div>
+                <!-- The Modal Poisson-lune -->
+                <div class="modal fade" id="poisson">
+                    <div class="modal-dialog modal-lg">
+                        <div class="bgBleuCard modal-content">
+
+                            <!-- Modal Header -->
+                            <div>
+                                <button type="button" class="close textBlanc" data-dismiss="modal">X</button>
+                            </div>
+                            <div class="textBlanc text-center">
+                                <h4 class="modal-title">Poisson-lune</h4>
+                                <h5 class="card-text tex">3 1/2 ans et +</h5>
+                            </div>
+                            <!-- Modal body -->
+                            <div class="modal-body text-center">
+                                <div class="container-fluid p-0">
+                                    <h5>Session automne 2019</h5>
+                                    <div class="row">
+                                        <div class="col-3">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Vendredi</h6>
+                                                <p class="horaireTexte">20 septembre <br>au<br>15 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBlancCard ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>a</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>A</h5>
+                                                            <p>18:00<br>à<br>18:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>B</h5>
+                                                            <p>18:30<br>à<br>19:00</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>C</h5>
+                                                            <p>19:00<br>à<br>19:30</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-3">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Samedi</h6>
+                                                <p class="horaireTexte">21 septembre <br>au<br>16 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBleuCardHoraire ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>D</h5>
+                                                            <p>9:30<br>à<br>10:00</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>E</h5>
+                                                            <p>10:00<br>à<br>10:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>F</h5>
+                                                            <p>10:30<br>à<br>11:00</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>11:30<br>à<br>12:00</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard mt-2 mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>11:30<br>à<br>12:00</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-3">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Dimanche</h6>
+                                                <p class="horaireTexte">22 septembre <br>au<br>17 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBleuCardHoraire ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>G</h5>
+                                                            <p>9:30<br>à<br>10:00</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>H</h5>
+                                                            <p>10:00<br>à<br>10:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>a</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>I</h5>
+                                                            <p>11:00<br>à<br>11:30</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-3">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Mercredi</h6>
+                                                <p class="horaireTexte">25 septembre <br>au<br>13 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBlancCard ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>a</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>a</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>a</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>a</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>J</h5>
+                                                            <p>18:00<br>à<br>18:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>K</h5>
+                                                            <p>18:30<br>à<br>19:00</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>L</h5>
+                                                            <p>19:00<br>à<br>19:30</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Modal footer -->
+                            <div class="modal-footer">
+                                <div class="col-12">
+                                    <div class="text-center">
+                                        <a href="#" class="btn btnBlancInscription">Inscription</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Modal end -->
             </div>
+
+            <!-- Crocodile -->
+
             <div class="col-sm-6 col-md-6 col-lg-3 p-0 pb-2 pr-sm-1 pb-md-1 pl-lg-1">
                 <div id="crocodileShow" class="p-0 containerFiltre">
                     <div class="filtre"></div>
@@ -440,12 +1153,220 @@
                             <p class="card-text w-100 textBlanc pl-3 pr-3">L'enfant doit immerger son visage dans l'eau.<br>Pas d'adulte dans l'eau.<br>Doit flotter à la surface de l'eau sans aide et sans flotteurs.<br>Casque de bain obligatoire.</p>
                             <p class="card-text w-100 textBlanc pl-3 pr-3">68,72 $</p>
                             <div class="container btnTop">
-                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Horaire</a>
+                                <button type="button" class="btn btnBlancCard" data-toggle="modal" data-target="#crocodile">
+                                    Horaire
+                                </button>
                             </div>
                         </div>
                     </div>
                 </div>
+                <!-- The Modal Crocodile -->
+                <div class="modal fade" id="crocodile">
+                    <div class="modal-dialog modal-lg">
+                        <div class="bgBleuCard modal-content">
+
+                            <!-- Modal Header -->
+                            <div>
+                                <button type="button" class="close textBlanc" data-dismiss="modal">X</button>
+                            </div>
+                            <div class="textBlanc text-center">
+                                <h4 class="modal-title">Crocodile</h4>
+                                <h5 class="card-text tex">4 ans et +</h5>
+                            </div>
+                            <!-- Modal body -->
+                            <div class="modal-body text-center">
+                                <div class="container-fluid p-0">
+                                    <h5>Session automne 2019</h5>
+                                    <div class="row">
+                                        <div class="col-3">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Vendredi</h6>
+                                                <p class="horaireTexte">20 septembre <br>au<br>15 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBlancCard ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>a</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>A</h5>
+                                                            <p>18:00<br>à<br>18:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>B</h5>
+                                                            <p>18:30<br>à<br>19:00</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>C</h5>
+                                                            <p>19:00<br>à<br>19:30</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-3">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Samedi</h6>
+                                                <p class="horaireTexte">21 septembre <br>au<br>16 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBleuCardHoraire ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>D</h5>
+                                                            <p>9:30<br>à<br>10:00</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>E</h5>
+                                                            <p>10:00<br>à<br>10:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>F</h5>
+                                                            <p>10:30<br>à<br>11:00</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>11:30<br>à<br>12:00</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard mt-2 mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>11:30<br>à<br>12:00</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-3">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Dimanche</h6>
+                                                <p class="horaireTexte">22 septembre <br>au<br>17 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBleuCardHoraire ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>G</h5>
+                                                            <p>9:30<br>à<br>10:00</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>H</h5>
+                                                            <p>10:00<br>à<br>10:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>a</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>I</h5>
+                                                            <p>11:00<br>à<br>11:30</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-3">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Mercredi</h6>
+                                                <p class="horaireTexte">25 septembre <br>au<br>13 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBlancCard ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>a</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>a</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>a</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>a</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>J</h5>
+                                                            <p>18:00<br>à<br>18:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>K</h5>
+                                                            <p>18:30<br>à<br>19:00</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>L</h5>
+                                                            <p>19:00<br>à<br>19:30</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Modal footer -->
+                            <div class="modal-footer">
+                                <div class="col-12">
+                                    <div class="text-center">
+                                        <a href="#" class="btn btnBlancInscription">Inscription</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Modal end -->
             </div>
+
+            <!-- Baleine -->
+
             <div class="col-sm-6 col-md-6 col-lg-3 p-0 pl-sm-1">
                 <div id="baleineShow" class="p-0 containerFiltre">
                     <div class="filtre"></div>
@@ -469,11 +1390,144 @@
                             <p class="card-text w-100 textBlanc pl-3 pr-3">L'enfant doit immeeger son visage dans l'eau.<br>Pas d'adulte dans l'eau.<br>Doit flotter et nager à la surface de l'eau sans aide et sans flotteurs.<br>L'enfant nagera dans la partie profonde de la piscine.<br>Casque de bain obligatoire.</p>
                             <p class="card-text w-100 textBlanc pl-3 pr-3">68,72 $</p>
                             <div class="container btnTop">
-                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Horaire</a>
+                                <button type="button" class="btn btnBlancCard" data-toggle="modal" data-target="#baleine">
+                                    Horaire
+                                </button>
                             </div>
                         </div>
                     </div>
                 </div>
+                <!-- The Modal Baleine -->
+                <div class="modal fade" id="baleine">
+                    <div class="modal-dialog modal-lg">
+                        <div class="bgBleuCard modal-content">
+
+                            <!-- Modal Header -->
+                            <div>
+                                <button type="button" class="close textBlanc" data-dismiss="modal">X</button>
+                            </div>
+                            <div class="textBlanc text-center">
+                                <h4 class="modal-title">Baleine</h4>
+                                <h5 class="card-text tex">4 à 6 ans</h5>
+                            </div>
+                            <!-- Modal body -->
+                            <div class="modal-body text-center">
+                                <div class="container-fluid p-0">
+                                    <h5>Session automne 2019</h5>
+                                    <div class="row">
+                                        <div class="col-3">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Vendredi</h6>
+                                                <p class="horaireTexte">20 septembre <br>au<br>15 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBlancCard ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>x</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>a</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>A</h5>
+                                                            <p>18:00<br>à<br>18:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>B</h5>
+                                                            <p>19:00<br>à<br>19:30</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-3">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Samedi</h6>
+                                                <p class="horaireTexte">21 septembre <br>au<br>16 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBleuCardHoraire mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>C</h5>
+                                                            <p>9:30<br>à<br>10:00</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-3">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Dimanche</h6>
+                                                <p class="horaireTexte">22 septembre <br>au<br>17 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBleuCardHoraire ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>D</h5>
+                                                            <p>9:30<br>à<br>10:00</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>E</h5>
+                                                            <p>10:15<br>à<br>10:45</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-3">
+                                            <div class="container bgBlancCard">
+                                                <h6 class="horaireTitre pt-3">Mercredi</h6>
+                                                <p class="horaireTexte">25 septembre <br>au<br>13 novembre</p>
+                                                <div class="row">
+                                                    <div class="container bgBlancCard ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>a</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBlancCard mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>a</h5>
+                                                            <p>9:00<br>à<br>9:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>F</h5>
+                                                            <p>18:00<br>à<br>18:30</p>
+                                                        </div>
+                                                    </div>
+                                                    <div class="container bgBleuCardHoraire mt-2 mb-3 ml-4 mr-4">
+                                                        <div class="pt-3 textBlanc">
+                                                            <h5>G</h5>
+                                                            <p>18:30<br>à<br>19:00</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Modal footer -->
+                            <div class="modal-footer">
+                                <div class="col-12">
+                                    <div class="text-center">
+                                        <a href="#" class="btn btnBlancInscription">Inscription</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Modal end -->
             </div>
         </div>
         <div class="row text-right">
@@ -495,6 +1549,9 @@
             </div>
         </div>
         <div class="row pb-1">
+
+            <!-- Niveau 3 -->
+
             <div class="col-sm-6 col-md-6 col-lg-3 p-0 pb-2 pr-sm-1 pb-sm-2 pb-md-2">
                 <div id="niveau3Show" class="p-0 containerFiltre">
                     <div class="filtre"></div>
@@ -517,12 +1574,17 @@
                             <p class="card-text w-100 textBlanc pl-3 pr-3">Casque de bain obligatoire.</p>
                             <p class="card-text w-100 textBlanc pl-3 pr-3">77,41 $</p>
                             <div class="container btnTop">
-                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Horaire</a>
+                                <button type="button" class="btn btnBlancCard" data-toggle="modal" data-target="#niveau3">
+                                    Horaire
+                                </button>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+
+            <!-- Niveau 4 -->
+
             <div class="col-sm-6 col-md-6 col-lg-3 p-0 pb-2 pl-sm-1 pb-sm-2 pb-md-1 pr-lg-1">
                 <div id="niveau4Show" class="p-0 containerFiltre">
                     <div class="filtre"></div>
@@ -545,12 +1607,17 @@
                             <p class="card-text w-100 textBlanc pl-3 pr-3">Casque de bain obligatoire.</p>
                             <p class="card-text w-100 textBlanc pl-3 pr-3">77,41 $</p>
                             <div class="container btnTop">
-                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Horaire</a>
+                                <button type="button" class="btn btnBlancCard" data-toggle="modal" data-target="#niveau4">
+                                    Horaire
+                                </button>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+
+            <!-- Niveau 5 -->
+
             <div class="col-sm-6 col-md-6 col-lg-3 p-0 pb-2 pr-sm-1 pb-md-0 pl-lg-1">
                 <div id="niveau5Show" class="p-0 containerFiltre">
                     <div class="filtre"></div>
@@ -573,12 +1640,17 @@
                             <p class="card-text w-100 textBlanc pl-3 pr-3">Casque de bain obligatoire.</p>
                             <p class="card-text w-100 textBlanc pl-3 pr-3">77,41 $</p>
                             <div class="container btnTop">
-                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Horaire</a>
+                                <button type="button" class="btn btnBlancCard" data-toggle="modal" data-target="#niveau5">
+                                    Horaire
+                                </button>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+
+            <!-- Niveau 6 -->
+
             <div class="col-sm-6 col-md-6 col-lg-3 p-0 pb-2 pl-sm-1">
                 <div id="niveau6Show" class="p-0 containerFiltre">
                     <div class="filtre"></div>
@@ -601,13 +1673,18 @@
                             <p class="card-text w-100 textBlanc pl-3 pr-3">Casque de bain obligatoire.</p>
                             <p class="card-text w-100 textBlanc pl-3 pr-3">77,41 $</p>
                             <div class="container btnTop">
-                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Horaire</a>
+                                <button type="button" class="btn btnBlancCard" data-toggle="modal" data-target="#niveau6">
+                                    Horaire
+                                </button>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+
+        <!-- Niveau 7 -->
+
         <div class="row pt-1">
             <div class="col-sm-6 col-md-6 col-lg-3 p-0 pb-2 pr-sm-1 pb-sm-2 pb-md-2">
                 <div id="niveau7Show" class="p-0 containerFiltre">
@@ -631,12 +1708,17 @@
                             <p class="card-text w-100 textBlanc pl-3 pr-3">Casque de bain obligatoire.</p>
                             <p class="card-text w-100 textBlanc pl-3 pr-3">77,41 $</p>
                             <div class="container btnTop">
-                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Horaire</a>
+                                <button type="button" class="btn btnBlancCard" data-toggle="modal" data-target="#niveau7">
+                                    Horaire
+                                </button>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+
+            <!-- Niveau 8 -->
+
             <div class="col-sm-6 col-md-6 col-lg-3 p-0 pb-2 pl-sm-1 pb-sm-2 pb-md-2 pr-lg-1">
                 <div id="niveau8Show" class="p-0 containerFiltre">
                     <div class="filtre"></div>
@@ -659,12 +1741,17 @@
                             <p class="card-text w-100 textBlanc pl-3 pr-3">Casque de bain obligatoire.</p>
                             <p class="card-text w-100 textBlanc pl-3 pr-3">77,41 $</p>
                             <div class="container btnTop">
-                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Horaire</a>
+                                <button type="button" class="btn btnBlancCard" data-toggle="modal" data-target="#niveau8">
+                                    Horaire
+                                </button>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+
+            <!-- Niveau 9 -->
+
             <div class="col-sm-6 col-md-6 col-lg-3 p-0 pb-2 pr-sm-1 pb-md-1 pl-lg-1">
                 <div id="niveau9Show" class="p-0 containerFiltre">
                     <div class="filtre"></div>
@@ -687,12 +1774,17 @@
                             <p class="card-text w-100 textBlanc pl-3 pr-3">Casque de bain obligatoire.</p>
                             <p class="card-text w-100 textBlanc pl-3 pr-3">77,41 $</p>
                             <div class="container btnTop">
-                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Horaire</a>
+                                <button type="button" class="btn btnBlancCard" data-toggle="modal" data-target="#niveau9">
+                                    Horaire
+                                </button>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+
+            <!-- Niveau 10 -->
+
             <div class="col-sm-6 col-md-6 col-lg-3 p-0 pl-sm-1">
                 <div id="niveau10Show" class=" p-0 containerFiltre">
                     <div class="filtre"></div>
@@ -715,7 +1807,9 @@
                             <p class="card-text w-100 textBlanc pl-3 pr-3">Casque de bain obligatoire.</p>
                             <p class="card-text w-100 textBlanc pl-3 pr-3">77,41 $</p>
                             <div class="container btnTop">
-                                <a href="http://d17iwc.expertiseweb.ca/ProjetSynthese/nosCours.php#nataion" class="btn btnBlancCard">Horaire</a>
+                                <button type="button" class="btn btnBlancCard" data-toggle="modal" data-target="#niveau10">
+                                    Horaire
+                                </button>
                             </div>
                         </div>
                     </div>
