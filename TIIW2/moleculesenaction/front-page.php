@@ -117,10 +117,10 @@ $wpb_all_query = new WP_Query(array('post_type'=>'post', 'post_status'=>'publish
                         <h2 class="textBlanc pb-4">À la une!</h2>
                         <h5><?php the_title(); ?></h5>
                         <?php the_excerpt(); ?>
-                        <P class="w-100 text-right pr-2"><?php the_time('m/j/y') ?></P>
+                        <P class="w-100 text-right pr-2"><?php the_time('j F y') ?></P>
                         <div class="row w-100 text-center">
                             <div class="container pt-4">
-                                <a href="http://d17iwc.expertiseweb.ca/molecules/nouvelles/#important" class="btn btnBlanc">Lire +</a>
+                                <a href="http://d17iwc.expertiseweb.ca/molecules/nouvelles/#aLaUne" class="btn btnBlanc">Lire +</a>
                             </div>
                         </div>
                     </div>

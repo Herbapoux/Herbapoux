@@ -37,7 +37,7 @@ $wpb_all_query = new WP_Query(array('post_type'=>'post', 'post_status'=>'publish
                             <div class="row textBlanc text-center pt-5 pb-5 p-3">
                                 <h4 class="w-100"><?php the_title(); ?></h4><!-- Titre de l'article -->
                                 <?php the_content(); ?><!-- extrait de l'article -->
-                                <P class="w-100 text-right pr-2 m-0"><?php the_time('m/j/y') ?></P><!-- Date -->
+                                <P class="w-100 text-right pr-2 m-0"><?php the_time('j F y') ?></P><!-- Date -->
                             </div>
                         </div>
                     <?php endwhile; ?>
@@ -62,32 +62,32 @@ $wpb_all_query = new WP_Query(array('post_type'=>'post', 'post_status'=>'publish
 $wpb_all_query = new WP_Query(array('post_type'=>'post', 'post_status'=>'publish', 'orderby' => 'date', 'order'=>'DESC', 'posts_per_page'=> 1, 'cat' => 1)); ?>
 
 
-<section id="aLaUne" class="container-fluid bgBleu align-items-center">
-    <div class="container">
+<section id="aLaUne" class="bgBleu align-items-center">
+    <div class="container pt-5 pb-5">
+        <div class="row">
+            <h2 class="textBlanc pb-4">À la une!</h2>
+        </div>
         <div class="row">
             <div class="col-12 d-flex flex-wrap align-items-center">
-                <div class="container pt-5 pb-5">
-                    <h2 class="textBlanc pb-4">À la une!</h2>
-                    <div class="offset-sm-1 col-sm-10 offset-md-2 col-md-8">
-                        <?php if ( $wpb_all_query->have_posts() ) : ?>
+                <div class="offset-sm-1 col-sm-10 offset-md-2 col-md-8">
+                    <?php if ( $wpb_all_query->have_posts() ) : ?>
 
-                            <!-- Début de la boucle Important -->
-                            <?php while ( $wpb_all_query->have_posts() ) : $wpb_all_query->the_post(); ?>
+                        <!-- Début de la boucle Important -->
+                        <?php while ( $wpb_all_query->have_posts() ) : $wpb_all_query->the_post(); ?>
 
-                                <?php the_post_thumbnail ('full', array( 'class' => 'img-fluid' )); ?><!-- Image mise en avant -->
-                                <h5 class="textBlanc pt-3"><?php the_title(); ?></h5>
-                                <?php the_content(); ?><!-- extrait de l'article -->
-                                <P class="w-100 textBlanc text-right pr-2 m-0"><?php the_time('m/j/y') ?></P>
-                            <?php endwhile; ?>
-                            <!-- Fin de la boucle Important-->
+                            <?php the_post_thumbnail ('full', array( 'class' => 'img-fluid' )); ?><!-- Image mise en avant -->
+                            <h5 class="textBlanc pt-3"><?php the_title(); ?></h5>
+                            <?php the_content(); ?><!-- extrait de l'article -->
+                            <P class="w-100 textBlanc text-right pr-2 m-0"><?php the_time('j F y') ?></P>
+                        <?php endwhile; ?>
+                        <!-- Fin de la boucle Important-->
 
 
-                            <?php wp_reset_postdata(); ?>
+                        <?php wp_reset_postdata(); ?>
 
-                        <?php else : ?>
-                            <?php _e( 'Sorry, no posts matched your criteria.' ); ?>
-                        <?php endif; ?>
-                    </div>
+                    <?php else : ?>
+                        <?php _e( 'Sorry, no posts matched your criteria.' ); ?>
+                    <?php endif; ?>
                 </div>
             </div>
         </div>
@@ -99,12 +99,10 @@ $wpb_all_query = new WP_Query(array('post_type'=>'post', 'post_status'=>'publish
 <?php
 // the query
 $wpb_all_query = new WP_Query(array('post_type'=>'post', 'post_status'=>'publish', 'orderby' => 'date', 'order'=>'DESC', 'posts_per_page'=> 5, 'cat' => 1, 'offset' => 1)); ?>
-<section id="autres" class="pt-5">
-    <div class="container">
+<section id="autres" class="">
+    <div class="container pt-5 pb-5">
         <div class="row pb-3">
-            <div class="col">
-                <h2>Autres...</h2>
-            </div>
+            <h2>Autres...</h2>
         </div>
         <?php if ( $wpb_all_query->have_posts() ) : ?>
 
@@ -115,11 +113,11 @@ $wpb_all_query = new WP_Query(array('post_type'=>'post', 'post_status'=>'publish
                         <div class="pr-5">
                             <h5 class="textNoir"><?php the_title(); ?></h5>
                             <?php the_content(); ?><!-- extrait de l'article -->
-                            <P class="w-100 text-right m-0"><?php the_time('m/j/y') ?></P>
+                            <P class="w-100 text-right m-0"><?php the_time('j F y') ?></P>
                         </div>
                     </div>
-                    <div class="col-6 d-none d-md-block">
-                        <?php the_post_thumbnail ('full', array( 'class' => 'img-fluid' )); ?><!-- Image mise en avant -->
+                    <div class="col-6 text-center d-none d-md-block">
+                        <?php the_post_thumbnail ('medium', array( 'class' => 'img-fluid' )); ?><!-- Image mise en avant -->
                     </div>
                 </div>
             <?php endwhile; ?>

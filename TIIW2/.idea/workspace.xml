@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ff4d429-cfd9-4082-9854-8989924532f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/moleculesenaction/front-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/moleculesenaction/front-page.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/moleculesenaction/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/moleculesenaction/home.php" afterDir="false" />
     </list>
@@ -13,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ProjetSynthese/nouvelles.php">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/moleculesenaction/front-page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43">
-              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            <state relative-caret-position="509">
+              <caret line="122" column="98" selection-start-line="122" selection-start-column="98" selection-end-line="122" selection-end-column="98" />
             </state>
           </provider>
         </entry>
@@ -34,8 +35,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/moleculesenaction/home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="592">
-              <caret line="162" selection-start-line="162" selection-end-line="162" />
+            <state relative-caret-position="511">
+              <caret line="39" column="90" selection-start-line="39" selection-start-column="90" selection-end-line="39" selection-end-column="90" />
             </state>
           </provider>
         </entry>
@@ -49,23 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/moleculesenaction/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="592">
-              <caret line="87" selection-start-line="87" selection-end-line="87" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/moleculesenaction/templateNouvelles.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-              <folding>
-                <element signature="e#6#98#0#PHP" expanded="true" />
-              </folding>
+            <state relative-caret-position="384">
+              <caret line="60" column="118" selection-start-line="60" selection-start-column="111" selection-end-line="60" selection-end-column="118" />
             </state>
           </provider>
         </entry>
@@ -174,15 +163,15 @@
         <option value="$PROJECT_DIR$/moleculesenaction/inc/natation/info/tortue-de-mer.php" />
         <option value="$PROJECT_DIR$/moleculesenaction/index.php" />
         <option value="$PROJECT_DIR$/moleculesenaction/templateNouvelles.php" />
-        <option value="$PROJECT_DIR$/ProjetSynthese/nouvelles.php" />
         <option value="$PROJECT_DIR$/moleculesenaction/style.css" />
         <option value="/private/var/folders/1f/bfc5ytjx41z0dls4146f_2gw0000gn/T/fz3temp-2/wp-config.php" />
         <option value="$PROJECT_DIR$/moleculesenaction/js/projetSynthese.js" />
         <option value="$PROJECT_DIR$/moleculesenaction/functions.php" />
-        <option value="$PROJECT_DIR$/moleculesenaction/home.php" />
-        <option value="$PROJECT_DIR$/moleculesenaction/front-page.php" />
         <option value="$PROJECT_DIR$/moleculesenaction/footer.php" />
         <option value="$PROJECT_DIR$/moleculesenaction/header.php" />
+        <option value="$PROJECT_DIR$/moleculesenaction/home.php" />
+        <option value="$PROJECT_DIR$/ProjetSynthese/nouvelles.php" />
+        <option value="$PROJECT_DIR$/moleculesenaction/front-page.php" />
       </list>
     </option>
   </component>
@@ -370,12 +359,12 @@
       <workItem from="1571227001385" duration="19237000" />
       <workItem from="1571399808992" duration="14666000" />
       <workItem from="1571435934971" duration="6115000" />
-      <workItem from="1571486999473" duration="3091000" />
+      <workItem from="1571486999473" duration="4795000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="622932000" />
+    <option name="totallyTimeSpent" value="624636000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-28" y="28" width="1275" height="777" extended-state="0" />
@@ -620,41 +609,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/moleculesenaction/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ProjetSynthese/nousJoindre.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1260">
           <caret line="84" column="61" lean-forward="true" selection-start-line="84" selection-start-column="61" selection-end-line="84" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/moleculesenaction/templateNouvelles.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-          <folding>
-            <element signature="e#6#98#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ProjetSynthese/nouvelles.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/moleculesenaction/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="162" selection-start-line="162" selection-end-line="162" />
         </state>
       </provider>
     </entry>
@@ -672,24 +630,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/moleculesenaction/front-page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="214" lean-forward="true" selection-start-line="214" selection-end-line="214" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../../../../../home.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../Système de gestion de contenu/Épreuves/poulin_yannick_TP_FINAL/tp_final/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="30" column="56" selection-start-line="30" selection-end-line="31" />
         </state>
       </provider>
     </entry>
@@ -720,10 +664,55 @@
     <entry file="file:///private/var/folders/1f/bfc5ytjx41z0dls4146f_2gw0000gn/T/fz3temp-2/templateBase.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/moleculesenaction/templateNouvelles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding>
+            <element signature="e#6#98#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moleculesenaction/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../Système de gestion de contenu/Épreuves/poulin_yannick_TP_FINAL/tp_final/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="30" column="73" selection-start-line="30" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moleculesenaction/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="39" column="90" selection-start-line="39" selection-start-column="90" selection-end-line="39" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjetSynthese/nouvelles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="38" column="90" selection-start-line="38" selection-start-column="85" selection-end-line="38" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/moleculesenaction/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="87" selection-start-line="87" selection-end-line="87" />
+        <state relative-caret-position="384">
+          <caret line="60" column="118" selection-start-line="60" selection-start-column="111" selection-end-line="60" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moleculesenaction/front-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="122" column="98" selection-start-line="122" selection-start-column="98" selection-end-line="122" selection-end-column="98" />
         </state>
       </provider>
     </entry>
