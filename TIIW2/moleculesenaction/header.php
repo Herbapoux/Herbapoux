@@ -49,7 +49,7 @@
                 ) );
                 ?>
             </div>
-            <div class="navbar-nav ml-auto">
+            <div class="navbar-nav">
                 <a class="nav-item nav-link btnVert" href="#inscription">Inscription</a>
             </div>
         </div>
