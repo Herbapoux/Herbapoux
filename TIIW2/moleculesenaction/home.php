@@ -130,29 +130,6 @@ $wpb_all_query = new WP_Query(array('post_type'=>'post', 'post_status'=>'publish
     </div>
 </section>
 
-<!-- Pagination -->
-
-<div class="container text-center pb-5 pt-5">
-    <nav aria-label="Page navigation example">
-        <ul class="pagination pagination-lg justify-content-center m-0 pg-blue">
-            <li class="page-item">
-                <a class="page-link" aria-label="Previous">
-                    <span aria-hidden="true">&laquo;</span>
-                    <span class="sr-only">Previous</span>
-                </a>
-            </li>
-            <li class="page-item"><a class="page-link">1</a></li>
-            <li class="page-item"><a class="page-link">2</a></li>
-            <li class="page-item"><a class="page-link">3</a></li>
-            <li class="page-item">
-                <a class="page-link" aria-label="Next">
-                    <span aria-hidden="true">&raquo;</span>
-                    <span class="sr-only">Next</span>
-                </a>
-            </li>
-        </ul>
-    </nav>
-</div>
 
 <!-- footer -->
 
