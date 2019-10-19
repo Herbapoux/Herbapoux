@@ -26,9 +26,9 @@
                         <?php while ( $wpb_all_query->have_posts() ) : $wpb_all_query->the_post(); ?>
                             <h5 class="text-center text-lg-left"><?php the_title(); ?></h5>
                             <?php the_excerpt(); ?>
-                                <div class="text-center text-lg-right">
-                                    <a href="http://d17iwc.expertiseweb.ca/molecules/nouvelles/#important" class="btn btnVert">En savoir +</a>
-                                </div>
+                            <div class="text-center text-lg-right">
+                                <a href="http://d17iwc.expertiseweb.ca/molecules/nouvelles/#important" class="btn btnVert">En savoir +</a>
+                            </div>
                         <?php endwhile; ?>
                         <!-- end of the loop -->
 
@@ -104,29 +104,29 @@
 
 <?php
 // the query
-$wpb_all_query = new WP_Query(array('post_type'=>'post', 'post_status'=>'publish', 'order'=>'ASC', 'posts_per_page'=>-3, 'cat' => 4)); ?>
+$wpb_all_query = new WP_Query(array('post_type'=>'post', 'post_status'=>'publish', 'orderby' => 'date', 'order'=>'DESC', 'posts_per_page'=> 1, 'cat' => 1)); ?>
 
 <section id="privé" class="container-fluid d-none d-sm-block bgBleu">
     <div class="container py-5">
         <div class="row">
             <?php if ( $wpb_all_query->have_posts() ) : ?>
 
-            <!-- the loop -->
-            <?php while ( $wpb_all_query->have_posts() ) : $wpb_all_query->the_post(); ?>
-                <div class="col-lg-6 d-flex flex-wrap align-items-center">
-                    <h2 class="textBlanc pb-4">À la une!</h2>
-                    <h5><?php the_title(); ?></h5>
-                    <?php the_excerpt(); ?>
-                    <P class="w-100 text-right pr-2"><?php the_time('m/j/y') ?></P>
-                    <div class="row w-100 text-center">
-                        <div class="container pt-4">
-                            <a href="http://d17iwc.expertiseweb.ca/molecules/nouvelles/#important" class="btn btnBlanc">Lire +</a>
+                <!-- the loop -->
+                <?php while ( $wpb_all_query->have_posts() ) : $wpb_all_query->the_post(); ?>
+                    <div class="col-lg-6 d-flex flex-wrap align-items-center">
+                        <h2 class="textBlanc pb-4">À la une!</h2>
+                        <h5><?php the_title(); ?></h5>
+                        <?php the_excerpt(); ?>
+                        <P class="w-100 text-right pr-2"><?php the_time('m/j/y') ?></P>
+                        <div class="row w-100 text-center">
+                            <div class="container pt-4">
+                                <a href="http://d17iwc.expertiseweb.ca/molecules/nouvelles/#important" class="btn btnBlanc">Lire +</a>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-6 d-none d-lg-block">
-                   <?php the_post_thumbnail ('medium_large'); ?><!-- Image mise en avant -->
-                </div>
+                    <div class="col-lg-6 d-none d-lg-block">
+                        <?php the_post_thumbnail ('medium_large', array( 'class' => 'img-fluid' )); ?><!-- Image mise en avant -->
+                    </div>
                 <?php endwhile; ?>
 
                 <!-- end of the loop -->
