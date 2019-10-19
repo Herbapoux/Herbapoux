@@ -1,0 +1,712 @@
+html, body{
+    margin: 0;
+    height: 100%;
+    font-size: 16px;
+    font-family: "Montserrat Regular";
+}
+
+h1{
+    font-size: 5rem;
+    color: white;
+    font-family: "Montserrat ExtraBold";
+}
+
+h2{
+    font-size: 4rem;
+    color: rgb(102,164,127);
+    font-family: "Montserrat Black";
+}
+
+h3{
+    font-family: "Montserrat SemiBold";
+    color: white;
+    font-size: 2.8rem;
+    opacity: 0.8;
+    text-shadow: -1px 0 gray, 0 1px grey, 1px 0 grey, 0 -1px grey;
+    z-index: 1;
+}
+
+h4{
+    font-family: "Montserrat Bold";
+    color: white;
+    font-size: 2.5rem;
+}
+
+h5{
+    font-family: "Montserrat SemiBold";
+    color: white;
+    font-size: 1.5rem;
+}
+
+@font-face {
+    font-family: 'Montserrat ExtraBold';
+    src: url("../Font/MontserratExtraBold.ttf");
+}
+
+@font-face {
+    font-family: 'Montserrat Black';
+    src: url("../Font/MontserratBlack.ttf");
+}
+
+@font-face {
+    font-family: 'Montserrat SemiBold';
+    src: url("../Font/MontserratSemiBold.ttf");
+}
+
+@font-face {
+    font-family: 'Montserrat Bold';
+    src: url("../Font/MontserratBold.ttf");
+}
+
+@font-face {
+    font-family: 'Montserrat Regular';
+    src: url("../Font/MontserratRegular.ttf");
+}
+
+hr{
+    border-top: 1px solid white;
+}
+
+.footer{
+    color: white;
+}
+
+.bgBlancCard{
+    background-color: white;
+    border-radius: 20px;
+}
+
+.bgBleu{
+    background-color: rgba(42,125,169,0.3);
+}
+
+.bgBleuCard{
+    background-color: rgb(42,125,169);
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.bgBleuCardHoraire{
+    background-color: rgba(42,125,169,1);
+    border-radius: 20px;
+}
+
+.bgBleuFooter2{
+    background-color: rgb(1,111,170);
+}
+
+.bgBleuFooter{
+    background-color: rgba(42,125,169,0.7);
+}
+
+.bgAlaUne{
+    background-image: url("../img/JeuneGarconContent.jpeg");
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.imageMaxime{
+    position: center;
+    width: auto;}
+
+.bgAlaUneNouvelles{
+    background-image: url("../img/JeuneGarconContent.jpeg");
+    height: 428px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* effet image */
+
+.hovereffect {
+    position: relative;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    transition: all 1s ease;
+    -webkit-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+}
+
+.hovereffect:hover {
+    background-size: 120%;
+}
+
+.hovereffect .overlay-bleu {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 5;
+    border-radius: 4px;
+    background: rgba(0, 0, 0, 0);
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    mix-blend-mode: multiply;
+}
+
+.hovereffect:hover .overlay-bleu {
+    background: rgba(0, 114, 188, 0.7)
+}
+
+.hovereffect .zone-texte {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 6;
+}
+
+.hovereffect .zone-texte h5 {
+    color: #fff;
+    font-size: 1.3rem
+}
+
+.hovereffect .zone-texte p {
+    color: #fff;
+    font-size: 1rem
+}
+
+.hovereffect .zone-texte a.btn-light {
+    background-color: transparent;
+    color: #fff
+}
+
+.hovereffect:hover .zone-texte p a.btn-light {
+    background-color: #f8f9fa;
+    color: #212529
+}
+
+/* fin effet image */
+
+.bgCardioBebe{
+    background-image: url("../img/CardioBebe.jpg");
+}
+
+.bgCardioSecours{
+    background-image: url("../img/CardioSecours.jpg");
+}
+
+.bgSoinsImmediats{
+    background-image: url("../img/SoinsImmediats.jpg");
+}
+
+.bgAquaforme{
+    background-image: url("../img/aquaforme.jpg");
+}
+
+.bgEtoile{
+    background-image: url("../img/EtoileDeMer.jpg");
+}
+
+.bgCanard{
+    background-image: url("../img/Canard.jpg");
+}
+
+.bgTortue{
+    background-image: url("../img/Tortue.jpg");
+}
+
+.bgLoutre{
+    background-image: url("../img/LoutreDeMer.jpg");
+}
+
+.bgSalamandre{
+    background-image: url("../img/Salamandre.jpg");
+}
+
+.bgPoisson{
+    background-image: url("../img/Poisson.jpg");
+}
+
+.bgCrocodile{
+    background-image: url("../img/Crocodile.jpg");
+}
+
+.bgBaleine{
+    background-image: url("../img/Baleine.jpg");
+}
+
+.bgJunior3{
+    background-image: url("../img/Junior3.jpg");
+}
+
+.bgJunior4{
+    background-image: url("../img/Junior4.jpg");
+}
+
+.bgJunior5{
+    background-image: url("../img/Junior5.jpg");
+}
+
+.bgJunior6{
+    background-image: url("../img/Junior6.jpg");
+}
+
+.bgJunior7{
+    background-image: url("../img/Junior7.jpg");
+}
+
+.bgJunior8{
+    background-image: url("../img/Junior8.jpg");
+}
+
+.bgJunior9{
+    background-image: url("../img/Junior9.jpg");
+}
+
+.bgJunior10{
+    background-image: url("../img/Junior10.jpg");
+}
+
+.bgSpecialisee{
+    background-image: url("../img/Specialisee.jpg");
+}
+
+.bgprenataux{
+    background-image: url("../img/Prenataux.jpg");
+}
+
+.bgSecourisme{
+    background-image: url("../img/Secourisme.jpg");
+}
+
+.bgComptable{
+    background-image: url("../img/Comptable.jpg");
+}
+
+.bgSauveteur{
+    background-image: url("../img/Sauveteur.jpg");
+}
+
+.bgIndi{
+    background-image: url("../img/Individuel.jpg");
+}
+
+.bgGroupe{
+    background-image: url("../img/Groupe.jpg");
+}
+
+.bgNatation{
+    background-image: url("../img/Natation.jpg");
+}
+
+.bgMassage{
+    background-image: url("../img/Massage.jpg");
+}
+
+.bgPetitesmolecules{
+    background-image: url("../img/PetitesMolecules.jpg");
+}
+
+.bgVert{
+    background-color: rgb(102,164,127);
+}
+
+.bgVertImportant{
+    background-color: rgb(102,164,127);
+    border-radius: 2em;
+    border-width: 2px;
+}
+
+.btnBlanc{
+    border-radius: 0.38em;
+    border-color: white;
+    border-width: 2px;
+    font-size: 1em;
+    color: white;
+}
+
+.btnBlancCard{
+    background-color: white;
+    border-radius: 0.38em;
+    border-width: 2px;
+    font-size: 1em;
+    color: rgb(42,125,169);
+    font-family: "Montserrat Bold";
+
+}
+
+.btnTop{
+    z-index: 1;
+}
+
+.btnBlancInscription{
+    border-radius: 0.38em;
+    border-color: white;
+    border-width: 2px;
+    font-size: 1.5em;
+    font-family: "Montserrat SemiBold";
+    color: white;
+}
+
+.btnBlancNatation{
+    opacity: 1;
+    z-index: 1;
+    font-family: "Montserrat Regular";
+    font-size: 1.5rem;
+    padding-top: 1rem;
+}
+
+.btnBlancP{
+    opacity: .8;
+    z-index: 1;
+    font-family: "Montserrat Regular";
+    font-size: 2.5rem;
+    padding-top: 1rem;
+}
+
+.btnVert{
+    border-radius: 0.38em;
+    background-color: rgb(102,164,127);
+    border-width: 2px;
+    font-size: 1em;
+    color: white;
+}
+
+.card-text{
+    z-index: 1;
+}
+
+.card-title{
+    opacity: 1;
+    font-family: "Montserrat SemiBold";
+}
+
+.carte{
+    height: 100%;
+    max-width: 100%;
+}
+
+.container-fluid{
+    width: 100%;
+}
+
+.CroixRouge{
+    height: 50px;
+    z-index: 1;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+.fab{
+    color: white;
+}
+
+.filtre{
+     height: 100%;
+     width: 100%;
+     background-color: rgba(42,125,169,0.3);
+     opacity: 0.7;
+     position: relative;
+ }
+
+.filtreAccueil{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(42,125,169,0.4);
+    opacity: 0.7;
+    position: absolute;
+}
+
+.containerFiltre{
+    position: relative;
+}
+
+.hamburger{
+    color: white;
+}
+
+.horaireTitre{
+    font-size: 1rem;
+    font-family: "Montserrat SemiBold";
+}
+
+.horaireTexte{
+    font-size: .8rem;
+}
+
+.hrVert{
+    border-top: 1px solid;
+    border-color: rgb(102,164,127);
+}
+
+.imageMenu{
+    width: 60px;
+    margin: 0 auto;
+}
+
+.parallax{
+    background-image: url("../img/accueil.jpg");
+    background-attachment: fixed;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    position: center;
+    display: flex;
+}
+
+.parallaxPlongeon{
+    background-image: url("../img/Plongeon.jpg");
+    background-attachment: fixed;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    position: center;
+    display: flex;
+
+}
+
+.textBlanc{
+    color: white;
+    z-index: 1;
+}
+
+.textNoir{
+    color: black;
+    z-index: 1;
+}
+
+.textMenu{
+    font-size: 1.3rem;
+    font-family: "Montserrat Regular";
+}
+
+@media screen and (max-width: 1999px){
+    .bgImage
+}
+
+@media screen and (max-width: 991px){
+    .nav-item .navbar-expand-lg .nav-link {
+        text-align: center;
+        margin-left: auto;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    .textContact{
+        font-size: 1.3rem;
+    }
+    h2{
+        font-size: 3.5rem;
+    }
+    h3{
+        font-size: 2rem;
+    }
+    h4{
+        font-size: 1.8rem;
+    }
+    h5{
+        font-size: 1.4rem;
+    }
+}
+
+@media screen and (max-width: 767px){
+    h1{
+        font-size: 4rem;
+    }
+
+    .carte{
+        height: 300px;
+
+    }
+}
+
+@media screen and (max-width: 413px) {
+
+    .textDroitsReserves{
+        font-size: .6rem;
+    }
+
+    h1{
+        font-size: 3.2rem;
+    }
+
+    h2{
+        font-size: 2.3rem;
+    }
+
+    h3{
+        font-size: 1.7rem;
+    }
+    h4{
+        font-size: 1.7rem;
+    }
+    h5{
+        font-size: 1.1rem;
+    }
+}
+
+
+/****************** Section du pagination *******************/
+
+.page-item{
+    color: rgb(102,164,127)
+}
+
+.pagination{
+    font-size: 2em;
+    font-family: "Montserrat SemiBold";
+}
+/****************** Section du Navbar *******************/
+
+.navbar {
+    background-color: rgb(1,111,170);
+    box-shadow: 0 0 10px 0 rgba(50,50,50,.3);
+    border-bottom: 1px white solid;
+}
+.navbar .navbar-brand {
+    color: #ffffff;
+}
+.navbar .navbar-brand:hover,
+.navbar .navbar-brand:focus {
+    color: #000000;
+}
+.navbar .navbar-text {
+    color: #ffffff;
+}
+.navbar .navbar-text a {
+    color: #000000;
+}
+.navbar .navbar-text a:hover,
+.navbar .navbar-text a:focus {
+    color: #000000;
+}
+.navbar .navbar-nav .nav-link {
+    color: #ffffff;
+    border-radius: .25rem;
+    margin: 0 0.25em;
+}
+.navbar .navbar-nav .nav-link:not(.disabled):hover,
+.navbar .navbar-nav .nav-link:not(.disabled):focus {
+    color: #000000;
+}
+.navbar .navbar-nav .dropdown-menu {
+    background-color: rgba(1,111,170,0.7);
+    border-color: #ffffff;
+}
+.navbar .navbar-nav .dropdown-menu .dropdown-item {
+    color: #ffffff;
+}
+.navbar .navbar-nav .dropdown-menu .dropdown-item:hover,
+.navbar .navbar-nav .dropdown-menu .dropdown-item:focus,
+.navbar .navbar-nav .dropdown-menu .dropdown-item.active {
+    color: #000000;
+    background-color: #ffffff;
+}
+.navbar .navbar-nav .dropdown-menu .dropdown-divider {
+    border-top-color: #ffffff;
+}
+.navbar .navbar-nav .nav-item.active .nav-link,
+.navbar .navbar-nav .nav-item.active .nav-link:hover,
+.navbar .navbar-nav .nav-item.active .nav-link:focus,
+.navbar .navbar-nav .nav-item.show .nav-link,
+.navbar .navbar-nav .nav-item.show .nav-link:hover,
+.navbar .navbar-nav .nav-item.show .nav-link:focus {
+    color: #000000;
+    background-color: #ffffff;
+}
+.navbar .navbar-toggle {
+    border-color: #ffffff;
+}
+.navbar .navbar-toggle:hover,
+.navbar .navbar-toggle:focus {
+    background-color: #ffffff;
+}
+.navbar .navbar-toggle .navbar-toggler-icon {
+    color: #ffffff;
+}
+.navbar .navbar-collapse,
+.navbar .navbar-form {
+    border-color: #ffffff;
+}
+.navbar .navbar-link {
+    color: #ffffff;
+}
+.navbar .navbar-link:hover {
+    color: #000000;
+}
+
+@media (max-width: 575px) {
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #ffffff;
+    }
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #000000;
+    }
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #000000;
+        background-color: #ffffff;
+    }
+}
+
+@media (max-width: 767px) {
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #ffffff;
+    }
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #000000;
+    }
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #000000;
+        background-color: #ffffff;
+    }
+}
+
+@media (max-width: 991px) {
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #ffffff;
+    }
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #000000;
+    }
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #000000;
+        background-color: #ffffff;
+    }
+}
+
+@media (max-width: 1199px) {
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #ffffff;
+    }
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #000000;
+    }
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #000000;
+        background-color: #ffffff;
+    }
+}
+
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item {
+    color: #ffffff;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+    color: #000000;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item.active {
+    color: #000000;
+    background-color: #ffffff;
+}
+
+
+

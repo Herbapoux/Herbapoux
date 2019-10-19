@@ -20,7 +20,7 @@ h2{
 h3{
     font-family: "Montserrat SemiBold";
     color: white;
-    font-size: 3.1rem;
+    font-size: 2.8rem;
     opacity: 0.8;
     text-shadow: -1px 0 gray, 0 1px grey, 1px 0 grey, 0 -1px grey;
     z-index: 1;
@@ -33,6 +33,7 @@ h4{
 }
 
 h5{
+    font-family: "Montserrat SemiBold";
     color: white;
     font-size: 1.5rem;
 }
@@ -80,7 +81,7 @@ hr{
 }
 
 .bgBleuCard{
-    background-color: rgba(42,125,169,0.8);
+    background-color: rgb(42,125,169);
     border-radius: 20px;
     padding: 20px;
 }
@@ -99,11 +100,10 @@ hr{
 }
 
 .bgAlaUne{
-    background-image: url("../img/JeuneGarconContent.jpeg");
-    height: 576px;
+    background-image: url("../img/JeuneGarconContent.jpg");
+    height: 400px;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
 }
 
 .imageMaxime{
@@ -111,108 +111,200 @@ hr{
     width: auto;}
 
 .bgAlaUneNouvelles{
-    background-image: url("../img/JeuneGarconContent.jpeg");
+    background-image: url("../img/JeuneGarconContent.jpg");
     height: 428px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-.bgImage1 {
+/* effet image */
+
+.hovereffect {
+    position: relative;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    transition: all 1s ease;
+    -webkit-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+}
+
+.hovereffect:hover {
+    background-size: 120%;
+}
+
+.hovereffect .overlay-bleu {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 5;
+    border-radius: 4px;
+    background: rgba(0, 0, 0, 0);
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    mix-blend-mode: multiply;
+}
+
+.hovereffect:hover .overlay-bleu {
+    background: rgba(0, 114, 188, 0.7)
+}
+
+.hovereffect .zone-texte {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 6;
+}
+
+.hovereffect .zone-texte h5 {
+    color: #fff;
+    font-size: 1.3rem
+}
+
+.hovereffect .zone-texte p {
+    color: #fff;
+    font-size: 1rem
+}
+
+.hovereffect .zone-texte a.btn-light {
+    background-color: transparent;
+    color: #fff
+}
+
+.hovereffect:hover .zone-texte p a.btn-light {
+    background-color: #f8f9fa;
+    color: #212529
+}
+
+/* fin effet image */
+
+.bgCardioBebe{
+    background-image: url("../img/CardioBebe.jpg");
+}
+
+.bgCardioSecours{
+    background-image: url("../img/CardioSecours.jpg");
+}
+
+.bgSoinsImmediats{
+    background-image: url("../img/SoinsImmediats.jpg");
+}
+
+.bgAquaforme{
+    background-image: url("../img/aquaforme.jpg");
+}
+
+.bgEtoile{
+    background-image: url("../img/EtoileDeMer.jpg");
+}
+
+.bgCanard{
+    background-image: url("../img/Canard.jpg");
+}
+
+.bgTortue{
+    background-image: url("../img/Tortue.jpg");
+}
+
+.bgLoutre{
+    background-image: url("../img/LoutreDeMer.jpg");
+}
+
+.bgSalamandre{
+    background-image: url("../img/Salamandre.jpg");
+}
+
+.bgPoisson{
+    background-image: url("../img/Poisson.jpg");
+}
+
+.bgCrocodile{
+    background-image: url("../img/Crocodile.jpg");
+}
+
+.bgBaleine{
+    background-image: url("../img/Baleine.jpg");
+}
+
+.bgJunior3{
+    background-image: url("../img/Junior3.jpg");
+}
+
+.bgJunior4{
+    background-image: url("../img/Junior4.jpg");
+}
+
+.bgJunior5{
+    background-image: url("../img/Junior5.jpg");
+}
+
+.bgJunior6{
+    background-image: url("../img/Junior6.jpg");
+}
+
+.bgJunior7{
+    background-image: url("../img/Junior7.jpg");
+}
+
+.bgJunior8{
+    background-image: url("../img/Junior8.jpg");
+}
+
+.bgJunior9{
+    background-image: url("../img/Junior9.jpg");
+}
+
+.bgJunior10{
+    background-image: url("../img/Junior10.jpg");
+}
+
+.bgSpecialisee{
+    background-image: url("../img/Specialisee.jpg");
+}
+
+.bgprenataux{
+    background-image: url("../img/Prenataux.jpg");
+}
+
+.bgSecourisme{
+    background-image: url("../img/Secourisme.jpg");
+}
+
+.bgComptable{
+    background-image: url("../img/Comptable.jpg");
+}
+
+.bgSauveteur{
+    background-image: url("../img/Sauveteur.jpg");
+}
+
+.bgIndi{
+    background-image: url("../img/Individuel.jpg");
+}
+
+.bgGroupe{
+    background-image: url("../img/Groupe.jpg");
+}
+
+.bgNatation{
     background-image: url("../img/Natation.jpg");
-    height: 428px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
-.bgImage1Card {
-    background-image: url("../img/Natation.jpg");
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    border-radius: 20px;
+.bgMassage{
+    background-image: url("../img/Massage.jpg");
 }
 
-.bgImage2{
-    background-image: url("../img/Aquaforme.jpg");
-    height: 428px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.bgImage3{
-    background-image: url("../img/Sauveteur.jpg");
-    height: 428px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.bgImageSauveteur{
-    background-image: url("../img/Sauveteur.jpg");
-    height: 428px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.bgPrescolaire{
-    background-image: url("../img/Natation.jpg");
-    height: 200px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.bgImageMassage{
-    background-image: url("../img/Aquaforme.jpg");
-    height: 210px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.bgImagePetiteMolecule{
-    background-image: url("../img/Aquaforme.jpg");
-    height: 210px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.bgImageComptable{
-    background-image: url("../img/Sauveteur.jpg");
-    height: 210px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.bgImageMoniteur{
-    background-image: url("../img/Sauveteur.jpg");
-    height: 210px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.bgImageNatationIndi{
-    background-image: url("../img/EnfantPlanche.jpg");
-    height: 428px;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.bgImageNatationGroupe{
-    background-image: url("../img/JuniorAmies.jpg");
-    height: 428px;
-    background-position: center ;
-    background-repeat: no-repeat;
-    background-size: cover;
+.bgPetitesmolecules{
+    background-image: url("../img/PetitesMolecules.jpg");
 }
 
 .bgVert{
@@ -294,10 +386,6 @@ hr{
     max-width: 100%;
 }
 
-.containerFiltre{
-    position: relative;
-}
-
 .container-fluid{
     width: 100%;
 }
@@ -316,11 +404,23 @@ hr{
 }
 
 .filtre{
-    width: 100%;
+     height: 100%;
+     width: 100%;
+     background-color: rgba(42,125,169,0.3);
+     opacity: 0.7;
+     position: relative;
+ }
+
+.filtreAccueil{
     height: 100%;
-    background-color: black;
-    opacity: 0.2;
+    width: 100%;
+    background-color: rgba(42,125,169,0.4);
+    opacity: 0.7;
     position: absolute;
+}
+
+.containerFiltre{
+    position: relative;
 }
 
 .hamburger{
@@ -346,12 +446,8 @@ hr{
     margin: 0 auto;
 }
 
-.imageHauteur{
-    height: 50%;
-}
-
 .parallax{
-    background: url("../img/bullesAccueil.jpg");
+    background-image: url("../img/accueil.jpg");
     background-attachment: fixed;
     background-position: bottom;
     background-repeat: no-repeat;
@@ -362,8 +458,8 @@ hr{
     display: flex;
 }
 
-.parallaxNatation{
-    background: url("../img/Natation.jpg");
+.parallaxPlongeon{
+    background-image: url("../img/Plongeon.jpg");
     background-attachment: fixed;
     background-position: bottom;
     background-repeat: no-repeat;
@@ -371,6 +467,8 @@ hr{
     height: 100%;
     width: 100%;
     position: center;
+    display: flex;
+
 }
 
 .textBlanc{
@@ -393,14 +491,11 @@ hr{
 }
 
 @media screen and (max-width: 991px){
-    .bgImage1, .bgImage2, .bgImage3{
-        max-height: 300px;
-    }
-    .bgImageSauveteur{
-        max-height: 300px;
-    }
-    .bgImageMassage, .bgImagePetiteMolecule, .bgImageMoniteur, .bgImageComptable{
-        max-height: 148px;
+    .nav-item .navbar-expand-lg .nav-link {
+        text-align: center;
+        margin-left: auto;
+        padding-left: 1rem;
+        padding-right: 1rem;
     }
     .textContact{
         font-size: 1.3rem;
@@ -423,9 +518,6 @@ hr{
     h1{
         font-size: 4rem;
     }
-    .bgImage1, .bgImage2, .bgImage3, .bgImageMassage, .bgImagePetiteMolecule, .bgImageSauveteur, .bgImageComptable, .bgImageMoniteur{
-        max-height: 210px;
-    }
 
     .carte{
         height: 300px;
@@ -434,9 +526,6 @@ hr{
 }
 
 @media screen and (max-width: 413px) {
-    .bgImage1, .bgImage2, .bgImage3, .bgImageMassage, .bgImagePetiteMolecule, .bgImageSauveteur, .bgImageComptable, .bgImageMoniteur{
-        max-height: 175px;
-    }
 
     .textDroitsReserves{
         font-size: .6rem;
@@ -476,6 +565,8 @@ hr{
 
 .navbar {
     background-color: rgb(1,111,170);
+    box-shadow: 0 0 10px 0 rgba(50,50,50,.3);
+    border-bottom: 1px white solid;
 }
 .navbar .navbar-brand {
     color: #ffffff;
