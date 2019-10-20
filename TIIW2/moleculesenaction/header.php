@@ -15,11 +15,11 @@
 
 <nav class="col-12 navbar navbar-expand-lg fixed-top textMenu">
     <div class="container-fluid">
-        <a class="navbar-brand p-0 ml-4 m-0" href="<?php echo home_url( '/' ); ?>">
+        <a class="navbar-brand p-0 m-0" href="<?php echo home_url( '/' ); ?>">
             <img src="/molecules/wp-content/themes/moleculesenaction/images/Logomolecule.jpg" class="imageMenu" alt="logo" title="logo"/>
         </a>
 
-        <div class="d-flex flex-row order-2 order-lg-3 align-items-center">
+        <div class="d-flex flex-row order-2 order-lg-3  align-items-center">
             <a class="nav-link" href="https://www.facebook.com/" target="_blank">
                 <i class="fab fa-facebook"></i>
             </a>

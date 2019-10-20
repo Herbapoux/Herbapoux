@@ -62,7 +62,7 @@ $wpb_all_query = new WP_Query(array('post_type'=>'post', 'post_status'=>'publish
 $wpb_all_query = new WP_Query(array('post_type'=>'post', 'post_status'=>'publish', 'orderby' => 'date', 'order'=>'DESC', 'posts_per_page'=> 1, 'cat' => 1)); ?>
 
 
-<section id="aLaUne" class="bgBleu align-items-center">
+<section id="aLaUne" class="container-fluid bgBleu align-items-center">
     <div class="container pt-5 pb-5">
         <div class="row">
             <h2 class="textBlanc pb-4">À la une!</h2>
@@ -99,7 +99,7 @@ $wpb_all_query = new WP_Query(array('post_type'=>'post', 'post_status'=>'publish
 <?php
 // the query
 $wpb_all_query = new WP_Query(array('post_type'=>'post', 'post_status'=>'publish', 'orderby' => 'date', 'order'=>'DESC', 'posts_per_page'=> 5, 'cat' => 1, 'offset' => 1)); ?>
-<section id="autres" class="">
+<section id="autres" class="container-fluid">
     <div class="container pt-5 pb-5">
         <div class="row pb-3">
             <h2>Autres...</h2>
@@ -109,12 +109,10 @@ $wpb_all_query = new WP_Query(array('post_type'=>'post', 'post_status'=>'publish
             <!-- Début de la boucle Important -->
             <?php while ( $wpb_all_query->have_posts() ) : $wpb_all_query->the_post(); ?>
                 <div class="row align-items-center pt-4 pb-4">
-                    <div class="col-12 col-md-6">
-                        <div class="pr-5">
+                    <div class="p-0 col-12 col-md-6">
                             <h5 class="textNoir"><?php the_title(); ?></h5>
                             <?php the_content(); ?><!-- extrait de l'article -->
                             <P class="w-100 text-right m-0"><?php the_time('j F y') ?></P>
-                        </div>
                     </div>
                     <div class="col-6 text-center d-none d-md-block">
                         <?php the_post_thumbnail ('medium', array( 'class' => 'img-fluid' )); ?><!-- Image mise en avant -->
