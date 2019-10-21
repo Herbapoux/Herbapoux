@@ -93,7 +93,7 @@ function disparaitreFlash()
 }
 
 //Flash se téléporte sous ces boutons et retourne en haut lorsque l'on clique de nouveau.
-$("#boutonTeleport").click(function () {
+$("#aerobiqueHoraire").click(function () {
 
     $('#flashID').toggle();
     $('#flashIDTeleport').toggle();
