@@ -51,7 +51,7 @@
             <div class="row col-12 offset-md-1 col-md-10 text-center">
                 <div class="navbar-nav col-12 col-sm-4">
                     <h5><a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/molecules/">Nos cours</a></h5>
-                    <a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/molecules/">Natation</a>
+                    <a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/molecules/nos-cours/#prive">Natation</a>
                     <a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/molecules/nos-cours/#aquaforme">Aquaforme</a>
                     <a class="dropdown-item textBlanc" href="http://d17iwc.expertiseweb.ca/molecules/nos-cours/#secourisme">Secourisme</a>
                 </div>

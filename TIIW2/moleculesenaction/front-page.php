@@ -106,7 +106,7 @@
 // the query
 $wpb_all_query = new WP_Query(array('post_type'=>'post', 'post_status'=>'publish', 'orderby' => 'date', 'order'=>'DESC', 'posts_per_page'=> 1, 'cat' => 1)); ?>
 
-<section id="privé" class="container-fluid d-none d-sm-block bgBleu">
+<section id="" class="container-fluid d-none d-sm-block bgBleu">
     <div class="container py-5">
         <div class="row">
             <?php if ( $wpb_all_query->have_posts() ) : ?>
@@ -143,7 +143,7 @@ $wpb_all_query = new WP_Query(array('post_type'=>'post', 'post_status'=>'publish
 
 <!-- Extras -->
 
-<section id="privé" class="container-fluid">
+<section id="" class="container-fluid">
     <div class="container pt-5 pb-5">
         <div class="row">
             <div class="col-6 col-md-12 w-100">
